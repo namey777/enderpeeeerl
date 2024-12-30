@@ -682,3 +682,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Dec2024 16:31:14.857] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 30
 [30Dec2024 16:31:41.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Starcrack_FW357> hd
 [30Dec2024 16:34:33.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 fell from a high place
+[30Dec2024 16:38:16.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 fell from a high place
+[30Dec2024 16:38:26.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 fell from a high place
+[30Dec2024 16:42:59.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[30Dec2024 16:43:06.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the weather to clear]
+[30Dec2024 16:43:17.591] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:shipwreck took 376 ms
+[30Dec2024 16:43:27.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to 1056.500000, 90.000000, -271.500000]
+[30Dec2024 16:43:27.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6786ms or 135 ticks behind
+[30Dec2024 16:43:27.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Starcrack_FW357 moved too quickly! 0.0,-10.806526110008988,0.0
+[30Dec2024 16:43:42.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[30Dec2024 16:44:21.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Applied effect Night Vision to Starcrack_FW357]
+[30Dec2024 16:47:55.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[30Dec2024 16:48:07.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to 181.500000, 90.500000, 86.500000]

@@ -13,6 +13,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2024-12-30 16:43:28 +0000",
       "minecraft:cherry_grove": "2024-12-29 20:20:09 +0000",
       "minecraft:sunflower_plains": "2024-12-29 20:20:39 +0000",
       "minecraft:birch_forest": "2024-12-26 17:47:31 +0000",
@@ -4201,6 +4202,12 @@
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2024-12-30 15:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-30 16:43:55 +0000"
     },
     "done": true
   },
