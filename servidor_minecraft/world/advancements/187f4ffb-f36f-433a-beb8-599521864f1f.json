@@ -1624,6 +1624,7 @@
       "minecraft:cave_spider": "2024-12-26 19:34:19 +0000",
       "minecraft:stray": "2024-12-26 20:34:32 +0000",
       "minecraft:enderman": "2024-12-29 20:41:39 +0000",
+      "minecraft:silverfish": "2024-12-30 17:25:32 +0000",
       "minecraft:zombie": "2024-12-26 20:27:17 +0000",
       "minecraft:drowned": "2024-12-29 18:07:14 +0000",
       "minecraft:zombie_villager": "2024-12-26 19:13:41 +0000"
@@ -3766,15 +3767,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-30 17:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-30 17:10:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2024-12-30 16:36:54 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-30 17:10:02 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2024-12-30 17:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-30 17:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-30 17:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-30 17:10:02 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/misc/quickfiring_mechanism": {
     "criteria": {
       "has_lever": "2024-12-30 16:58:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2024-12-30 17:10:02 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-30 17:11:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-30 17:11:05 +0000"
     },
     "done": true
   },

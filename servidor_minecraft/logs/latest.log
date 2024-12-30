@@ -698,3 +698,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Dec2024 16:49:53.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
 [30Dec2024 16:59:07.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the weather to clear]
 [30Dec2024 16:59:19.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[30Dec2024 17:13:42.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[30Dec2024 17:15:48.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Gave 1 [Debug Stick] to Starcrack_FW357]
+[30Dec2024 17:15:52.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[30Dec2024 17:16:42.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[30Dec2024 17:24:29.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 has made the advancement [What a Deal!]
+[30Dec2024 17:36:24.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 tried to swim in lava to escape Skeleton
+[30Dec2024 17:36:37.195] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/53598, l='ServerLevel[New World]', x=100.70, y=12.00, z=7.87] died: Zombie Player tried to swim in lava
+[30Dec2024 17:36:42.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Starcrack_FW357> pìjsdtghtopijdghgñopijfgh
+[30Dec2024 17:38:02.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Spectator Mode]
+[30Dec2024 17:38:09.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[30Dec2024 17:38:24.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to 181.500000, 90.500000, 86.500000]
