@@ -4199,15 +4199,39 @@
     },
     "done": true
   },
+  "jeg:blueprint_workbench": {
+    "criteria": {
+      "Item": "2024-12-30 16:45:14 +0000"
+    },
+    "done": true
+  },
+  "jeg:atlantean_spear": {
+    "criteria": {
+      "Item": "2024-12-30 16:47:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2024-12-30 15:54:29 +0000"
     },
     "done": true
   },
+  "jeg:firearm_blueprint": {
+    "criteria": {
+      "Item": "2024-12-30 16:45:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2024-12-30 16:43:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-30 16:52:30 +0000"
     },
     "done": true
   },

@@ -694,3 +694,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Dec2024 16:44:21.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Applied effect Night Vision to Starcrack_FW357]
 [30Dec2024 16:47:55.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
 [30Dec2024 16:48:07.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to 181.500000, 90.500000, 86.500000]
+[30Dec2024 16:49:47.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[30Dec2024 16:49:53.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
