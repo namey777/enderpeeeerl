@@ -10709,3 +10709,34 @@ java.lang.Throwable: null
 [30Dec2024 16:14:26.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 was doomed to fall
 [30Dec2024 16:14:35.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
 [30Dec2024 16:14:35.069] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[30Dec2024 16:19:35.027] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[30Dec2024 16:19:35.037] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[30Dec2024 16:24:35.055] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[30Dec2024 16:24:35.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[30Dec2024 16:26:20.551] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@6dc55ac6]Trying to start horde event on day 30 with nextDay 30 and time 18000
+[30Dec2024 16:26:20.556] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@12cf7283
+[30Dec2024 16:26:20.559] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[30Dec2024 16:26:20.560] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[30Dec2024 16:26:20.560] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[30Dec2024 16:26:20.560] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[30Dec2024 16:26:20.611] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+[30Dec2024 16:26:20.612] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 30
+[30Dec2024 16:26:20.613] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}]}} to hordespawn on day 30
+[30Dec2024 16:27:04.797] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@440278c]Trying to start horde event on day 30 with nextDay 30 and time 18885
+[30Dec2024 16:27:04.798] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@3027ec45
+[30Dec2024 16:27:04.798] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[30Dec2024 16:27:04.798] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[30Dec2024 16:27:04.799] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[30Dec2024 16:27:04.799] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[30Dec2024 16:27:04.847] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+[30Dec2024 16:27:04.848] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 30
+[30Dec2024 16:27:04.848] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 30
+[30Dec2024 16:27:10.604] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+[30Dec2024 16:27:10.605] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 30
+[30Dec2024 16:27:10.606] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 30
+[30Dec2024 16:27:54.856] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+[30Dec2024 16:27:54.857] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 30
+[30Dec2024 16:27:54.858] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 30
+[30Dec2024 16:28:00.597] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+[30Dec2024 16:28:00.598] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 30
+[30Dec2024 16:28:00.599] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 30
