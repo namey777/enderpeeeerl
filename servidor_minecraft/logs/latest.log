@@ -875,3 +875,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Dec2024 20:27:17.710] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=84, y=18, z=42} BlockPos{x=84, y=18, z=43}
 [30Dec2024 20:27:50.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
 [30Dec2024 20:28:10.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 fell from a high place
+[30Dec2024 20:35:55.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[30Dec2024 20:38:40.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[30Dec2024 20:38:42.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 fell from a high place
+[30Dec2024 20:39:19.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 was killed
+[30Dec2024 20:39:19.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Killed Starcrack_FW357]
+[30Dec2024 20:43:00.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[30Dec2024 20:44:04.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 fell from a high place
+[30Dec2024 20:44:04.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was slain by Zombie
+[30Dec2024 20:44:24.197] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Starcrack_FW357'/156013, l='ServerLevel[New World]', x=182.41, y=87.00, z=105.59] died: Zombie Player was slain by Starcrack_FW357
+[30Dec2024 20:49:09.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 was doomed to fall by Skeleton
+[30Dec2024 20:49:14.150] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Athryus97 lost connection: Disconnected
+[30Dec2024 20:49:14.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 left the game
+[30Dec2024 20:54:14.296] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Starcrack_FW357 lost connection: Disconnected
+[30Dec2024 20:54:14.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 left the game
+[30Dec2024 20:54:24.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[30Dec2024 20:54:24.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Dec2024 20:54:24.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Dec2024 20:54:24.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Dec2024 20:54:25.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[30Dec2024 20:54:25.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[30Dec2024 20:54:25.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/lostcities:lostcity
+[30Dec2024 20:54:25.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[30Dec2024 20:54:25.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Dec2024 20:54:25.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Dec2024 20:54:25.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[30Dec2024 20:54:25.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Dec2024 20:54:25.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[30Dec2024 20:54:25.474] [Server thread/INFO] [Framework/]: Unloading server configs...
+[30Dec2024 20:54:25.476] [Server thread/INFO] [Framework/]: Finished unloading server configs
