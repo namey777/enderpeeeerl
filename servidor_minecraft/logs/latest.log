@@ -862,3 +862,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Dec2024 20:17:01.450] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Starcrack_FW357'/144980, l='ServerLevel[New World]', x=213.04, y=90.00, z=155.83] died: Zombie Player tried to swim in lava
 [30Dec2024 20:18:26.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Athryus97> t
 [30Dec2024 20:18:30.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Starcrack_FW357> tt
+[30Dec2024 20:21:44.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to 213.500000, 90.500000, 155.500000]
+[30Dec2024 20:21:46.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 tried to swim in lava
+[30Dec2024 20:21:48.894] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Starcrack_FW357'/147209, l='ServerLevel[New World]', x=213.50, y=90.00, z=155.50] died: Zombie Player tried to swim in lava
+[30Dec2024 20:23:35.497] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/142967, l='ServerLevel[New World]', x=102.56, y=30.00, z=36.50] died: Zombie Player was shot by Starcrack_FW357
+[30Dec2024 20:26:26.002] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Starcrack_FW357'/142959, l='ServerLevel[New World]', x=52.50, y=24.00, z=54.54] died: Zombie Player was shot by Starcrack_FW357
+[30Dec2024 20:27:02.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 fell from a high place
+[30Dec2024 20:27:14.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=19, z=40} BlockPos{x=82, y=17, z=39}
+[30Dec2024 20:27:14.503] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=19, z=40} BlockPos{x=82, y=17, z=39}
+[30Dec2024 20:27:17.555] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=84, y=18, z=42} BlockPos{x=84, y=19, z=44}
+[30Dec2024 20:27:17.606] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=84, y=18, z=41} BlockPos{x=84, y=19, z=44}
+[30Dec2024 20:27:17.710] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=84, y=18, z=42} BlockPos{x=84, y=18, z=43}
+[30Dec2024 20:27:50.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[30Dec2024 20:28:10.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 fell from a high place
