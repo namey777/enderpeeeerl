@@ -712,3 +712,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Dec2024 17:42:22.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 has made the advancement [Best Friends Forever]
 [30Dec2024 17:47:45.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to 818.500000, 63.500000, 39.500000]
 [30Dec2024 17:48:41.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to 181.500000, 90.500000, 86.500000]
+[30Dec2024 17:49:08.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[30Dec2024 17:49:17.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to 5.500000, 95.500000, 86.500000]
+[30Dec2024 17:50:20.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to 181.500000, 90.500000, 86.500000]
+[30Dec2024 17:52:51.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was slain by Zombie
+[30Dec2024 17:56:23.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[30Dec2024 17:57:59.400] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/64329, l='ServerLevel[New World]', x=110.20, y=47.00, z=40.40] died: Zombie Player was shot by Athryus97
+[30Dec2024 17:58:30.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 tried to swim in lava
+[30Dec2024 17:58:43.308] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/66538, l='ServerLevel[New World]', x=97.37, y=16.00, z=9.37] died: Zombie Player tried to swim in lava
+[30Dec2024 18:02:46.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 tried to swim in lava
+[30Dec2024 18:03:04.651] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/68407, l='ServerLevel[New World]', x=96.50, y=16.25, z=18.77] died: Zombie Player burned to death
+[30Dec2024 18:04:57.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[30Dec2024 18:05:02.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Spectator Mode]
+[30Dec2024 18:05:04.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[30Dec2024 18:05:12.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[30Dec2024 18:05:55.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Spectator Mode]
+[30Dec2024 18:05:58.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
