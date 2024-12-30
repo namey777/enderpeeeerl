@@ -787,3 +787,78 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Dec2024 19:46:30.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 has made the advancement [A Throwaway Joke]
 [30Dec2024 19:47:42.815] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/128522, l='ServerLevel[New World]', x=181.76, y=90.00, z=96.68] died: Zombie Player was shot by Starcrack_FW357
 [30Dec2024 19:49:48.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[30Dec2024 19:52:38.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[30Dec2024 19:52:52.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[30Dec2024 19:53:06.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Athryus97> tyh
+[30Dec2024 19:54:11.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Spectator Mode]
+[30Dec2024 19:54:12.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[30Dec2024 19:54:16.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[30Dec2024 19:55:58.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Starcrack_FW357> ujunmdth
+[30Dec2024 19:57:18.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[30Dec2024 19:57:29.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[30Dec2024 19:57:37.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[30Dec2024 19:57:39.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[30Dec2024 19:58:01.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Spectator Mode]
+[30Dec2024 19:58:03.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[30Dec2024 19:58:08.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Spectator Mode]
+[30Dec2024 19:58:12.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[30Dec2024 19:58:29.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Summoned new Unemployed]
+[30Dec2024 19:59:19.812] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/136842, l='ServerLevel[New World]', x=199.65, y=90.00, z=75.88] died, message: 'Unemployed was shot by Starcrack_FW357'
+[30Dec2024 20:01:48.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Athryus97> t
+[30Dec2024 20:01:55.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Starcrack_FW357> felicidades
+[30Dec2024 20:05:17.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Athryus97> T
+[30Dec2024 20:05:24.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Starcrack_FW357> :(
+[30Dec2024 20:05:59.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Starcrack_FW357> :(
+[30Dec2024 20:06:12.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Starcrack_FW357> :3
+[30Dec2024 20:06:24.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Starcrack_FW357> :)
+[30Dec2024 20:06:30.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Athryus97> UwU
+[30Dec2024 20:06:36.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Starcrack_FW357> XD
+[30Dec2024 20:06:52.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Starcrack_FW357> zecso
+[30Dec2024 20:07:07.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Starcrack_FW357> endeeeeeeeeeeeeeeeeeeeeeeeeeeeeerperrrrl
+[30Dec2024 20:07:28.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Starcrack_FW357> pooooooooooocioooooon de venenoooo 2
+[30Dec2024 20:08:17.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 fell from a high place
+[30Dec2024 20:08:26.901] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@440278c]Trying to start horde event on day 41 with nextDay 40 and time 18000
+[30Dec2024 20:08:26.902] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@255da15a
+[30Dec2024 20:08:26.902] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+[30Dec2024 20:08:26.902] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 30
+[30Dec2024 20:08:26.902] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 30
+[30Dec2024 20:08:26.950] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 40
+[30Dec2024 20:08:26.951] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 40
+[30Dec2024 20:08:26.951] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[30Dec2024 20:08:26.951] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=40,maxDay=40] to hordespawn on day 40
+[30Dec2024 20:08:26.951] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 40
+[30Dec2024 20:08:34.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[30Dec2024 20:08:41.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[30Dec2024 20:09:16.951] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 40
+[30Dec2024 20:09:16.952] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 40
+[30Dec2024 20:09:16.952] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[30Dec2024 20:09:16.953] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=40,maxDay=40] to hordespawn on day 40
+[30Dec2024 20:09:16.953] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 40
+[30Dec2024 20:10:06.965] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 40
+[30Dec2024 20:10:06.966] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 40
+[30Dec2024 20:10:06.967] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[30Dec2024 20:10:06.969] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=40,maxDay=40] to hordespawn on day 40
+[30Dec2024 20:10:06.969] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 40
+[30Dec2024 20:10:56.973] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 40
+[30Dec2024 20:10:56.973] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 40
+[30Dec2024 20:10:56.974] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[30Dec2024 20:10:56.974] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=40,maxDay=40] to hordespawn on day 40
+[30Dec2024 20:10:56.975] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 40
+[30Dec2024 20:10:59.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the weather to clear]
+[30Dec2024 20:11:46.994] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 40
+[30Dec2024 20:11:46.994] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 40
+[30Dec2024 20:11:46.994] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[30Dec2024 20:11:46.995] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=40,maxDay=40] to hordespawn on day 40
+[30Dec2024 20:11:46.995] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 40
+[30Dec2024 20:12:36.976] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 40
+[30Dec2024 20:12:36.976] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 40
+[30Dec2024 20:12:36.977] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[30Dec2024 20:12:36.977] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=40,maxDay=40] to hordespawn on day 40
+[30Dec2024 20:12:36.977] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 40
+[30Dec2024 20:13:03.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 fell from a high place
+[30Dec2024 20:13:03.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was doomed to fall by Zombie Horse
+[30Dec2024 20:15:18.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Starcrack_FW357> o8ysrgos
+[30Dec2024 20:16:58.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 tried to swim in lava
+[30Dec2024 20:17:01.450] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Starcrack_FW357'/144980, l='ServerLevel[New World]', x=213.04, y=90.00, z=155.83] died: Zombie Player tried to swim in lava
+[30Dec2024 20:18:26.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Athryus97> t
+[30Dec2024 20:18:30.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Starcrack_FW357> tt

@@ -1619,6 +1619,7 @@
       "minecraft:skeleton": "2024-12-26 21:57:59 +0000",
       "minecraft:spider": "2024-12-26 20:31:14 +0000",
       "minecraft:creeper": "2024-12-29 16:23:21 +0000",
+      "minecraft:zombified_piglin": "2024-12-30 20:14:17 +0000",
       "minecraft:witch": "2024-12-26 20:34:02 +0000",
       "minecraft:husk": "2024-12-26 20:22:03 +0000",
       "minecraft:cave_spider": "2024-12-26 19:34:19 +0000",
@@ -3815,6 +3816,12 @@
     },
     "done": true
   },
+  "railways:recipes/transportation/benchcart": {
+    "criteria": {
+      "hasitem": "2024-12-30 20:08:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2024-12-30 19:41:44 +0000"
@@ -3836,6 +3843,12 @@
   "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-30 17:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-30 20:08:24 +0000"
     },
     "done": true
   },
@@ -3869,6 +3882,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-12-30 20:08:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2024-12-30 17:10:02 +0000"
@@ -3893,6 +3912,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-30 20:08:24 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/misc/quickfiring_mechanism": {
     "criteria": {
       "has_lever": "2024-12-30 16:58:07 +0000"
@@ -3902,6 +3927,12 @@
   "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-30 17:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-30 20:08:24 +0000"
     },
     "done": true
   },
@@ -3920,6 +3951,12 @@
   "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-30 17:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-30 20:08:24 +0000"
     },
     "done": true
   },
@@ -3962,6 +3999,12 @@
   "createbigcannons:recipes/misc/proximity_fuze": {
     "criteria": {
       "has_iron_bars": "2024-12-30 19:22:49 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/transportation/jukeboxcart": {
+    "criteria": {
+      "hasitem": "2024-12-30 20:08:24 +0000"
     },
     "done": true
   },

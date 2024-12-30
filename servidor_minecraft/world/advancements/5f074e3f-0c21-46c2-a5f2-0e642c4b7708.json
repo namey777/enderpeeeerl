@@ -1286,9 +1286,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-26 18:44:42 +0000",
+      "minecraft:zoglin": "2024-12-30 20:15:37 +0000",
       "minecraft:spider": "2024-12-26 20:29:06 +0000",
       "minecraft:creeper": "2024-12-26 19:01:39 +0000",
       "minecraft:phantom": "2024-12-30 18:26:53 +0000",
+      "minecraft:zombified_piglin": "2024-12-30 20:14:37 +0000",
       "minecraft:witch": "2024-12-29 17:31:46 +0000",
       "minecraft:husk": "2024-12-26 20:22:06 +0000",
       "minecraft:cave_spider": "2024-12-26 19:35:24 +0000",
@@ -4234,6 +4236,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-30 20:15:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2024-12-30 18:55:26 +0000"
@@ -4255,6 +4263,12 @@
   "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-30 18:17:37 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/transportation/benchcart": {
+    "criteria": {
+      "hasitem": "2024-12-30 20:17:57 +0000"
     },
     "done": true
   },
@@ -4291,6 +4305,12 @@
   "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-30 18:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-30 20:17:57 +0000"
     },
     "done": true
   },
@@ -4336,6 +4356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-12-30 20:17:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2024-12-30 15:54:29 +0000"
@@ -4372,6 +4398,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-30 20:15:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2024-12-30 19:50:13 +0000"
+    },
+    "done": true
+  },
   "jeg:firearm_blueprint": {
     "criteria": {
       "Item": "2024-12-30 16:45:53 +0000"
@@ -4393,6 +4431,12 @@
   "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-30 18:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-30 20:17:57 +0000"
     },
     "done": true
   },
@@ -4420,9 +4464,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-12-30 19:50:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2024-12-30 17:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-30 20:17:57 +0000"
     },
     "done": true
   },
@@ -4453,6 +4509,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2024-12-30 18:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-30 20:17:57 +0000"
     },
     "done": true
   },
@@ -4525,6 +4587,18 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-12-30 18:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-12-30 19:50:13 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/transportation/jukeboxcart": {
+    "criteria": {
+      "hasitem": "2024-12-30 20:17:57 +0000"
     },
     "done": true
   },
