@@ -753,3 +753,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Dec2024 18:54:23.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
 [30Dec2024 18:58:26.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 tried to swim in lava
 [30Dec2024 18:58:40.949] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/102630, l='ServerLevel[New World]', x=92.30, y=19.00, z=20.30] died: Zombie Player was burnt to a crisp whilst fighting Athryus97
+[30Dec2024 19:11:33.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Applied effect Night Vision to Starcrack_FW357]
+[30Dec2024 19:11:41.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 drowned
+[30Dec2024 19:11:50.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to 429.500000, 54.500000, 177.500000]
+[30Dec2024 19:12:08.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Applied effect Night Vision to Starcrack_FW357]
+[30Dec2024 19:12:19.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Applied effect Water Breathing to Starcrack_FW357]
+[30Dec2024 19:16:20.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to 734.500000, 63.500000, -14.500000]
+[30Dec2024 19:18:38.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Athryus97> tsdfrgt
+[30Dec2024 19:18:51.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Athryus97> y
+[30Dec2024 19:20:19.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to 181.500000, 90.500000, 86.500000]
+[30Dec2024 19:24:28.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[30Dec2024 19:25:46.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the weather to clear]
+[30Dec2024 19:28:32.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to 680.500000, 60.500000, -15.500000]
