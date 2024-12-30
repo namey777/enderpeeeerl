@@ -10934,3 +10934,19 @@ java.lang.Throwable: null
 [30Dec2024 19:39:41.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
 [30Dec2024 19:39:41.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
 [30Dec2024 19:40:17.947] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[30Dec2024 19:41:01.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was impaled by Drowned
+[30Dec2024 19:41:07.971] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[30Dec2024 19:41:44.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 has made the advancement [A Throwaway Joke]
+[30Dec2024 19:41:57.972] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[30Dec2024 19:42:41.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was impaled by Drowned
+[30Dec2024 19:42:47.952] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[30Dec2024 19:43:10.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was shot by Starcrack_FW357
+[30Dec2024 19:43:30.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was impaled by Drowned
+[30Dec2024 19:44:34.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[30Dec2024 19:44:41.779] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[30Dec2024 19:44:41.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[30Dec2024 19:46:30.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 has made the advancement [A Throwaway Joke]
+[30Dec2024 19:47:42.815] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/128522, l='ServerLevel[New World]', x=181.76, y=90.00, z=96.68] died: Zombie Player was shot by Starcrack_FW357
+[30Dec2024 19:49:41.781] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[30Dec2024 19:49:41.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[30Dec2024 19:49:48.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]

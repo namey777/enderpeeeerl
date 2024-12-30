@@ -4258,6 +4258,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2024-12-30 19:46:30 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/misc/casting_sand": {
     "criteria": {
       "has_sand": "2024-12-30 19:29:52 +0000"
@@ -4507,6 +4513,12 @@
   "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-30 18:17:37 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/proximity_fuze": {
+    "criteria": {
+      "has_iron_bars": "2024-12-30 19:43:45 +0000"
     },
     "done": true
   },
