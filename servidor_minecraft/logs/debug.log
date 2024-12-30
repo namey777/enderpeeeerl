@@ -10818,3 +10818,10 @@ java.lang.Throwable: null
 [30Dec2024 17:38:02.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Spectator Mode]
 [30Dec2024 17:38:09.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
 [30Dec2024 17:38:24.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to 181.500000, 90.500000, 86.500000]
+[30Dec2024 17:39:41.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[30Dec2024 17:39:41.790] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[30Dec2024 17:42:22.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 has made the advancement [Best Friends Forever]
+[30Dec2024 17:44:41.775] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[30Dec2024 17:44:41.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[30Dec2024 17:47:45.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to 818.500000, 63.500000, 39.500000]
+[30Dec2024 17:48:41.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to 181.500000, 90.500000, 86.500000]
