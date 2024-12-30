@@ -629,3 +629,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Dec2024 15:51:02.698] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Athryus97[/127.250.247.16:58755] logged in with entity id 535 at (235.1456531357038, 89.0, 102.35381182632509)
 [30Dec2024 15:51:02.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 joined the game
 [30Dec2024 15:51:02.838] [Server thread/INFO] [Jade/]: Syncing config to Athryus97 (187f4ffb-f36f-433a-beb8-599521864f1f)
+[30Dec2024 16:10:53.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was slain by Spider
+[30Dec2024 16:12:07.801] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/9529, l='ServerLevel[New World]', x=188.62, y=89.00, z=78.29] died: Zombie Player was shot by Starcrack_FW357
+[30Dec2024 16:14:26.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 was doomed to fall
