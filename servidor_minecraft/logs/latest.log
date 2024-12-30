@@ -728,3 +728,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Dec2024 18:05:12.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
 [30Dec2024 18:05:55.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Spectator Mode]
 [30Dec2024 18:05:58.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[30Dec2024 18:13:09.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 tried to swim in lava
+[30Dec2024 18:13:21.846] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/71803, l='ServerLevel[New World]', x=97.48, y=14.00, z=10.57] died: Zombie Player tried to swim in lava
+[30Dec2024 18:16:41.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[30Dec2024 18:18:06.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Gave 4 [Torch] to Starcrack_FW357]
+[30Dec2024 18:18:22.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Spectator Mode]
+[30Dec2024 18:18:25.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[30Dec2024 18:18:51.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Spectator Mode]
+[30Dec2024 18:18:54.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[30Dec2024 18:19:22.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Spectator Mode]
+[30Dec2024 18:19:26.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[30Dec2024 18:19:28.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Spectator Mode]
+[30Dec2024 18:19:32.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[30Dec2024 18:29:24.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 tried to swim in lava
+[30Dec2024 18:29:27.445] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Starcrack_FW357'/83144, l='ServerLevel[New World]', x=157.24, y=94.00, z=150.45] died: Zombie Player tried to swim in lava
+[30Dec2024 18:34:26.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was slain by Silverfish
+[30Dec2024 18:37:51.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to 193.500000, 88.500000, 95.500000]
+[30Dec2024 18:39:20.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
