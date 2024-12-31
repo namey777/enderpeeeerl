@@ -859,3 +859,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Dec2024 16:20:19.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Applied effect Night Vision to Starcrack_FW357]
 [31Dec2024 16:24:09.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 tried to swim in lava
 [31Dec2024 16:25:05.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was slain by Cave Spider
+[31Dec2024 16:35:05.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
