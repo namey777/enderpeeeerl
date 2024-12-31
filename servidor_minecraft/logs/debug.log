@@ -10725,3 +10725,9 @@ java.lang.Throwable: null
 [31Dec2024 15:49:20.769] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/26705, l='ServerLevel[New World]', x=96.50, y=16.18, z=18.78] died: Zombie Player was shot by Starcrack_FW357
 [31Dec2024 15:50:19.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
 [31Dec2024 15:50:19.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[31Dec2024 15:55:19.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[31Dec2024 15:55:19.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[31Dec2024 15:57:36.970] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Starcrack_FW357'/35, l='ServerLevel[New World]', x=63.54, y=33.00, z=80.48] died: Zombie Player was shot by Starcrack_FW357
+[31Dec2024 16:00:19.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[31Dec2024 16:00:19.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[31Dec2024 16:04:55.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
