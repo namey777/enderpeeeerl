@@ -4080,6 +4080,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-31 18:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-31 18:21:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-12-31 18:05:11 +0000"
@@ -4119,6 +4131,12 @@
   "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-31 15:50:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-31 18:27:04 +0000"
     },
     "done": true
   },
@@ -4212,15 +4230,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-31 18:27:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-31 15:50:38 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-31 18:21:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/limestone_pillar_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-31 15:50:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-31 18:27:04 +0000"
     },
     "done": true
   },
@@ -4269,6 +4305,12 @@
   "create:recipes/building_blocks/layered_crimsite_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-31 15:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-31 18:21:55 +0000"
     },
     "done": true
   },
@@ -4341,6 +4383,12 @@
   "create:recipes/building_blocks/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-31 15:50:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2024-12-31 18:30:51 +0000"
     },
     "done": true
   },

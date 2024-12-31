@@ -4760,6 +4760,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-12-31 18:19:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/andesite_alloy_block": {
     "criteria": {
       "has_item": "2024-12-31 17:22:30 +0000"
@@ -4799,6 +4805,12 @@
   "createdeco:recipes/decorations/decal_warning": {
     "criteria": {
       "has_item": "2024-12-31 17:46:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
+    "criteria": {
+      "has_item": "2024-12-31 18:32:17 +0000"
     },
     "done": true
   },
@@ -5192,6 +5204,12 @@
     },
     "done": true
   },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2024-12-31 18:33:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/cart_assembler": {
     "criteria": {
       "has_item": "2024-12-31 17:22:30 +0000"
@@ -5321,6 +5339,12 @@
   "create:recipes/building_blocks/layered_crimsite_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-31 15:50:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/stressometerfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-12-31 18:20:47 +0000"
     },
     "done": true
   },
@@ -5489,6 +5513,12 @@
   "createdeco:recipes/decorations/black_shipping_container": {
     "criteria": {
       "has_item": "2024-12-31 17:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2024-12-31 18:31:43 +0000"
     },
     "done": true
   },
