@@ -11125,3 +11125,15 @@ java.lang.Throwable: null
 [31Dec2024 18:50:59.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
 [31Dec2024 18:55:59.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
 [31Dec2024 18:55:59.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[31Dec2024 18:57:52.459] [Worker-Main-2/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[31Dec2024 18:57:54.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 has made the advancement [We Need to Go Deeper]
+[31Dec2024 18:57:57.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5700ms or 114 ticks behind
+[31Dec2024 18:57:59.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 has made the advancement [We Need to Go Deeper]
+[31Dec2024 18:58:15.449] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:fortress took 195 ms
+[31Dec2024 19:01:05.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[31Dec2024 19:01:05.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[31Dec2024 19:03:09.714] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=115, z=-306} BlockPos{x=40, y=115, z=-307}
+[31Dec2024 19:04:53.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 burned to death
+[31Dec2024 19:05:17.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to Athryus97]
+[31Dec2024 19:06:05.107] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[31Dec2024 19:06:05.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World

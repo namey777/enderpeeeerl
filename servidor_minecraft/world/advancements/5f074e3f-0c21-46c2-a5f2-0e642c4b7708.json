@@ -4688,6 +4688,14 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-31 18:58:28 +0000",
+      "minecraft:soul_sand_valley": "2024-12-31 18:57:58 +0000",
+      "minecraft:basalt_deltas": "2024-12-31 19:05:26 +0000"
+    },
+    "done": false
+  },
   "create:recipes/misc/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2024-12-31 17:22:30 +0000"
@@ -4856,6 +4864,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-31 19:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-31 19:01:48 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_electrical": {
     "criteria": {
       "has_item": "2024-12-31 17:46:39 +0000"
@@ -4877,6 +4897,12 @@
   "createdeco:recipes/decorations/decal_down_left": {
     "criteria": {
       "has_item": "2024-12-31 17:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-31 19:01:48 +0000"
     },
     "done": true
   },
@@ -4925,6 +4951,18 @@
   "create:recipes/misc/crafting/materials/zinc_ingot_from_compacting": {
     "criteria": {
       "has_item": "2024-12-31 17:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-31 19:05:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-31 19:01:48 +0000"
     },
     "done": true
   },
@@ -5180,6 +5218,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-31 18:58:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-31 15:50:30 +0000"
@@ -5195,6 +5239,12 @@
   "create:recipes/misc/crafting/kinetics/display_board": {
     "criteria": {
       "has_item": "2024-12-31 17:22:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-31 19:05:23 +0000"
     },
     "done": true
   },
@@ -5309,6 +5359,12 @@
   "create:andesite_casing": {
     "criteria": {
       "0": "2024-12-31 17:23:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-31 18:57:54 +0000"
     },
     "done": true
   },
@@ -5558,6 +5614,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-31 19:01:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/large_cogwheel": {
     "criteria": {
       "has_item": "2024-12-31 17:22:30 +0000"
@@ -5567,6 +5629,12 @@
   "create:recipes/misc/crafting/logistics/andesite_funnel": {
     "criteria": {
       "has_item": "2024-12-31 17:22:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-31 19:01:48 +0000"
     },
     "done": true
   },
@@ -5636,6 +5704,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-31 18:57:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-31 15:50:30 +0000"
@@ -5669,6 +5743,18 @@
   "create:recipes/misc/crafting/kinetics/contraption_controls": {
     "criteria": {
       "has_item": "2024-12-31 17:22:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2024-12-31 18:56:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-31 19:05:23 +0000"
     },
     "done": true
   },

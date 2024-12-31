@@ -962,3 +962,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Dec2024 18:36:43.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the weather to clear]
 [31Dec2024 18:37:21.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 has made the advancement [The Copper Age]
 [31Dec2024 18:49:25.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 has made the advancement [Ice Bucket Challenge]
+[31Dec2024 18:57:54.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 has made the advancement [We Need to Go Deeper]
+[31Dec2024 18:57:57.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5700ms or 114 ticks behind
+[31Dec2024 18:57:59.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 has made the advancement [We Need to Go Deeper]
+[31Dec2024 18:58:15.449] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:fortress took 195 ms
+[31Dec2024 19:03:09.714] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=115, z=-306} BlockPos{x=40, y=115, z=-307}
+[31Dec2024 19:04:53.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 burned to death
+[31Dec2024 19:05:17.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to Athryus97]
