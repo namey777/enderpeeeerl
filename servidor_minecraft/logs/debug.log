@@ -10706,3 +10706,16 @@ java.lang.Throwable: null
 [31Dec2024 15:20:19.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
 [31Dec2024 15:21:58.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was shot by Skeleton
 [31Dec2024 15:24:36.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was shot by Skeleton
+[31Dec2024 15:25:19.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[31Dec2024 15:25:19.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[31Dec2024 15:28:22.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 tried to swim in lava
+[31Dec2024 15:28:25.272] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/18169, l='ServerLevel[New World]', x=99.60, y=12.00, z=9.62] died: Zombie Player tried to swim in lava
+[31Dec2024 15:30:19.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[31Dec2024 15:30:19.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[31Dec2024 15:33:22.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[31Dec2024 15:35:19.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[31Dec2024 15:35:19.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[31Dec2024 15:38:13.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 tried to swim in lava
+[31Dec2024 15:38:16.471] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/22780, l='ServerLevel[New World]', x=95.51, y=18.00, z=11.04] died: Zombie Player tried to swim in lava
+[31Dec2024 15:40:19.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[31Dec2024 15:40:19.403] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
