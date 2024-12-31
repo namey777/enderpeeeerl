@@ -860,3 +860,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Dec2024 16:24:09.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 tried to swim in lava
 [31Dec2024 16:25:05.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was slain by Cave Spider
 [31Dec2024 16:35:05.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[31Dec2024 16:46:40.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[31Dec2024 16:48:22.186] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=191, y=138, z=19} BlockPos{x=193, y=138, z=19}
+[31Dec2024 16:48:22.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=191, y=138, z=19} BlockPos{x=193, y=138, z=19}
+[31Dec2024 16:48:22.285] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=191, y=138, z=19} BlockPos{x=193, y=138, z=19}
+[31Dec2024 16:48:22.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=191, y=138, z=19} BlockPos{x=193, y=138, z=19}
+[31Dec2024 16:49:22.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=195, y=141, z=20} BlockPos{x=196, y=137, z=21}
+[31Dec2024 16:50:02.688] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=186, y=137, z=25} BlockPos{x=186, y=136, z=25}
+[31Dec2024 16:50:02.758] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=186, y=137, z=25} BlockPos{x=186, y=136, z=25}
+[31Dec2024 16:50:02.788] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=186, y=137, z=25} BlockPos{x=186, y=136, z=25}
+[31Dec2024 16:50:45.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=185, y=137, z=29} BlockPos{x=186, y=136, z=29}
+[31Dec2024 16:50:45.640] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=185, y=137, z=29} BlockPos{x=186, y=136, z=29}
+[31Dec2024 16:50:45.794] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=185, y=137, z=28} BlockPos{x=186, y=137, z=28}
+[31Dec2024 16:51:34.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=190, y=139, z=32} BlockPos{x=189, y=137, z=34}
+[31Dec2024 16:51:34.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=190, y=139, z=32} BlockPos{x=189, y=137, z=34}
+[31Dec2024 16:51:34.591] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=189, y=138, z=31} BlockPos{x=190, y=137, z=32}
+[31Dec2024 16:51:34.639] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=189, y=138, z=31} BlockPos{x=190, y=137, z=32}
