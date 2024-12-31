@@ -634,3 +634,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Dec2024 15:33:22.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
 [31Dec2024 15:38:13.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 tried to swim in lava
 [31Dec2024 15:38:16.471] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/22780, l='ServerLevel[New World]', x=95.51, y=18.00, z=11.04] died: Zombie Player tried to swim in lava
+[31Dec2024 15:49:15.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 tried to swim in lava
+[31Dec2024 15:49:20.769] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/26705, l='ServerLevel[New World]', x=96.50, y=16.18, z=18.78] died: Zombie Player was shot by Starcrack_FW357
