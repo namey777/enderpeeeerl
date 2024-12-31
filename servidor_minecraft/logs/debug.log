@@ -10699,3 +10699,10 @@ java.lang.Throwable: null
 [31Dec2024 15:10:01.157] [Server thread/DEBUG] [mixin/]: Mixing ContainerLevelAccessMixin from railways.mixins.json into net.minecraft.world.inventory.ContainerLevelAccess
 [31Dec2024 15:10:19.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
 [31Dec2024 15:10:19.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[31Dec2024 15:15:19.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[31Dec2024 15:15:19.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[31Dec2024 15:18:26.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 tried to swim in lava
+[31Dec2024 15:20:19.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[31Dec2024 15:20:19.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[31Dec2024 15:21:58.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was shot by Skeleton
+[31Dec2024 15:24:36.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was shot by Skeleton

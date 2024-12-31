@@ -626,3 +626,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Dec2024 15:01:42.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Spectator Mode]
 [31Dec2024 15:01:45.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
 [31Dec2024 15:03:46.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was blown up by Creeper
+[31Dec2024 15:18:26.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 tried to swim in lava
+[31Dec2024 15:21:58.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was shot by Skeleton
+[31Dec2024 15:24:36.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was shot by Skeleton
