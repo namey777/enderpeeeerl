@@ -4640,6 +4640,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/copper_support_wedge": {
+    "criteria": {
+      "has_item": "2024-12-31 18:47:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/chute": {
     "criteria": {
       "has_item": "2024-12-31 17:22:30 +0000"
@@ -4880,15 +4886,33 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/yellow_copper_lamp": {
+    "criteria": {
+      "has_item": "2024-12-31 18:47:17 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_down": {
     "criteria": {
       "has_item": "2024-12-31 17:46:39 +0000"
     },
     "done": true
   },
+  "createdeco:recipes/decorations/red_copper_lamp": {
+    "criteria": {
+      "has_item": "2024-12-31 18:47:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
     "criteria": {
       "has_item": "2024-12-31 17:23:21 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_bars_overlay": {
+    "criteria": {
+      "has_item": "2024-12-31 18:47:17 +0000"
     },
     "done": true
   },
@@ -4991,6 +5015,12 @@
   "create:recipes/misc/crafting/kinetics/hand_crank": {
     "criteria": {
       "has_item": "2024-12-31 17:22:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-31 18:49:25 +0000"
     },
     "done": true
   },
@@ -5120,6 +5150,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/copper_sheet_metal": {
+    "criteria": {
+      "has_item": "2024-12-31 18:47:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/goggles": {
     "criteria": {
       "has_item": "2024-12-31 17:22:30 +0000"
@@ -5177,6 +5213,12 @@
   "create:recipes/misc/crafting/kinetics/piston_extension_pole": {
     "criteria": {
       "has_item": "2024-12-31 17:22:30 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_catwalk_railing_forge": {
+    "criteria": {
+      "has_item": "2024-12-31 18:47:17 +0000"
     },
     "done": true
   },
@@ -5249,6 +5291,12 @@
   "createdeco:recipes/decorations/green_iron_lamp": {
     "criteria": {
       "has_item": "2024-12-31 17:46:39 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/copper_mesh_fence": {
+    "criteria": {
+      "has_item": "2024-12-31 18:47:17 +0000"
     },
     "done": true
   },
@@ -5348,6 +5396,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/copper_catwalk_forge": {
+    "criteria": {
+      "has_item": "2024-12-31 18:47:17 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/yellow_shipping_container": {
     "criteria": {
       "has_item": "2024-12-31 17:46:39 +0000"
@@ -5357,6 +5411,12 @@
   "createdeco:recipes/decorations/decal_top_right": {
     "criteria": {
       "has_item": "2024-12-31 17:46:39 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/blue_copper_lamp": {
+    "criteria": {
+      "has_item": "2024-12-31 18:47:17 +0000"
     },
     "done": true
   },
@@ -5399,6 +5459,12 @@
   "create:recipes/misc/crafting/kinetics/gantry_carriage": {
     "criteria": {
       "has_item": "2024-12-31 17:23:21 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/big_cannon_sheet_inexpensive": {
+    "criteria": {
+      "has_inexpensive_big_cartridge_sheet": "2024-12-31 18:47:17 +0000"
     },
     "done": true
   },
@@ -5534,6 +5600,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/green_copper_lamp": {
+    "criteria": {
+      "has_item": "2024-12-31 18:47:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_mixer": {
     "criteria": {
       "has_item": "2024-12-31 17:22:30 +0000"
@@ -5639,6 +5711,12 @@
   "createdeco:recipes/decorations/andesite_bars_overlay_from_stonecutting": {
     "criteria": {
       "has_item": "2024-12-31 17:22:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-31 18:49:25 +0000"
     },
     "done": true
   },

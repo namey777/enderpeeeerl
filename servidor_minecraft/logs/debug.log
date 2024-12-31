@@ -11120,3 +11120,8 @@ java.lang.Throwable: null
 [31Dec2024 18:40:59.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
 [31Dec2024 18:45:59.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
 [31Dec2024 18:45:59.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[31Dec2024 18:49:25.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 has made the advancement [Ice Bucket Challenge]
+[31Dec2024 18:50:59.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[31Dec2024 18:50:59.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[31Dec2024 18:55:59.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[31Dec2024 18:55:59.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World

@@ -961,3 +961,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Dec2024 18:35:46.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
 [31Dec2024 18:36:43.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the weather to clear]
 [31Dec2024 18:37:21.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 has made the advancement [The Copper Age]
+[31Dec2024 18:49:25.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 has made the advancement [Ice Bucket Challenge]
