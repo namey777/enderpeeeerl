@@ -4058,6 +4058,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 19:11:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-31 15:50:32 +0000"
@@ -4094,6 +4100,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 19:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 19:11:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-31 18:21:55 +0000"
@@ -4112,6 +4130,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 19:11:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2024-12-31 19:02:37 +0000"
@@ -4121,6 +4145,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2024-12-31 15:41:56 +0000"
+    },
+    "done": true
+  },
+  "jeg:raw_brimstone": {
+    "criteria": {
+      "Item": "2024-12-31 19:10:22 +0000"
     },
     "done": true
   },
@@ -4166,6 +4196,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-31 19:08:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2024-12-31 19:02:37 +0000"
@@ -4178,9 +4214,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 19:11:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-31 15:50:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 19:11:55 +0000"
     },
     "done": true
   },
@@ -4199,6 +4247,18 @@
   "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2024-12-31 16:56:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 19:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 19:11:55 +0000"
     },
     "done": true
   },
@@ -4226,6 +4286,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-31 19:15:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2024-12-31 18:58:09 +0000"
@@ -4235,6 +4301,12 @@
   "create:recipes/building_blocks/small_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-31 15:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-31 19:08:33 +0000"
     },
     "done": true
   },
@@ -4283,6 +4355,12 @@
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2024-12-31 18:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 19:11:55 +0000"
     },
     "done": true
   },
@@ -4388,6 +4466,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 19:11:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-31 15:50:38 +0000"
@@ -4397,6 +4481,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2024-12-31 17:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 19:11:55 +0000"
     },
     "done": true
   },
@@ -4436,6 +4526,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 19:11:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-31 15:50:38 +0000"
@@ -4457,6 +4553,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-12-31 18:57:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 19:11:55 +0000"
     },
     "done": true
   },
@@ -4496,9 +4598,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 19:11:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_limestone_brick_slab_recycling": {
     "criteria": {
       "has_small_limestone_brick_slab": "2024-12-31 17:50:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-31 19:08:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 19:11:55 +0000"
     },
     "done": true
   },
@@ -4511,6 +4631,12 @@
   "create:recipes/building_blocks/small_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-31 15:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-31 19:11:55 +0000"
     },
     "done": true
   },

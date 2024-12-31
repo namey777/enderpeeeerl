@@ -4888,6 +4888,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/misc/cannon_welder_mirrored": {
+    "criteria": {
+      "has_blaze_burner": "2024-12-31 19:15:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/belt_connector": {
     "criteria": {
       "has_item": "2024-12-31 17:22:30 +0000"
@@ -5164,6 +5170,12 @@
     },
     "done": true
   },
+  "create:burner": {
+    "criteria": {
+      "0": "2024-12-31 19:15:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_piston": {
     "criteria": {
       "has_item": "2024-12-31 17:23:21 +0000"
@@ -5215,6 +5227,12 @@
   "create:recipes/misc/crafting/kinetics/copper_door": {
     "criteria": {
       "has_item": "2024-12-31 18:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-31 19:15:30 +0000"
     },
     "done": true
   },
@@ -5545,6 +5563,12 @@
   "create:recipes/misc/crafting/logistics/andesite_tunnel": {
     "criteria": {
       "has_item": "2024-12-31 17:22:30 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/cannon_welder": {
+    "criteria": {
+      "has_blaze_burner": "2024-12-31 19:15:33 +0000"
     },
     "done": true
   },
