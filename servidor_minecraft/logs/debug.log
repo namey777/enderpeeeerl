@@ -10731,3 +10731,225 @@ java.lang.Throwable: null
 [31Dec2024 16:00:19.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
 [31Dec2024 16:00:19.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
 [31Dec2024 16:04:55.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[31Dec2024 16:05:19.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[31Dec2024 16:05:19.535] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[31Dec2024 16:05:48.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 fell from a high place
+[31Dec2024 16:06:14.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the weather to clear]
+[31Dec2024 16:06:46.694] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=110, z=-342}
+[31Dec2024 16:06:46.701] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=109, z=-352}
+[31Dec2024 16:06:46.702] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=110, z=-352}
+[31Dec2024 16:06:46.703] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=110, z=-352}
+[31Dec2024 16:06:46.703] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=110, z=-352}
+[31Dec2024 16:06:46.704] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=109, z=-352}
+[31Dec2024 16:06:46.704] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"coffee_delight:coffee_wafer"}
+[31Dec2024 16:06:46.705] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=109, z=-352}
+[31Dec2024 16:06:46.705] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:rose_hip_pie"}
+[31Dec2024 16:06:46.706] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=109, z=-351}
+[31Dec2024 16:06:46.707] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:coffee"}
+[31Dec2024 16:06:46.707] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=109, z=-351}
+[31Dec2024 16:06:46.707] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:green_tea"}
+[31Dec2024 16:06:46.708] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=110, z=-351}
+[31Dec2024 16:06:46.708] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:popcorn"}
+[31Dec2024 16:06:46.709] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=110, z=-351}
+[31Dec2024 16:06:46.709] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:tortilla_chips"}
+[31Dec2024 16:06:46.710] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=110, z=-320}
+[31Dec2024 16:06:46.710] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=109, z=-318}
+[31Dec2024 16:06:46.711] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=110, z=-318}
+[31Dec2024 16:06:46.712] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=111, z=-318}
+[31Dec2024 16:06:46.713] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=111, z=-318}
+[31Dec2024 16:06:46.713] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=110, z=-318}
+[31Dec2024 16:06:46.714] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=109, z=-318}
+[31Dec2024 16:06:46.714] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=112, z=-318}
+[31Dec2024 16:06:46.714] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=112, z=-318}
+[31Dec2024 16:06:46.715] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=110, z=-342}
+[31Dec2024 16:06:46.716] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=109, z=-344}
+[31Dec2024 16:06:46.717] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=110, z=-344}
+[31Dec2024 16:06:46.717] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=111, z=-344}
+[31Dec2024 16:06:46.718] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=111, z=-344}
+[31Dec2024 16:06:46.718] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=110, z=-344}
+[31Dec2024 16:06:46.719] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=109, z=-344}
+[31Dec2024 16:06:46.719] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=112, z=-344}
+[31Dec2024 16:06:46.719] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=112, z=-344}
+[31Dec2024 16:06:46.720] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=110, z=-320}
+[31Dec2024 16:06:46.721] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-166, y=109, z=-310}
+[31Dec2024 16:06:46.722] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-166, y=110, z=-310}
+[31Dec2024 16:06:46.722] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=110, z=-310}
+[31Dec2024 16:06:46.723] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=110, z=-310}
+[31Dec2024 16:06:46.723] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=109, z=-310}
+[31Dec2024 16:06:46.724] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"coffee_delight:coffee_wafer"}
+[31Dec2024 16:06:46.724] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=109, z=-310}
+[31Dec2024 16:06:46.724] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:rose_hip_pie"}
+[31Dec2024 16:06:46.725] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=109, z=-311}
+[31Dec2024 16:06:46.726] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:coffee"}
+[31Dec2024 16:06:46.727] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=109, z=-311}
+[31Dec2024 16:06:46.727] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:green_tea"}
+[31Dec2024 16:06:46.728] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=110, z=-311}
+[31Dec2024 16:06:46.728] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:popcorn"}
+[31Dec2024 16:06:46.729] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=110, z=-311}
+[31Dec2024 16:06:46.729] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:tortilla_chips"}
+[31Dec2024 16:06:55.118] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=110, z=-342}
+[31Dec2024 16:06:55.119] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=109, z=-352}
+[31Dec2024 16:06:55.120] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=110, z=-352}
+[31Dec2024 16:06:55.120] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=110, z=-352}
+[31Dec2024 16:06:55.120] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=110, z=-352}
+[31Dec2024 16:06:55.121] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=109, z=-352}
+[31Dec2024 16:06:55.121] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"coffee_delight:coffee_wafer"}
+[31Dec2024 16:06:55.121] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=109, z=-352}
+[31Dec2024 16:06:55.122] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:rose_hip_pie"}
+[31Dec2024 16:06:55.122] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=109, z=-351}
+[31Dec2024 16:06:55.122] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:coffee"}
+[31Dec2024 16:06:55.123] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=109, z=-351}
+[31Dec2024 16:06:55.123] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:green_tea"}
+[31Dec2024 16:06:55.123] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=110, z=-351}
+[31Dec2024 16:06:55.124] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:popcorn"}
+[31Dec2024 16:06:55.124] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=110, z=-351}
+[31Dec2024 16:06:55.125] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:tortilla_chips"}
+[31Dec2024 16:06:55.125] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=110, z=-320}
+[31Dec2024 16:06:55.126] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=109, z=-318}
+[31Dec2024 16:06:55.126] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=110, z=-318}
+[31Dec2024 16:06:55.127] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=111, z=-318}
+[31Dec2024 16:06:55.127] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=111, z=-318}
+[31Dec2024 16:06:55.128] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=110, z=-318}
+[31Dec2024 16:06:55.129] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=109, z=-318}
+[31Dec2024 16:06:55.130] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=112, z=-318}
+[31Dec2024 16:06:55.130] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=112, z=-318}
+[31Dec2024 16:06:55.131] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=110, z=-342}
+[31Dec2024 16:06:55.131] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=109, z=-344}
+[31Dec2024 16:06:55.131] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=110, z=-344}
+[31Dec2024 16:06:55.132] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=111, z=-344}
+[31Dec2024 16:06:55.132] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=111, z=-344}
+[31Dec2024 16:06:55.132] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=110, z=-344}
+[31Dec2024 16:06:55.132] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=109, z=-344}
+[31Dec2024 16:06:55.132] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=112, z=-344}
+[31Dec2024 16:06:55.133] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=112, z=-344}
+[31Dec2024 16:06:55.133] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=110, z=-320}
+[31Dec2024 16:06:55.133] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-166, y=109, z=-310}
+[31Dec2024 16:06:55.133] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-166, y=110, z=-310}
+[31Dec2024 16:06:55.133] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=110, z=-310}
+[31Dec2024 16:06:55.134] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=110, z=-310}
+[31Dec2024 16:06:55.134] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=109, z=-310}
+[31Dec2024 16:06:55.134] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"coffee_delight:coffee_wafer"}
+[31Dec2024 16:06:55.135] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=109, z=-310}
+[31Dec2024 16:06:55.135] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:rose_hip_pie"}
+[31Dec2024 16:06:55.135] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=109, z=-311}
+[31Dec2024 16:06:55.135] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:coffee"}
+[31Dec2024 16:06:55.135] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=109, z=-311}
+[31Dec2024 16:06:55.136] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:green_tea"}
+[31Dec2024 16:06:55.136] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=110, z=-311}
+[31Dec2024 16:06:55.136] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:popcorn"}
+[31Dec2024 16:06:55.136] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=110, z=-311}
+[31Dec2024 16:06:55.136] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:tortilla_chips"}
+[31Dec2024 16:08:44.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[31Dec2024 16:10:19.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[31Dec2024 16:10:19.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[31Dec2024 16:10:23.618] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=110, z=-342}
+[31Dec2024 16:10:23.619] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=109, z=-352}
+[31Dec2024 16:10:23.620] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=110, z=-352}
+[31Dec2024 16:10:23.620] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=110, z=-352}
+[31Dec2024 16:10:23.620] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=110, z=-352}
+[31Dec2024 16:10:23.621] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=109, z=-352}
+[31Dec2024 16:10:23.621] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"coffee_delight:coffee_wafer"}
+[31Dec2024 16:10:23.621] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=109, z=-352}
+[31Dec2024 16:10:23.622] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:rose_hip_pie"}
+[31Dec2024 16:10:23.622] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=109, z=-351}
+[31Dec2024 16:10:23.622] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:coffee"}
+[31Dec2024 16:10:23.622] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=109, z=-351}
+[31Dec2024 16:10:23.623] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:green_tea"}
+[31Dec2024 16:10:23.623] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=110, z=-351}
+[31Dec2024 16:10:23.623] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:popcorn"}
+[31Dec2024 16:10:23.624] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=110, z=-351}
+[31Dec2024 16:10:23.624] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:tortilla_chips"}
+[31Dec2024 16:10:23.624] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=110, z=-320}
+[31Dec2024 16:10:23.624] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=109, z=-318}
+[31Dec2024 16:10:23.625] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=110, z=-318}
+[31Dec2024 16:10:23.625] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=111, z=-318}
+[31Dec2024 16:10:23.626] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=111, z=-318}
+[31Dec2024 16:10:23.627] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=110, z=-318}
+[31Dec2024 16:10:23.627] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=109, z=-318}
+[31Dec2024 16:10:23.627] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=112, z=-318}
+[31Dec2024 16:10:23.628] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=112, z=-318}
+[31Dec2024 16:10:23.628] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=110, z=-342}
+[31Dec2024 16:10:23.629] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=109, z=-344}
+[31Dec2024 16:10:23.629] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=110, z=-344}
+[31Dec2024 16:10:23.630] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=111, z=-344}
+[31Dec2024 16:10:23.630] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=111, z=-344}
+[31Dec2024 16:10:23.631] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=110, z=-344}
+[31Dec2024 16:10:23.631] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=109, z=-344}
+[31Dec2024 16:10:23.632] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=112, z=-344}
+[31Dec2024 16:10:23.632] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=112, z=-344}
+[31Dec2024 16:10:23.632] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=110, z=-320}
+[31Dec2024 16:10:23.633] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-166, y=109, z=-310}
+[31Dec2024 16:10:23.633] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-166, y=110, z=-310}
+[31Dec2024 16:10:23.633] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=110, z=-310}
+[31Dec2024 16:10:23.634] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=110, z=-310}
+[31Dec2024 16:10:23.634] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=109, z=-310}
+[31Dec2024 16:10:23.634] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"coffee_delight:coffee_wafer"}
+[31Dec2024 16:10:23.635] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=109, z=-310}
+[31Dec2024 16:10:23.635] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:rose_hip_pie"}
+[31Dec2024 16:10:23.636] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=109, z=-311}
+[31Dec2024 16:10:23.636] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:coffee"}
+[31Dec2024 16:10:23.637] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=109, z=-311}
+[31Dec2024 16:10:23.637] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:green_tea"}
+[31Dec2024 16:10:23.637] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=110, z=-311}
+[31Dec2024 16:10:23.637] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:popcorn"}
+[31Dec2024 16:10:23.638] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=110, z=-311}
+[31Dec2024 16:10:23.638] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:tortilla_chips"}
+[31Dec2024 16:11:24.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[31Dec2024 16:12:42.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[31Dec2024 16:13:41.793] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Starcrack_FW357/ore_farm.nbt
+[31Dec2024 16:14:20.475] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: Starcrack_FW357/tren_i_stasyonu.nbt
+[31Dec2024 16:15:15.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[31Dec2024 16:15:19.028] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=110, z=-342}
+[31Dec2024 16:15:19.029] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=109, z=-352}
+[31Dec2024 16:15:19.029] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=110, z=-352}
+[31Dec2024 16:15:19.030] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=110, z=-352}
+[31Dec2024 16:15:19.030] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=110, z=-352}
+[31Dec2024 16:15:19.030] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=109, z=-352}
+[31Dec2024 16:15:19.031] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"coffee_delight:coffee_wafer"}
+[31Dec2024 16:15:19.031] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=109, z=-352}
+[31Dec2024 16:15:19.031] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:rose_hip_pie"}
+[31Dec2024 16:15:19.032] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=109, z=-351}
+[31Dec2024 16:15:19.032] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:coffee"}
+[31Dec2024 16:15:19.033] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=109, z=-351}
+[31Dec2024 16:15:19.033] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:green_tea"}
+[31Dec2024 16:15:19.033] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=110, z=-351}
+[31Dec2024 16:15:19.034] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:popcorn"}
+[31Dec2024 16:15:19.035] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=110, z=-351}
+[31Dec2024 16:15:19.035] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:tortilla_chips"}
+[31Dec2024 16:15:19.036] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=110, z=-320}
+[31Dec2024 16:15:19.037] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=109, z=-318}
+[31Dec2024 16:15:19.038] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=110, z=-318}
+[31Dec2024 16:15:19.039] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=111, z=-318}
+[31Dec2024 16:15:19.040] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=111, z=-318}
+[31Dec2024 16:15:19.040] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=110, z=-318}
+[31Dec2024 16:15:19.041] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=109, z=-318}
+[31Dec2024 16:15:19.041] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=112, z=-318}
+[31Dec2024 16:15:19.042] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=112, z=-318}
+[31Dec2024 16:15:19.042] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=110, z=-342}
+[31Dec2024 16:15:19.042] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=109, z=-344}
+[31Dec2024 16:15:19.043] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=110, z=-344}
+[31Dec2024 16:15:19.044] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=111, z=-344}
+[31Dec2024 16:15:19.045] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=111, z=-344}
+[31Dec2024 16:15:19.045] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=110, z=-344}
+[31Dec2024 16:15:19.045] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=109, z=-344}
+[31Dec2024 16:15:19.046] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=112, z=-344}
+[31Dec2024 16:15:19.046] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=112, z=-344}
+[31Dec2024 16:15:19.047] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=110, z=-320}
+[31Dec2024 16:15:19.047] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-166, y=109, z=-310}
+[31Dec2024 16:15:19.047] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-166, y=110, z=-310}
+[31Dec2024 16:15:19.048] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=110, z=-310}
+[31Dec2024 16:15:19.048] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=110, z=-310}
+[31Dec2024 16:15:19.049] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=109, z=-310}
+[31Dec2024 16:15:19.049] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"coffee_delight:coffee_wafer"}
+[31Dec2024 16:15:19.050] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=109, z=-310}
+[31Dec2024 16:15:19.050] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:rose_hip_pie"}
+[31Dec2024 16:15:19.051] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=109, z=-311}
+[31Dec2024 16:15:19.051] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:coffee"}
+[31Dec2024 16:15:19.051] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=109, z=-311}
+[31Dec2024 16:15:19.052] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:green_tea"}
+[31Dec2024 16:15:19.052] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=110, z=-311}
+[31Dec2024 16:15:19.053] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:popcorn"}
+[31Dec2024 16:15:19.053] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=110, z=-311}
+[31Dec2024 16:15:19.053] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:tortilla_chips"}
+[31Dec2024 16:15:19.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[31Dec2024 16:15:19.453] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
