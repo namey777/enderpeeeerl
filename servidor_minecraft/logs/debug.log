@@ -11149,3 +11149,17 @@ java.lang.Throwable: null
 [31Dec2024 19:15:35.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 has made the advancement [A Terrible Fortress]
 [31Dec2024 19:16:05.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
 [31Dec2024 19:16:05.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[31Dec2024 19:18:01.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was burnt to a crisp whilst fighting Blaze
+[31Dec2024 19:18:12.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Athryus97 to Starcrack_FW357]
+[31Dec2024 19:19:20.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 tried to swim in lava
+[31Dec2024 19:19:28.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to Athryus97]
+[31Dec2024 19:21:03.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 burned to death
+[31Dec2024 19:21:05.407] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[31Dec2024 19:21:05.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[31Dec2024 19:21:14.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Athryus97 to Starcrack_FW357]
+[31Dec2024 19:22:25.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 has made the advancement [Into Fire]
+[31Dec2024 19:24:49.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 has made the advancement [Into Fire]
+[31Dec2024 19:24:59.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 burned to death
+[31Dec2024 19:25:07.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to Athryus97]
+[31Dec2024 19:26:05.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[31Dec2024 19:26:05.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World

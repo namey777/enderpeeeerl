@@ -1616,11 +1616,14 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-12-31 19:23:33 +0000",
       "minecraft:skeleton": "2024-12-26 21:57:59 +0000",
+      "minecraft:magma_cube": "2024-12-31 19:17:02 +0000",
       "minecraft:spider": "2024-12-26 20:31:14 +0000",
       "minecraft:creeper": "2024-12-29 16:23:21 +0000",
       "minecraft:zombified_piglin": "2024-12-30 20:14:17 +0000",
       "minecraft:witch": "2024-12-26 20:34:02 +0000",
+      "minecraft:wither_skeleton": "2024-12-31 19:17:10 +0000",
       "minecraft:husk": "2024-12-26 20:22:03 +0000",
       "minecraft:cave_spider": "2024-12-26 19:34:19 +0000",
       "minecraft:stray": "2024-12-26 20:34:32 +0000",
@@ -4070,6 +4073,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-31 19:24:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-31 15:50:32 +0000"
@@ -4151,6 +4160,12 @@
   "jeg:raw_brimstone": {
     "criteria": {
       "Item": "2024-12-31 19:10:22 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/cannon_welder_mirrored": {
+    "criteria": {
+      "has_blaze_burner": "2024-12-31 19:18:59 +0000"
     },
     "done": true
   },
@@ -4277,6 +4292,12 @@
   "create:recipes/building_blocks/small_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-31 15:50:32 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2024-12-31 19:18:59 +0000"
     },
     "done": true
   },
@@ -4454,6 +4475,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/misc/cannon_welder": {
+    "criteria": {
+      "has_blaze_burner": "2024-12-31 19:18:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crimsite_pillar_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-31 15:50:32 +0000"
@@ -4616,6 +4643,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-31 19:24:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-31 19:11:55 +0000"
@@ -4631,6 +4664,12 @@
   "create:recipes/building_blocks/small_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-31 15:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-31 19:24:49 +0000"
     },
     "done": true
   },
