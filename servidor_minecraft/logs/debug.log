@@ -10693,3 +10693,9 @@ java.lang.Throwable: null
 [31Dec2024 15:01:45.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
 [31Dec2024 15:02:05.670] [Server thread/DEBUG] [mixin/]: Mixing MixinExplosionDamageCalculator from railways-common.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
 [31Dec2024 15:03:46.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was blown up by Creeper
+[31Dec2024 15:05:19.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[31Dec2024 15:05:19.487] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[31Dec2024 15:06:03.021] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from hordes.mixin.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[31Dec2024 15:10:01.157] [Server thread/DEBUG] [mixin/]: Mixing ContainerLevelAccessMixin from railways.mixins.json into net.minecraft.world.inventory.ContainerLevelAccess
+[31Dec2024 15:10:19.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[31Dec2024 15:10:19.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
