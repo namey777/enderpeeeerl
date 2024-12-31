@@ -987,3 +987,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Dec2024 19:24:49.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 has made the advancement [Into Fire]
 [31Dec2024 19:24:59.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 burned to death
 [31Dec2024 19:25:07.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to Athryus97]
+[31Dec2024 19:29:37.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 tried to swim in lava
+[31Dec2024 19:29:57.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 tried to swim in lava
