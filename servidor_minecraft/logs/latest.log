@@ -817,3 +817,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Jan2025 19:43:18.329] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Starcrack_FW357'/107378, l='ServerLevel[New World]', x=95.63, y=20.00, z=9.36] died: Zombie Player tried to swim in lava
 [01Jan2025 19:48:57.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 tried to swim in lava
 [01Jan2025 19:49:09.687] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/109814, l='ServerLevel[New World]', x=200.39, y=139.00, z=17.70] died: Zombie Player tried to swim in lava
+[01Jan2025 19:52:30.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[01Jan2025 20:02:10.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 has made the advancement [The Andesite Age]
+[01Jan2025 20:08:10.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the weather to clear]
+[01Jan2025 20:08:10.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]

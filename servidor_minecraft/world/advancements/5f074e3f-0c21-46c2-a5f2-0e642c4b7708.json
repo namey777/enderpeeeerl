@@ -6080,6 +6080,12 @@
     },
     "done": true
   },
+  "railways:recipes/misc/crafting/semaphore": {
+    "criteria": {
+      "has_item": "2025-01-01 19:55:30 +0000"
+    },
+    "done": true
+  },
   "create:sturdy_sheet": {
     "criteria": {
       "0": "2025-01-01 18:59:04 +0000"
@@ -6158,6 +6164,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-01-01 19:54:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-01 18:27:49 +0000"
@@ -6224,6 +6236,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/deployer": {
+    "criteria": {
+      "has_item": "2025-01-01 19:55:30 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/brass_mesh_fence": {
     "criteria": {
       "has_item": "2025-01-01 19:48:41 +0000"
@@ -6236,11 +6254,23 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 20:02:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2025-01-01 17:33:27 +0000"
     },
     "done": false
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-01-01 20:02:56 +0000"
+    },
+    "done": true
   },
   "createdeco:recipes/decorations/pink_placard": {
     "criteria": {
@@ -6314,9 +6344,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/electron_tube": {
+    "criteria": {
+      "has_item": "2025-01-01 19:52:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/framed_glass_pane": {
     "criteria": {
       "has_ingredient": "2025-01-01 17:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-01 20:02:24 +0000"
     },
     "done": true
   },
@@ -6390,6 +6432,12 @@
   "create:windmill": {
     "criteria": {
       "0": "2025-01-01 18:20:13 +0000"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-01-01 19:54:28 +0000"
     },
     "done": true
   },
@@ -6477,6 +6525,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_rose_quartz": "2025-01-01 19:52:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-01 18:27:49 +0000"
@@ -6549,6 +6603,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-01-01 19:54:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
     "criteria": {
       "has_item": "2025-01-01 16:53:19 +0000"
@@ -6570,6 +6630,12 @@
   "createbigcannons:recipes/misc/big_cartridge_sheet": {
     "criteria": {
       "has_brass_sheet": "2025-01-01 19:48:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
+    "criteria": {
+      "has_item": "2025-01-01 19:55:30 +0000"
     },
     "done": true
   },
