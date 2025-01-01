@@ -10833,3 +10833,58 @@ java.lang.Throwable: null
 [01Jan2025 18:17:47.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 tried to swim in lava
 [01Jan2025 18:17:50.480] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Starcrack_FW357'/45892, l='ServerLevel[New World]', x=160.33, y=93.00, z=148.37] died: Zombie Player tried to swim in lava
 [01Jan2025 18:17:56.580] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/45859, l='ServerLevel[New World]', x=159.35, y=93.00, z=148.62] died: Zombie Player tried to swim in lava
+[01Jan2025 18:19:24.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[01Jan2025 18:19:24.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[01Jan2025 18:20:13.040] [Server thread/DEBUG] [mixin/]: Mixing MountedStorageMixin from moderntrainparts.mixins.json into com.simibubi.create.content.contraptions.MountedStorage
+[01Jan2025 18:20:13.069] [Server thread/DEBUG] [mixin/]: Mixing AccessorToolboxInventory from railways-common.mixins.json into com.simibubi.create.content.equipment.toolbox.ToolboxInventory
+[01Jan2025 18:20:13.082] [Server thread/DEBUG] [mixin/]: Mixing AccessorMountedFluidStorage from railways-common.mixins.json into com.simibubi.create.content.contraptions.MountedFluidStorage
+[01Jan2025 18:20:13.082] [Server thread/DEBUG] [mixin/]: Mixing MountedFluidStorageMixin from railways.mixins.json into com.simibubi.create.content.contraptions.MountedFluidStorage
+[01Jan2025 18:20:13.151] [Server thread/DEBUG] [mixin/]: Mixing compat.create.ContraptionColliderMixin from createbigcannons-common.mixins.json into com.simibubi.create.content.contraptions.ContraptionCollider
+[01Jan2025 18:24:06.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[01Jan2025 18:24:09.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[01Jan2025 18:24:24.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[01Jan2025 18:24:24.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[01Jan2025 18:26:05.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 was processed by Crushing Wheels
+[01Jan2025 18:26:15.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[01Jan2025 18:29:24.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[01Jan2025 18:29:24.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[01Jan2025 18:34:24.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[01Jan2025 18:34:24.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[01Jan2025 18:36:35.731] [Server thread/DEBUG] [mixin/]: Mixing FluidNetworkMixin from railways.mixins.json into com.simibubi.create.content.fluids.FluidNetwork
+[01Jan2025 18:37:02.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[01Jan2025 18:38:02.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 tried to swim in lava
+[01Jan2025 18:38:05.529] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Starcrack_FW357'/59955, l='ServerLevel[New World]', x=200.54, y=139.00, z=17.82] died: Zombie Player tried to swim in lava
+[01Jan2025 18:39:16.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[01Jan2025 18:39:19.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[01Jan2025 18:39:25.027] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[01Jan2025 18:39:25.069] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[01Jan2025 18:39:44.490] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/61117, l='ServerLevel[New World]', x=-177.65, y=53.00, z=-321.65] died: Zombie Player tried to swim in lava
+[01Jan2025 18:41:09.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 tried to swim in lava
+[01Jan2025 18:44:24.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[01Jan2025 18:44:25.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[01Jan2025 18:44:25.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the weather to clear]
+[01Jan2025 18:48:08.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[01Jan2025 18:48:59.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[01Jan2025 18:49:24.976] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[01Jan2025 18:49:24.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[01Jan2025 18:49:30.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[01Jan2025 18:49:50.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[01Jan2025 18:51:07.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 burned to death
+[01Jan2025 18:51:26.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[01Jan2025 18:54:24.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[01Jan2025 18:54:24.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[01Jan2025 18:58:39.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was doomed to fall
+[01Jan2025 18:59:24.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[01Jan2025 18:59:24.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[01Jan2025 19:04:24.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[01Jan2025 19:04:24.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[01Jan2025 19:04:32.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 got cut in half by a Mechanical Saw
+[01Jan2025 19:05:40.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[01Jan2025 19:09:24.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[01Jan2025 19:09:25.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[01Jan2025 19:13:20.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was processed by Crushing Wheels
+[01Jan2025 19:14:24.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[01Jan2025 19:14:24.983] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[01Jan2025 19:19:14.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 has made the advancement [The Logistical Age]
+[01Jan2025 19:19:24.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[01Jan2025 19:19:25.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World

@@ -6067,9 +6067,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-01-01 18:41:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/rotation_speed_controller": {
     "criteria": {
       "has_item": "2025-01-01 16:53:19 +0000"
+    },
+    "done": true
+  },
+  "create:sturdy_sheet": {
+    "criteria": {
+      "0": "2025-01-01 18:59:04 +0000"
     },
     "done": true
   },
@@ -6091,9 +6103,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-01-01 18:27:49 +0000"
+    },
+    "done": true
+  },
   "create:crushing_wheel": {
     "criteria": {
       "0": "2025-01-01 16:57:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-01 18:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-01 18:27:49 +0000"
+    },
+    "done": true
+  },
+  "create:spout": {
+    "criteria": {
+      "0": "2025-01-01 18:53:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-01 18:27:49 +0000"
     },
     "done": true
   },
@@ -6115,6 +6157,12 @@
     },
     "done": true
   },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-01-01 18:45:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-01-01 17:21:22 +0000"
@@ -6127,11 +6175,35 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-01-01 18:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-01 18:27:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2025-01-01 17:33:27 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-01-01 18:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-01 18:27:49 +0000"
+    },
+    "done": true
   },
   "create:recipes/misc/crafting/kinetics/sail_framefrom_conversion": {
     "criteria": {
@@ -6163,9 +6235,21 @@
     },
     "done": true
   },
+  "railways:recipes/misc/crafting/fuel_tank": {
+    "criteria": {
+      "has_item": "2025-01-01 18:35:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/redstone_link": {
     "criteria": {
       "has_item": "2025-01-01 16:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-01 18:27:49 +0000"
     },
     "done": true
   },
@@ -6182,6 +6266,12 @@
     },
     "done": true
   },
+  "create:windmill": {
+    "criteria": {
+      "0": "2025-01-01 18:20:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-01-01 17:21:22 +0000"
@@ -6191,6 +6281,18 @@
   "create:recipes/misc/crafting/kinetics/brass_door": {
     "criteria": {
       "has_item": "2025-01-01 16:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-01 18:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-01 18:27:49 +0000"
     },
     "done": true
   },
@@ -6206,6 +6308,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-01 18:27:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
     "criteria": {
       "has_item": "2025-01-01 17:02:18 +0000"
@@ -6218,9 +6326,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-01-01 18:27:49 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-01-01 17:09:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/schedule": {
+    "criteria": {
+      "has_item": "2025-01-01 18:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-01 18:27:49 +0000"
     },
     "done": true
   },
@@ -6230,9 +6356,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-01 18:27:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/nixie_tube": {
     "criteria": {
       "has_item": "2025-01-01 16:53:19 +0000"
+    },
+    "done": true
+  },
+  "create:train_casing_00": {
+    "criteria": {
+      "0": "2025-01-01 19:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-01 18:27:49 +0000"
     },
     "done": true
   },
