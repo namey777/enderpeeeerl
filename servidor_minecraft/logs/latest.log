@@ -812,3 +812,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Jan2025 19:33:18.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 tried to swim in lava
 [01Jan2025 19:33:31.082] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/100898, l='ServerLevel[New World]', x=200.66, y=139.00, z=16.52] died: Zombie Player tried to swim in lava
 [01Jan2025 19:34:04.068] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:swamp took 578 ms
+[01Jan2025 19:42:57.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Athryus97> tdfghj
+[01Jan2025 19:43:05.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 tried to swim in lava
+[01Jan2025 19:43:18.329] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Starcrack_FW357'/107378, l='ServerLevel[New World]', x=95.63, y=20.00, z=9.36] died: Zombie Player tried to swim in lava
+[01Jan2025 19:48:57.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 tried to swim in lava
+[01Jan2025 19:49:09.687] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/109814, l='ServerLevel[New World]', x=200.39, y=139.00, z=17.70] died: Zombie Player tried to swim in lava

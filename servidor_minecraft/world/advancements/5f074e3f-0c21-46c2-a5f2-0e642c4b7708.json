@@ -6086,9 +6086,27 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/black_placard": {
+    "criteria": {
+      "has_item": "2025-01-01 19:48:41 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_bars_overlay": {
+    "criteria": {
+      "has_item": "2025-01-01 19:48:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_arm": {
     "criteria": {
       "has_item": "2025-01-01 16:53:19 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/light_gray_placard": {
+    "criteria": {
+      "has_item": "2025-01-01 19:48:41 +0000"
     },
     "done": true
   },
@@ -6116,6 +6134,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/cyan_placard": {
+    "criteria": {
+      "has_item": "2025-01-01 19:48:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-01 18:27:49 +0000"
@@ -6140,6 +6164,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/orange_placard": {
+    "criteria": {
+      "has_item": "2025-01-01 19:48:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/content_observer": {
     "criteria": {
       "has_item": "2025-01-01 16:53:19 +0000"
@@ -6155,6 +6185,12 @@
   "create:recipes/misc/crafting/logistics/display_link": {
     "criteria": {
       "has_item": "2025-01-01 16:53:19 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/gray_placard": {
+    "criteria": {
+      "has_item": "2025-01-01 19:48:41 +0000"
     },
     "done": true
   },
@@ -6176,9 +6212,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/red_placard": {
+    "criteria": {
+      "has_item": "2025-01-01 19:48:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-01-01 18:27:49 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_mesh_fence": {
+    "criteria": {
+      "has_item": "2025-01-01 19:48:41 +0000"
     },
     "done": true
   },
@@ -6193,6 +6241,12 @@
       "minecraft:sheep": "2025-01-01 17:33:27 +0000"
     },
     "done": false
+  },
+  "createdeco:recipes/decorations/pink_placard": {
+    "criteria": {
+      "has_item": "2025-01-01 19:48:41 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
@@ -6227,6 +6281,24 @@
   "create:recipes/misc/crafting/kinetics/train_trapdoor": {
     "criteria": {
       "has_item": "2025-01-01 19:19:26 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/yellow_placard": {
+    "criteria": {
+      "has_item": "2025-01-01 19:48:41 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_catwalk_forge": {
+    "criteria": {
+      "has_item": "2025-01-01 19:48:41 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_support_wedge": {
+    "criteria": {
+      "has_item": "2025-01-01 19:48:41 +0000"
     },
     "done": true
   },
@@ -6272,9 +6344,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/green_brass_lamp": {
+    "criteria": {
+      "has_item": "2025-01-01 19:48:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/track_station": {
     "criteria": {
       "has_item": "2025-01-01 19:19:26 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/blue_brass_lamp": {
+    "criteria": {
+      "has_item": "2025-01-01 19:48:41 +0000"
     },
     "done": true
   },
@@ -6309,6 +6393,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/red_brass_lamp": {
+    "criteria": {
+      "has_item": "2025-01-01 19:48:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/track_signal": {
     "criteria": {
       "has_item": "2025-01-01 19:19:26 +0000"
@@ -6321,9 +6411,27 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/purple_placard": {
+    "criteria": {
+      "has_item": "2025-01-01 19:48:41 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/lime_placard": {
+    "criteria": {
+      "has_item": "2025-01-01 19:48:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/brass_door": {
     "criteria": {
       "has_item": "2025-01-01 16:53:19 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/yellow_brass_lamp": {
+    "criteria": {
+      "has_item": "2025-01-01 19:48:41 +0000"
     },
     "done": true
   },
@@ -6354,6 +6462,12 @@
   "create:recipes/misc/crafting/kinetics/controls": {
     "criteria": {
       "has_item": "2025-01-01 19:19:26 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/magenta_placard": {
+    "criteria": {
+      "has_item": "2025-01-01 19:48:41 +0000"
     },
     "done": true
   },
@@ -6393,9 +6507,27 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/blue_placard": {
+    "criteria": {
+      "has_item": "2025-01-01 19:48:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-01-01 18:27:49 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brown_placard": {
+    "criteria": {
+      "has_item": "2025-01-01 19:48:41 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_catwalk_railing_forge": {
+    "criteria": {
+      "has_item": "2025-01-01 19:48:41 +0000"
     },
     "done": true
   },
@@ -6435,6 +6567,24 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/misc/big_cartridge_sheet": {
+    "criteria": {
+      "has_brass_sheet": "2025-01-01 19:48:41 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_sheet_metal": {
+    "criteria": {
+      "has_item": "2025-01-01 19:48:41 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/light_blue_placard": {
+    "criteria": {
+      "has_item": "2025-01-01 19:48:41 +0000"
+    },
+    "done": true
+  },
   "create:train_casing_00": {
     "criteria": {
       "0": "2025-01-01 19:19:14 +0000"
@@ -6444,6 +6594,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-01 18:27:49 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/green_placard": {
+    "criteria": {
+      "has_item": "2025-01-01 19:48:41 +0000"
     },
     "done": true
   },
