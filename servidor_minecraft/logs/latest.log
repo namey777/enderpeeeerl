@@ -754,3 +754,61 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Jan2025 19:05:40.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
 [01Jan2025 19:13:20.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was processed by Crushing Wheels
 [01Jan2025 19:19:14.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 has made the advancement [The Logistical Age]
+[01Jan2025 19:21:58.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[01Jan2025 19:23:19.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 tried to swim in lava
+[01Jan2025 19:23:22.381] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Starcrack_FW357'/93615, l='ServerLevel[New World]', x=190.83, y=133.00, z=23.89] died: Zombie Player tried to swim in lava
+[01Jan2025 19:24:52.535] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=110, z=-342}
+[01Jan2025 19:24:52.537] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=109, z=-352}
+[01Jan2025 19:24:52.537] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=110, z=-352}
+[01Jan2025 19:24:52.538] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=110, z=-352}
+[01Jan2025 19:24:52.538] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=110, z=-352}
+[01Jan2025 19:24:52.538] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=109, z=-352}
+[01Jan2025 19:24:52.539] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"coffee_delight:coffee_wafer"}
+[01Jan2025 19:24:52.539] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=109, z=-352}
+[01Jan2025 19:24:52.540] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:rose_hip_pie"}
+[01Jan2025 19:24:52.541] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=109, z=-351}
+[01Jan2025 19:24:52.541] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:coffee"}
+[01Jan2025 19:24:52.541] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=109, z=-351}
+[01Jan2025 19:24:52.542] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:green_tea"}
+[01Jan2025 19:24:52.542] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=110, z=-351}
+[01Jan2025 19:24:52.543] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:popcorn"}
+[01Jan2025 19:24:52.543] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=110, z=-351}
+[01Jan2025 19:24:52.543] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:tortilla_chips"}
+[01Jan2025 19:24:52.544] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=110, z=-320}
+[01Jan2025 19:24:52.544] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=109, z=-318}
+[01Jan2025 19:24:52.544] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=110, z=-318}
+[01Jan2025 19:24:52.544] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=111, z=-318}
+[01Jan2025 19:24:52.545] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=111, z=-318}
+[01Jan2025 19:24:52.545] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=110, z=-318}
+[01Jan2025 19:24:52.546] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=109, z=-318}
+[01Jan2025 19:24:52.546] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=112, z=-318}
+[01Jan2025 19:24:52.546] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=112, z=-318}
+[01Jan2025 19:24:52.550] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=110, z=-342}
+[01Jan2025 19:24:52.550] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=109, z=-344}
+[01Jan2025 19:24:52.551] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=110, z=-344}
+[01Jan2025 19:24:52.551] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=111, z=-344}
+[01Jan2025 19:24:52.552] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=111, z=-344}
+[01Jan2025 19:24:52.552] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=110, z=-344}
+[01Jan2025 19:24:52.552] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=109, z=-344}
+[01Jan2025 19:24:52.553] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=112, z=-344}
+[01Jan2025 19:24:52.553] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=112, z=-344}
+[01Jan2025 19:24:52.553] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=110, z=-320}
+[01Jan2025 19:24:52.554] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-166, y=109, z=-310}
+[01Jan2025 19:24:52.554] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-166, y=110, z=-310}
+[01Jan2025 19:24:52.554] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=110, z=-310}
+[01Jan2025 19:24:52.555] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=110, z=-310}
+[01Jan2025 19:24:52.556] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=109, z=-310}
+[01Jan2025 19:24:52.556] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"coffee_delight:coffee_wafer"}
+[01Jan2025 19:24:52.557] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=109, z=-310}
+[01Jan2025 19:24:52.557] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:rose_hip_pie"}
+[01Jan2025 19:24:52.558] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=109, z=-311}
+[01Jan2025 19:24:52.559] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:coffee"}
+[01Jan2025 19:24:52.559] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=109, z=-311}
+[01Jan2025 19:24:52.559] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:green_tea"}
+[01Jan2025 19:24:52.560] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=110, z=-311}
+[01Jan2025 19:24:52.560] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:popcorn"}
+[01Jan2025 19:24:52.560] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=110, z=-311}
+[01Jan2025 19:24:52.561] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:tortilla_chips"}
+[01Jan2025 19:33:18.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 tried to swim in lava
+[01Jan2025 19:33:31.082] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/100898, l='ServerLevel[New World]', x=200.66, y=139.00, z=16.52] died: Zombie Player tried to swim in lava
+[01Jan2025 19:34:04.068] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:swamp took 578 ms
