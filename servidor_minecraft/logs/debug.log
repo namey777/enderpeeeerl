@@ -10705,3 +10705,18 @@ java.lang.Throwable: null
 [07Jan2025 14:49:29.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 joined the game
 [07Jan2025 14:49:29.806] [Server thread/INFO] [Jade/]: Syncing config to Athryus97 (187f4ffb-f36f-433a-beb8-599521864f1f)
 [07Jan2025 14:51:01.830] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:swamp took 657 ms
+[07Jan2025 14:52:58.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[07Jan2025 14:52:59.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[07Jan2025 14:53:19.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[07Jan2025 14:53:34.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[07Jan2025 14:55:07.242] [Server thread/DEBUG] [mixin/]: Mixing MixinExplosionDamageCalculator from railways-common.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[07Jan2025 14:57:13.410] [Worker-Main-2/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[07Jan2025 14:57:58.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[07Jan2025 14:57:58.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[07Jan2025 14:58:50.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 tried to swim in lava
+[07Jan2025 14:59:04.052] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Starcrack_FW357'/11219, l='ServerLevel[New World]', x=198.29, y=139.00, z=17.21] died: Zombie Player tried to swim in lava
+[07Jan2025 15:00:43.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[07Jan2025 15:01:12.329] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=646, y=77, z=727} BlockPos{x=646, y=76, z=726}
+[07Jan2025 15:01:15.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 burned to death
+[07Jan2025 15:01:32.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[07Jan2025 15:01:50.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]

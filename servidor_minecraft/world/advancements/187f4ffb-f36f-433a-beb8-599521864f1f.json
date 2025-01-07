@@ -4742,15 +4742,39 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/light_blue_shipping_container": {
+  "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "has_item": "2025-01-01 19:26:03 +0000"
+      "wheat": "2025-01-01 17:51:28 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/mechanical_saw": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
-      "has_item": "2025-01-01 20:02:28 +0000"
+      "has_moss_block": "2025-01-01 18:28:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-01-01 18:28:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-01-01 18:28:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-01 18:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-01 18:40:37 +0000"
     },
     "done": true
   },
@@ -4760,69 +4784,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/chute": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/wrench": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/gantry_shaft": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:59 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/red_andesite_lamp": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_press": {
-    "criteria": {
-      "has_item": "2025-01-01 20:02:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/rope_pulley": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/super_glue": {
-    "criteria": {
-      "has_item": "2025-01-01 19:26:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/andesite_door": {
-    "criteria": {
-      "has_item": "2025-01-01 20:02:28 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/iron_catwalk_forge": {
-    "criteria": {
-      "has_item": "2025-01-01 19:26:03 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-01-01 18:48:16 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/decal_down_right": {
-    "criteria": {
-      "has_item": "2025-01-01 19:26:03 +0000"
     },
     "done": true
   },
@@ -4838,51 +4802,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/water_wheel": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:59 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/decal_up": {
-    "criteria": {
-      "has_item": "2025-01-01 19:26:03 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-01-01 18:48:16 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/green_shipping_container": {
-    "criteria": {
-      "has_item": "2025-01-01 19:26:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/large_cogwheel_from_little": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
-    "criteria": {
-      "has_item": "2025-01-01 20:02:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/andesite_alloy_block": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:58 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/green_andesite_lamp": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:58 +0000"
     },
     "done": true
   },
@@ -4892,21 +4814,165 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/red_shipping_container": {
+  "create:recipes/misc/crafting/palettes/scorchia": {
+    "criteria": {
+      "has_item": "2025-01-01 18:48:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-01 18:48:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-01 18:48:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-01 18:48:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-01 18:48:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-01 18:48:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-01 18:48:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-01 18:48:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-01 18:48:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-01 18:48:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-01 18:48:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-01 18:48:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-01 18:48:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-01 18:48:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-01 18:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-01 19:14:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-01 19:14:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-01 19:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-01 19:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-01 19:22:37 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/light_blue_shipping_container": {
     "criteria": {
       "has_item": "2025-01-01 19:26:03 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/wooden_bracket": {
+  "create:recipes/misc/crafting/kinetics/super_glue": {
     "criteria": {
-      "has_item": "2025-01-01 20:01:58 +0000"
+      "has_item": "2025-01-01 19:26:03 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/weighted_ejector": {
+  "createdeco:recipes/decorations/iron_catwalk_forge": {
     "criteria": {
-      "has_item": "2025-01-01 20:02:28 +0000"
+      "has_item": "2025-01-01 19:26:03 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_down_right": {
+    "criteria": {
+      "has_item": "2025-01-01 19:26:03 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_up": {
+    "criteria": {
+      "has_item": "2025-01-01 19:26:03 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/green_shipping_container": {
+    "criteria": {
+      "has_item": "2025-01-01 19:26:03 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/red_shipping_container": {
+    "criteria": {
+      "has_item": "2025-01-01 19:26:03 +0000"
     },
     "done": true
   },
@@ -4928,27 +4994,9 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/andesite_mesh_fence_from_stonecutting": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:58 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/decal_electrical": {
     "criteria": {
       "has_item": "2025-01-01 19:26:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_plough": {
-    "criteria": {
-      "has_item": "2025-01-01 20:02:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/belt_connector": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:59 +0000"
     },
     "done": true
   },
@@ -4958,45 +5006,15 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/andesite_catwalk_railing_from_stonecutting": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:58 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/decal_down": {
     "criteria": {
       "has_item": "2025-01-01 19:26:03 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
-    "criteria": {
-      "has_item": "2025-01-01 20:02:28 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/iron_sheet_metal": {
     "criteria": {
       "has_item": "2025-01-01 19:26:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/palettes/scorchia": {
-    "criteria": {
-      "has_item": "2025-01-01 18:48:16 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-01-01 18:48:16 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/curiosities/minecart_coupling": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:58 +0000"
     },
     "done": true
   },
@@ -5012,63 +5030,15 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/clutch": {
-    "criteria": {
-      "has_item": "2025-01-01 20:02:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/depot": {
-    "criteria": {
-      "has_item": "2025-01-01 20:02:28 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/lime_shipping_container": {
     "criteria": {
       "has_item": "2025-01-01 19:26:03 +0000"
     },
     "done": true
   },
-  "railways:recipes/misc/crafting/track_switch_andesite": {
-    "criteria": {
-      "has_item": "2025-01-01 20:02:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-01-01 18:48:16 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/metal_girder": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:58 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/decal_skull": {
     "criteria": {
       "has_item": "2025-01-01 19:26:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/shaft": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:59 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/andesite_bars": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/hand_crank": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:59 +0000"
     },
     "done": true
   },
@@ -5102,51 +5072,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/turntable": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:59 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/blue_iron_lamp": {
     "criteria": {
       "has_item": "2025-01-01 19:26:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
-    "criteria": {
-      "has_item": "2025-01-01 20:02:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_drill": {
-    "criteria": {
-      "has_item": "2025-01-01 20:02:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-01-01 18:48:16 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/andesite_bars_from_andesite_alloy_stonecutting": {
-    "criteria": {
-      "has_andesite_alloy": "2025-01-01 20:01:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/sticker": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:58 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/andesite_trapdoor": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:58 +0000"
     },
     "done": true
   },
@@ -5156,51 +5084,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-01-01 19:22:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-01-01 18:48:16 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/nozzle": {
-    "criteria": {
-      "has_item": "2025-01-01 20:05:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/radial_chassis": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_piston": {
-    "criteria": {
-      "has_item": "2025-01-01 20:02:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/sticky_mechanical_piston": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:59 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/encased_fan": {
     "criteria": {
       "has_item": "2025-01-01 19:26:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-01-01 18:48:16 +0000"
     },
     "done": true
   },
@@ -5210,45 +5096,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/goggles": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/andesite_alloy_from_block": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:58 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/whisk": {
     "criteria": {
       "has_item": "2025-01-01 19:26:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/display_board": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:59 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/andesite_support": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/piston_extension_pole": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/andesite_scaffolding_from_andesite_alloy_stonecutting": {
-    "criteria": {
-      "has_andesite_alloy": "2025-01-01 20:01:59 +0000"
     },
     "done": true
   },
@@ -5258,81 +5108,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-01-01 18:48:16 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/speedometer": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/cuckoo_clock": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/analog_lever": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:58 +0000"
-    },
-    "done": true
-  },
-  "create:andesite_alloy": {
-    "criteria": {
-      "0": "2025-01-01 20:01:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/cart_assembler": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:58 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/green_iron_lamp": {
     "criteria": {
       "has_item": "2025-01-01 19:26:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-01-01 18:48:16 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_roller": {
-    "criteria": {
-      "has_item": "2025-01-01 20:02:28 +0000"
-    },
-    "done": true
-  },
-  "create:andesite_casing": {
-    "criteria": {
-      "0": "2025-01-01 20:02:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2025-01-01 18:40:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/filter": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/white_sail": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:58 +0000"
     },
     "done": true
   },
@@ -5360,21 +5138,9 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/andesite_catwalk_from_stonecutting": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:59 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/magenta_shipping_container": {
     "criteria": {
       "has_item": "2025-01-01 19:26:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
-    "criteria": {
-      "has_item": "2025-01-01 20:02:28 +0000"
     },
     "done": true
   },
@@ -5390,39 +5156,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-01-01 18:48:16 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/clipboard": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:58 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/cyan_shipping_container": {
     "criteria": {
       "has_item": "2025-01-01 19:26:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/linear_chassis": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/gantry_carriage": {
-    "criteria": {
-      "has_item": "2025-01-01 20:02:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
-    "criteria": {
-      "has_item": "2025-01-01 20:13:54 +0000"
     },
     "done": true
   },
@@ -5438,27 +5174,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/logistics/andesite_tunnel": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/millstone": {
-    "criteria": {
-      "has_item": "2025-01-01 20:02:28 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/decal_fire": {
     "criteria": {
       "has_item": "2025-01-01 19:26:03 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/andesite_support_wedge_from_stonecutting": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:59 +0000"
     },
     "done": true
   },
@@ -5468,33 +5186,171 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/paper": {
+  "createdeco:recipes/decorations/decal_top_left": {
     "criteria": {
-      "has_reeds": "2025-01-01 19:14:06 +0000"
+      "has_item": "2025-01-01 19:26:03 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+  "createdeco:recipes/decorations/light_gray_shipping_container": {
     "criteria": {
-      "has_stone_types_scoria": "2025-01-01 18:48:16 +0000"
+      "has_item": "2025-01-01 19:26:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+  "createdeco:recipes/decorations/black_shipping_container": {
     "criteria": {
-      "has_moss_block": "2025-01-01 18:28:28 +0000"
+      "has_item": "2025-01-01 19:26:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/lead": {
+  "createdeco:recipes/decorations/orange_shipping_container": {
     "criteria": {
-      "has_slime_ball": "2025-01-01 19:22:37 +0000"
+      "has_item": "2025-01-01 19:26:03 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/windmill_bearing": {
+  "createdeco:recipes/decorations/blue_shipping_container": {
     "criteria": {
-      "has_item": "2025-01-01 20:01:59 +0000"
+      "has_item": "2025-01-01 19:26:03 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_catwalk_railing_forge": {
+    "criteria": {
+      "has_item": "2025-01-01 19:26:03 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_mesh_fence": {
+    "criteria": {
+      "has_item": "2025-01-01 19:26:03 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_support_wedge": {
+    "criteria": {
+      "has_item": "2025-01-01 19:26:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/wrench": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_block": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:58 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/green_andesite_lamp": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/wooden_bracket": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:58 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/andesite_mesh_fence_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:58 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/andesite_catwalk_railing_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/minecart_coupling": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/metal_girder": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:58 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/andesite_bars": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sticker": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:58 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/andesite_trapdoor": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/goggles": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_block": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/speedometer": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cuckoo_clock": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/analog_lever": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cart_assembler": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/white_sail": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/clipboard": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/andesite_tunnel": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:58 +0000"
     },
     "done": true
   },
@@ -5507,12 +5363,6 @@
   "create:recipes/misc/crafting/kinetics/basin": {
     "criteria": {
       "has_item": "2025-01-01 20:01:58 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/decal_top_left": {
-    "criteria": {
-      "has_item": "2025-01-01 19:26:03 +0000"
     },
     "done": true
   },
@@ -5534,21 +5384,165 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-01-01 18:48:16 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/light_gray_shipping_container": {
-    "criteria": {
-      "has_item": "2025-01-01 19:26:03 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/building_blocks/andesite_window": {
     "criteria": {
       "has_item": "2025-01-01 20:01:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cogwheel": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/contraption_controls": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/metal_bracket": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/chute": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gantry_shaft": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/red_andesite_lamp": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rope_pulley": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/water_wheel": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_cogwheel_from_little": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/belt_connector": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/shaft": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hand_crank": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/turntable": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_bars_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2025-01-01 20:01:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/radial_chassis": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sticky_mechanical_piston": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/display_board": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/andesite_support": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/piston_extension_pole": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_scaffolding_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2025-01-01 20:01:59 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-01-01 20:01:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/filter": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/andesite_catwalk_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/linear_chassis": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/andesite_support_wedge_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/windmill_bearing": {
+    "criteria": {
+      "has_item": "2025-01-01 20:01:59 +0000"
     },
     "done": true
   },
@@ -5564,75 +5558,9 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/black_shipping_container": {
-    "criteria": {
-      "has_item": "2025-01-01 19:26:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-01-01 19:22:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-01-01 19:14:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-01-01 18:48:16 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/orange_shipping_container": {
-    "criteria": {
-      "has_item": "2025-01-01 19:26:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/cogwheel": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:58 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/blue_shipping_container": {
-    "criteria": {
-      "has_item": "2025-01-01 19:26:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/contraption_controls": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-01-01 18:48:16 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-01-01 18:48:16 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/blue_andesite_lamp": {
     "criteria": {
       "has_item": "2025-01-01 20:01:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2025-01-01 18:28:28 +0000"
     },
     "done": true
   },
@@ -5642,27 +5570,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2025-01-01 17:51:28 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/andesite_catwalk_stairs_from_stonecutting": {
     "criteria": {
       "has_item": "2025-01-01 20:01:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/metal_bracket": {
-    "criteria": {
-      "has_item": "2025-01-01 20:01:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_red_mushroom": "2025-01-01 18:40:37 +0000"
     },
     "done": true
   },
@@ -5672,21 +5582,111 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
+  "create:andesite_casing": {
     "criteria": {
-      "has_stone_types_scoria": "2025-01-01 18:48:16 +0000"
+      "0": "2025-01-01 20:02:10 +0000"
     },
     "done": true
   },
-  "createdeco:recipes/decorations/iron_catwalk_railing_forge": {
+  "create:recipes/misc/crafting/kinetics/mechanical_saw": {
     "criteria": {
-      "has_item": "2025-01-01 19:26:03 +0000"
+      "has_item": "2025-01-01 20:02:28 +0000"
     },
     "done": true
   },
-  "createdeco:recipes/decorations/iron_mesh_fence": {
+  "create:recipes/misc/crafting/kinetics/mechanical_press": {
     "criteria": {
-      "has_item": "2025-01-01 19:26:03 +0000"
+      "has_item": "2025-01-01 20:02:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/andesite_door": {
+    "criteria": {
+      "has_item": "2025-01-01 20:02:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
+    "criteria": {
+      "has_item": "2025-01-01 20:02:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/weighted_ejector": {
+    "criteria": {
+      "has_item": "2025-01-01 20:02:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_plough": {
+    "criteria": {
+      "has_item": "2025-01-01 20:02:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
+    "criteria": {
+      "has_item": "2025-01-01 20:02:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/clutch": {
+    "criteria": {
+      "has_item": "2025-01-01 20:02:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/depot": {
+    "criteria": {
+      "has_item": "2025-01-01 20:02:28 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/track_switch_andesite": {
+    "criteria": {
+      "has_item": "2025-01-01 20:02:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
+    "criteria": {
+      "has_item": "2025-01-01 20:02:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_drill": {
+    "criteria": {
+      "has_item": "2025-01-01 20:02:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_piston": {
+    "criteria": {
+      "has_item": "2025-01-01 20:02:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_roller": {
+    "criteria": {
+      "has_item": "2025-01-01 20:02:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
+    "criteria": {
+      "has_item": "2025-01-01 20:02:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gantry_carriage": {
+    "criteria": {
+      "has_item": "2025-01-01 20:02:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/millstone": {
+    "criteria": {
+      "has_item": "2025-01-01 20:02:28 +0000"
     },
     "done": true
   },
@@ -5696,15 +5696,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+  "create:recipes/misc/crafting/kinetics/nozzle": {
     "criteria": {
-      "has_moss_block": "2025-01-01 18:28:28 +0000"
+      "has_item": "2025-01-01 20:05:26 +0000"
     },
     "done": true
   },
-  "createdeco:recipes/decorations/iron_support_wedge": {
+  "create:recipes/misc/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
     "criteria": {
-      "has_item": "2025-01-01 19:26:03 +0000"
+      "has_item": "2025-01-01 20:13:54 +0000"
     },
     "done": true
   },
