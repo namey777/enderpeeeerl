@@ -6677,6 +6677,12 @@
     },
     "done": true
   },
+  "create:compacting": {
+    "criteria": {
+      "0": "2025-01-07 15:45:50 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/industrial_iron_bars_from_stonecutting": {
     "criteria": {
       "has_item": "2025-01-07 15:46:16 +0000"
@@ -6737,12 +6743,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2025-01-07 16:45:42 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/industrial_iron_ladder_from_stonecutting": {
     "criteria": {
       "has_item": "2025-01-07 15:46:16 +0000"
@@ -6773,33 +6773,9 @@
     },
     "done": true
   },
-  "create:compacting": {
-    "criteria": {
-      "0": "2025-01-07 15:45:50 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/brass_hull": {
-    "criteria": {
-      "has_item": "2025-01-07 16:33:51 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/brass_ingot_from_decompacting": {
-    "criteria": {
-      "has_item": "2025-01-07 16:33:51 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/decorations/industrial_iron_catwalk_railing_from_stonecutting": {
     "criteria": {
       "has_item": "2025-01-07 15:46:16 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/decorations/brass_hull_from_stonecutting": {
-    "criteria": {
-      "has_item": "2025-01-07 16:33:51 +0000"
     },
     "done": true
   },
@@ -6830,6 +6806,486 @@
   "railways:recipes/transportation/conductor_vent_from_industrial_iron_block_stonecutting": {
     "criteria": {
       "has_industrial_iron_block": "2025-01-07 15:46:16 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_hull": {
+    "criteria": {
+      "has_item": "2025-01-07 16:33:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-01-07 16:33:51 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-07 16:33:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-01-07 16:45:42 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/short_dean_bricks_from_dean_bricks_stonecutting": {
+    "criteria": {
+      "has_dean_bricks": "2025-01-07 17:58:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-07 18:16:22 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/tiled_dean_brick_wall_from_dean_bricks_stonecutting": {
+    "criteria": {
+      "has_dean_bricks": "2025-01-07 17:58:54 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/short_dean_brick_slab_from_dean_bricks_stonecutting": {
+    "criteria": {
+      "has_dean_bricks": "2025-01-07 17:58:54 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/corner_dean_brick_slab_from_dean_bricks_stonecutting": {
+    "criteria": {
+      "has_dean_bricks": "2025-01-07 17:58:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-07 18:16:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-07 18:16:22 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/dean_brick_wall_from_dean_bricks_stonecutting": {
+    "criteria": {
+      "has_dean_bricks": "2025-01-07 17:58:54 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/corner_dean_bricks_from_dean_bricks_stonecutting": {
+    "criteria": {
+      "has_dean_bricks": "2025-01-07 17:58:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-01-07 18:16:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-01-07 17:40:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-07 17:44:30 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/cracked_dean_brick_stairs": {
+    "criteria": {
+      "has_cracked_dean_bricks": "2025-01-07 18:03:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-07 17:25:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_slab_recycling": {
+    "criteria": {
+      "has_polished_cut_limestone_slab": "2025-01-07 17:56:21 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/short_dean_brick_stairs_from_dean_bricks_stonecutting": {
+    "criteria": {
+      "has_dean_bricks": "2025-01-07 17:58:54 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/dean_brick_wall": {
+    "criteria": {
+      "has_dean_bricks": "2025-01-07 17:58:54 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/cracked_dean_bricks_from_dean_bricks_smelting": {
+    "criteria": {
+      "has_dean_bricks": "2025-01-07 17:58:54 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/tiled_dean_bricks_from_dean_bricks_stonecutting": {
+    "criteria": {
+      "has_dean_bricks": "2025-01-07 17:58:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-07 17:44:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-07 17:44:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-07 18:16:22 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/cracked_dean_bricks_from_dean_bricks_blasting": {
+    "criteria": {
+      "has_dean_bricks": "2025-01-07 17:58:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-07 18:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-07 18:16:46 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/dean_brick_stairs_from_dean_bricks_stonecutting": {
+    "criteria": {
+      "has_dean_bricks": "2025-01-07 17:58:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-07 18:16:46 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-01-07 17:44:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-01-07 18:16:46 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/red_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-07 18:16:46 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/mossy_dean_bricks_from_moss_block": {
+    "criteria": {
+      "hasitem": "2025-01-07 17:58:54 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/dean_brick_slab_from_dean_bricks_stonecutting": {
+    "criteria": {
+      "has_dean_bricks": "2025-01-07 17:58:54 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/cracked_dean_brick_slab": {
+    "criteria": {
+      "has_cracked_dean_bricks": "2025-01-07 18:03:30 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/long_dean_bricks_from_dean_bricks_stonecutting": {
+    "criteria": {
+      "has_dean_bricks": "2025-01-07 17:58:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2025-01-07 16:57:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-01-07 18:16:46 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/dean_brick_stairs": {
+    "criteria": {
+      "has_dean_bricks": "2025-01-07 17:58:54 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/mossy_dean_bricks_from_vine": {
+    "criteria": {
+      "hasitem": "2025-01-07 17:58:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window_pane": {
+    "criteria": {
+      "has_ingredient": "2025-01-07 19:45:35 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/cracked_dean_brick_stairs_from_cracked_dean_bricks_stonecutting": {
+    "criteria": {
+      "has_cracked_dean_bricks": "2025-01-07 18:03:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-01-07 17:25:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-07 18:16:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-07 18:16:22 +0000"
+    },
+    "done": true
+  },
+  "jeg:infantry_rifle": {
+    "criteria": {
+      "Item": "2025-01-07 18:10:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-01-07 17:25:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-07 18:16:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-07 18:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-07 18:16:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-07 18:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-01-07 17:25:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-07 18:16:22 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/cracked_dean_brick_wall": {
+    "criteria": {
+      "has_cracked_dean_bricks": "2025-01-07 18:03:30 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/long_dean_brick_slab_from_dean_bricks_stonecutting": {
+    "criteria": {
+      "has_dean_bricks": "2025-01-07 17:58:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-07 18:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-01-07 19:01:24 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/cracked_dean_brick_slab_from_cracked_dean_bricks_stonecutting": {
+    "criteria": {
+      "has_cracked_dean_bricks": "2025-01-07 18:03:30 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/long_dean_brick_wall_from_dean_bricks_stonecutting": {
+    "criteria": {
+      "has_dean_bricks": "2025-01-07 17:58:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-01-07 18:16:46 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/corner_dean_brick_wall_from_dean_bricks_stonecutting": {
+    "criteria": {
+      "has_dean_bricks": "2025-01-07 17:58:54 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/tiled_dean_brick_slab_from_dean_bricks_stonecutting": {
+    "criteria": {
+      "has_dean_bricks": "2025-01-07 17:58:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-07 19:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-01-07 18:16:46 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/tiled_dean_brick_stairs_from_dean_bricks_stonecutting": {
+    "criteria": {
+      "has_dean_bricks": "2025-01-07 17:58:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-01-07 17:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-07 18:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-07 17:25:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-07 18:16:22 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/long_dean_brick_stairs_from_dean_bricks_stonecutting": {
+    "criteria": {
+      "has_dean_bricks": "2025-01-07 17:58:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-01-07 18:16:46 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/dean_brick_slab": {
+    "criteria": {
+      "has_dean_bricks": "2025-01-07 17:58:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-07 17:44:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-07 18:16:22 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/cracked_dean_brick_wall_from_cracked_dean_bricks_stonecutting": {
+    "criteria": {
+      "has_cracked_dean_bricks": "2025-01-07 18:03:30 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/corner_dean_brick_stairs_from_dean_bricks_stonecutting": {
+    "criteria": {
+      "has_dean_bricks": "2025-01-07 17:58:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-01-07 18:16:22 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/short_dean_brick_wall_from_dean_bricks_stonecutting": {
+    "criteria": {
+      "has_dean_bricks": "2025-01-07 17:58:54 +0000"
     },
     "done": true
   },

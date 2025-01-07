@@ -1,132 +1,132 @@
-[07Jan2025 14:42:00.502] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[07Jan2025 14:42:00.512] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[07Jan2025 14:42:02.021] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[07Jan2025 14:42:02.145] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/enderpeeeerl/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[07Jan2025 14:42:02.694] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/enderpeeeerl/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[07Jan2025 14:42:02.697] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/enderpeeeerl/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[07Jan2025 14:42:02.701] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/enderpeeeerl/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[07Jan2025 14:42:02.705] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/enderpeeeerl/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[07Jan2025 14:42:03.287] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[07Jan2025 14:42:03.289] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
-[07Jan2025 14:42:07.307] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[07Jan2025 14:42:07.411] [main/ERROR] [mixin/]: Mixin config rei-jei-internals-workaround.mixins.json does not specify "minVersion" property
-[07Jan2025 14:42:07.496] [main/ERROR] [mixin/]: Mixin config rei.mixins.json does not specify "minVersion" property
-[07Jan2025 14:42:07.575] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[07Jan2025 14:42:07.672] [main/WARN] [mixin/]: Reference map 'createdeco-forge-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
-[07Jan2025 14:42:07.904] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.0+mc1.20.1: 86 options available, 0 override(s) found
-[07Jan2025 14:42:07.906] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[07Jan2025 14:42:07.950] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[07Jan2025 14:42:08.287] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 98 options available, 0 override(s) found
-[07Jan2025 14:42:09.270] [main/WARN] [mixin/]: Error loading class: xfacthd/framedblocks/common/blockentity/doubled/FramedAdjustableDoubleBlockEntity (java.lang.ClassNotFoundException: xfacthd.framedblocks.common.blockentity.doubled.FramedAdjustableDoubleBlockEntity)
-[07Jan2025 14:42:09.272] [main/WARN] [mixin/]: @Mixin target xfacthd.framedblocks.common.blockentity.doubled.FramedAdjustableDoubleBlockEntity was not found createbigcannons.mixins.json:compat.FramedAdjustableDoubleBlockEntityAccessor
-[07Jan2025 14:42:12.645] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[07Jan2025 14:42:14.343] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (17.49 s after launch)
-[07Jan2025 14:42:14.738] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[07Jan2025 14:42:14.740] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[07Jan2025 14:42:17.552] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 3205 milliseconds
-[07Jan2025 14:42:22.342] [modloading-worker-0/INFO] [Create Deco/]: Registering items for Create Deco
-[07Jan2025 14:42:22.694] [modloading-worker-0/INFO] [Create Deco/]: Registering blocks for Create Deco
-[07Jan2025 14:42:24.674] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event...
-[07Jan2025 14:42:25.674] [modloading-worker-0/INFO] [hordes/]: Trying to load common config
-[07Jan2025 14:42:25.684] [modloading-worker-0/INFO] [hordes/]: Trying to load client config
-[07Jan2025 14:42:25.696] [modloading-worker-0/INFO] [hordes/]: Config files are up to date, skipping data/asset generation
-[07Jan2025 14:42:25.729] [modloading-worker-0/INFO] [Railways/]: Steam 'n' Rails v1.6.7 initializing! Commit hash: 0a7cc000d6c7a1419919bc3e315bc62932287eb9 on Create version: 0.5.1j on platform: Forge
-[07Jan2025 14:42:26.074] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[07Jan2025 14:42:26.082] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[07Jan2025 14:42:26.529] [modloading-worker-0/INFO] [Railways/]: Registered bogey styles from railways
-[07Jan2025 14:42:26.616] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[07Jan2025 14:42:26.617] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
-[07Jan2025 14:42:26.618] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIServerPlugin
-[07Jan2025 14:42:26.622] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIPlugin
-[07Jan2025 14:42:26.629] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
-[07Jan2025 14:42:26.629] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
-[07Jan2025 14:42:26.644] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:delete_item
-[07Jan2025 14:42:26.644] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:create_item
-[07Jan2025 14:42:26.645] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
-[07Jan2025 14:42:26.645] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
-[07Jan2025 14:42:26.646] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:move_items
-[07Jan2025 14:42:26.646] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:move_items_new
-[07Jan2025 14:42:26.944] [modloading-worker-0/INFO] [Railways/]: Registering data fixers
-[07Jan2025 14:42:27.455] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
-[07Jan2025 14:42:27.472] [modloading-worker-0/INFO] [ModernFix/]: Instantiating Mojang DFU
-[07Jan2025 14:42:28.908] [modloading-worker-0/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 0 Datafixer optimizations took 0 milliseconds
-[07Jan2025 14:42:28.922] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Hex Casting
-[07Jan2025 14:42:28.932] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Oh The Biomes You'll Go
-[07Jan2025 14:42:28.933] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Blue Skies
-[07Jan2025 14:42:28.934] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Twilight Forest
-[07Jan2025 14:42:28.935] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Biomes O' Plenty
-[07Jan2025 14:42:28.936] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Nature's Spirit
-[07Jan2025 14:42:28.942] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Dreams and Desires
-[07Jan2025 14:42:28.942] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Quark
-[07Jan2025 14:42:28.943] [modloading-worker-0/INFO] [Railways/]: Registering tracks for TerraFirmaCraft
-[07Jan2025 14:42:31.507] [main/INFO] [Create Deco/]: placard tooltip was null
-[07Jan2025 14:42:31.507] [main/INFO] [Create Deco/]: placard tooltip was null
-[07Jan2025 14:42:31.508] [main/INFO] [Create Deco/]: placard tooltip was null
-[07Jan2025 14:42:31.508] [main/INFO] [Create Deco/]: placard tooltip was null
-[07Jan2025 14:42:31.508] [main/INFO] [Create Deco/]: placard tooltip was null
-[07Jan2025 14:42:31.508] [main/INFO] [Create Deco/]: placard tooltip was null
-[07Jan2025 14:42:31.509] [main/INFO] [Create Deco/]: placard tooltip was null
-[07Jan2025 14:42:31.509] [main/INFO] [Create Deco/]: placard tooltip was null
-[07Jan2025 14:42:31.509] [main/INFO] [Create Deco/]: placard tooltip was null
-[07Jan2025 14:42:31.509] [main/INFO] [Create Deco/]: placard tooltip was null
-[07Jan2025 14:42:31.510] [main/INFO] [Create Deco/]: placard tooltip was null
-[07Jan2025 14:42:31.510] [main/INFO] [Create Deco/]: placard tooltip was null
-[07Jan2025 14:42:31.510] [main/INFO] [Create Deco/]: placard tooltip was null
-[07Jan2025 14:42:31.510] [main/INFO] [Create Deco/]: placard tooltip was null
-[07Jan2025 14:42:31.511] [main/INFO] [Create Deco/]: placard tooltip was null
-[07Jan2025 14:42:32.573] [modloading-worker-0/INFO] [incontrol/]: Enabling support for Lost Cities
-[07Jan2025 14:42:32.577] [modloading-worker-0/INFO] [incontrol/]: Enabling support for Lost Cities
-[07Jan2025 14:42:32.609] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
-[07Jan2025 14:42:32.852] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json
-[07Jan2025 14:42:32.875] [modloading-worker-0/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
-[07Jan2025 14:42:32.926] [modloading-worker-0/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
-[07Jan2025 14:42:33.113] [modloading-worker-0/INFO] [corgitaco.enhancedcelestials.EnhancedCelestials/]: Initialized enhancedcelestials network!
-[07Jan2025 14:42:33.123] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
-[07Jan2025 14:42:33.135] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
-[07Jan2025 14:42:33.527] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Found status: AHEAD Current: 1.8.5+mod Target: null
-[07Jan2025 14:42:33.528] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
-[07Jan2025 14:42:33.809] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
-[07Jan2025 14:42:33.809] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hordes] Starting version check at https://raw.githubusercontent.com/SmileycorpMC/The-Hordes/1.20/update.json
-[07Jan2025 14:42:33.857] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hordes] Found status: UP_TO_DATE Current: 1.5.4 Target: null
-[07Jan2025 14:42:33.858] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[07Jan2025 14:42:34.200] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
-[07Jan2025 14:42:34.200] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
-[07Jan2025 14:42:34.321] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: AHEAD Current: 1.20.1-1.1.23 Target: null
-[07Jan2025 14:42:34.322] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[07Jan2025 14:42:34.503] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[07Jan2025 14:42:34.503] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [atlaslib] Starting version check at https://raw.githubusercontent.com/SmileycorpMC/Atlas-Lib/1.20/update.json
-[07Jan2025 14:42:34.509] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [atlaslib] Found status: UP_TO_DATE Current: 1.1.12 Target: null
-[07Jan2025 14:42:34.510] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[07Jan2025 14:42:35.579] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[07Jan2025 14:42:37.591] [main/INFO] [jeg/]: Registered the following Factions: [night_of_the_undead|1|minecraft:zombie,minecraft:zombie_villager,minecraft:husk|jeg:custom_smg,jeg:waterpipe_shotgun|jeg:revolver|jeg:double_barrel_shotgun, the_rattlers|2|minecraft:skeleton,minecraft:stray|jeg:custom_smg|jeg:semi_auto_rifle|jeg:bolt_action_rifle, nosy_business|3|minecraft:pillager,minecraft:vindicator|jeg:pump_shotgun|jeg:semi_auto_rifle,jeg:assault_rifle|jeg:repeating_shotgun,jeg:service_rifle, bad_piggies|2|minecraft:piglin,minecraft:piglin_brute|jeg:double_barrel_shotgun,jeg:waterpipe_shotgun|jeg:assault_rifle,jeg:semi_auto_rifle|jeg:hollenfire_mk2, hell_hogs|3|minecraft:zombified_piglin,minecraft:wither_skeleton|jeg:custom_smg,jeg:waterpipe_shotgun,jeg:double_barrel_shotgun|jeg:assault_rifle,jeg:semi_auto_rifle|jeg:soulhunter_mk2, lost_souls|3|jeg:ghoul|jeg:waterpipe_shotgun,jeg:revolver|jeg:custom_smg|jeg:holy_shotgun,jeg:blossom_rifle]
-[07Jan2025 14:42:37.647] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:aiming for minecraft:player
-[07Jan2025 14:42:37.647] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:reloading for minecraft:player
-[07Jan2025 14:42:37.648] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:shooting for minecraft:player
-[07Jan2025 14:42:37.648] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:burst_count for minecraft:player
-[07Jan2025 14:42:37.714] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[07Jan2025 14:42:37.714] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
-[07Jan2025 14:42:37.714] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[07Jan2025 14:42:37.715] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[07Jan2025 14:42:37.715] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[07Jan2025 14:42:37.715] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[07Jan2025 14:42:37.715] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[07Jan2025 14:42:37.715] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:bolt_cool_down for minecraft:living_entity
-[07Jan2025 14:42:38.066] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[07Jan2025 14:42:38.067] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[07Jan2025 14:42:38.090] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[07Jan2025 14:42:38.091] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[07Jan2025 14:42:38.425] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[07Jan2025 14:42:38.435] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[07Jan2025 14:42:38.454] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[07Jan2025 14:42:38.460] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[07Jan2025 14:42:38.463] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.easyvillagers.integration.waila.PluginEasyVillagers
-[07Jan2025 14:42:39.135] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[07Jan2025 14:42:40.417] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/enderpeeeerl/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23201!/assets/.mcassetsroot' uses unexpected schema
-[07Jan2025 14:42:40.419] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/enderpeeeerl/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23201!/data/.mcassetsroot' uses unexpected schema
-[07Jan2025 14:42:43.892] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:ingots as it is missing following references: #forge:ingots/steel_ingot (from mcore-1.20.1-1.0.2.jar), 
+[07Jan2025 16:55:18.129] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[07Jan2025 16:55:18.133] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[07Jan2025 16:55:19.684] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[07Jan2025 16:55:19.758] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/enderpeeeerl/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[07Jan2025 16:55:20.155] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/enderpeeeerl/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[07Jan2025 16:55:20.158] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/enderpeeeerl/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07Jan2025 16:55:20.160] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/enderpeeeerl/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07Jan2025 16:55:20.161] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/enderpeeeerl/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07Jan2025 16:55:20.616] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[07Jan2025 16:55:20.621] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
+[07Jan2025 16:55:24.606] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[07Jan2025 16:55:24.690] [main/ERROR] [mixin/]: Mixin config rei-jei-internals-workaround.mixins.json does not specify "minVersion" property
+[07Jan2025 16:55:24.737] [main/ERROR] [mixin/]: Mixin config rei.mixins.json does not specify "minVersion" property
+[07Jan2025 16:55:24.821] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[07Jan2025 16:55:24.921] [main/WARN] [mixin/]: Reference map 'createdeco-forge-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
+[07Jan2025 16:55:25.138] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.0+mc1.20.1: 86 options available, 0 override(s) found
+[07Jan2025 16:55:25.139] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[07Jan2025 16:55:25.157] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[07Jan2025 16:55:25.419] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 98 options available, 0 override(s) found
+[07Jan2025 16:55:26.344] [main/WARN] [mixin/]: Error loading class: xfacthd/framedblocks/common/blockentity/doubled/FramedAdjustableDoubleBlockEntity (java.lang.ClassNotFoundException: xfacthd.framedblocks.common.blockentity.doubled.FramedAdjustableDoubleBlockEntity)
+[07Jan2025 16:55:26.345] [main/WARN] [mixin/]: @Mixin target xfacthd.framedblocks.common.blockentity.doubled.FramedAdjustableDoubleBlockEntity was not found createbigcannons.mixins.json:compat.FramedAdjustableDoubleBlockEntityAccessor
+[07Jan2025 16:55:30.104] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[07Jan2025 16:55:31.318] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (16.91 s after launch)
+[07Jan2025 16:55:31.608] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[07Jan2025 16:55:31.612] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[07Jan2025 16:55:34.490] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 3166 milliseconds
+[07Jan2025 16:55:39.235] [modloading-worker-0/INFO] [Create Deco/]: Registering items for Create Deco
+[07Jan2025 16:55:39.434] [modloading-worker-0/INFO] [Create Deco/]: Registering blocks for Create Deco
+[07Jan2025 16:55:41.256] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Registering server started event...
+[07Jan2025 16:55:42.339] [modloading-worker-0/INFO] [hordes/]: Trying to load common config
+[07Jan2025 16:55:42.343] [modloading-worker-0/INFO] [hordes/]: Trying to load client config
+[07Jan2025 16:55:42.352] [modloading-worker-0/INFO] [hordes/]: Config files are up to date, skipping data/asset generation
+[07Jan2025 16:55:42.380] [modloading-worker-0/INFO] [Railways/]: Steam 'n' Rails v1.6.7 initializing! Commit hash: 0a7cc000d6c7a1419919bc3e315bc62932287eb9 on Create version: 0.5.1j on platform: Forge
+[07Jan2025 16:55:42.530] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[07Jan2025 16:55:42.530] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[07Jan2025 16:55:43.209] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[07Jan2025 16:55:43.210] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[07Jan2025 16:55:43.211] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIServerPlugin
+[07Jan2025 16:55:43.211] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIPlugin
+[07Jan2025 16:55:43.213] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[07Jan2025 16:55:43.216] [modloading-worker-0/INFO] [REI/]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[07Jan2025 16:55:43.225] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[07Jan2025 16:55:43.225] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:create_item
+[07Jan2025 16:55:43.226] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[07Jan2025 16:55:43.226] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[07Jan2025 16:55:43.227] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:move_items
+[07Jan2025 16:55:43.228] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id roughlyenoughitems:move_items_new
+[07Jan2025 16:55:43.283] [modloading-worker-0/INFO] [Railways/]: Registered bogey styles from railways
+[07Jan2025 16:55:43.668] [modloading-worker-0/INFO] [Railways/]: Registering data fixers
+[07Jan2025 16:55:44.078] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
+[07Jan2025 16:55:44.080] [modloading-worker-0/INFO] [ModernFix/]: Instantiating Mojang DFU
+[07Jan2025 16:55:45.330] [modloading-worker-0/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 0 Datafixer optimizations took 0 milliseconds
+[07Jan2025 16:55:45.341] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Hex Casting
+[07Jan2025 16:55:45.342] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Oh The Biomes You'll Go
+[07Jan2025 16:55:45.343] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Blue Skies
+[07Jan2025 16:55:45.344] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Twilight Forest
+[07Jan2025 16:55:45.345] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Biomes O' Plenty
+[07Jan2025 16:55:45.349] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Nature's Spirit
+[07Jan2025 16:55:45.350] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Dreams and Desires
+[07Jan2025 16:55:45.352] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Quark
+[07Jan2025 16:55:45.353] [modloading-worker-0/INFO] [Railways/]: Registering tracks for TerraFirmaCraft
+[07Jan2025 16:55:47.844] [main/INFO] [Create Deco/]: placard tooltip was null
+[07Jan2025 16:55:47.845] [main/INFO] [Create Deco/]: placard tooltip was null
+[07Jan2025 16:55:47.845] [main/INFO] [Create Deco/]: placard tooltip was null
+[07Jan2025 16:55:47.845] [main/INFO] [Create Deco/]: placard tooltip was null
+[07Jan2025 16:55:47.845] [main/INFO] [Create Deco/]: placard tooltip was null
+[07Jan2025 16:55:47.845] [main/INFO] [Create Deco/]: placard tooltip was null
+[07Jan2025 16:55:47.845] [main/INFO] [Create Deco/]: placard tooltip was null
+[07Jan2025 16:55:47.845] [main/INFO] [Create Deco/]: placard tooltip was null
+[07Jan2025 16:55:47.846] [main/INFO] [Create Deco/]: placard tooltip was null
+[07Jan2025 16:55:47.846] [main/INFO] [Create Deco/]: placard tooltip was null
+[07Jan2025 16:55:47.846] [main/INFO] [Create Deco/]: placard tooltip was null
+[07Jan2025 16:55:47.846] [main/INFO] [Create Deco/]: placard tooltip was null
+[07Jan2025 16:55:47.846] [main/INFO] [Create Deco/]: placard tooltip was null
+[07Jan2025 16:55:47.846] [main/INFO] [Create Deco/]: placard tooltip was null
+[07Jan2025 16:55:47.847] [main/INFO] [Create Deco/]: placard tooltip was null
+[07Jan2025 16:55:48.890] [modloading-worker-0/INFO] [incontrol/]: Enabling support for Lost Cities
+[07Jan2025 16:55:48.896] [modloading-worker-0/INFO] [incontrol/]: Enabling support for Lost Cities
+[07Jan2025 16:55:48.961] [modloading-worker-0/INFO] [dynamiclights/]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[07Jan2025 16:55:49.297] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Starting version check at https://api.modrinth.com/updates/7YjclEGc/forge_updates.json
+[07Jan2025 16:55:49.369] [modloading-worker-0/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
+[07Jan2025 16:55:49.439] [modloading-worker-0/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
+[07Jan2025 16:55:49.604] [modloading-worker-0/INFO] [corgitaco.enhancedcelestials.EnhancedCelestials/]: Initialized enhancedcelestials network!
+[07Jan2025 16:55:49.624] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
+[07Jan2025 16:55:49.641] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
+[07Jan2025 16:55:50.037] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamiclights] Found status: AHEAD Current: 1.8.5+mod Target: null
+[07Jan2025 16:55:50.038] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[07Jan2025 16:55:50.187] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[07Jan2025 16:55:50.188] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hordes] Starting version check at https://raw.githubusercontent.com/SmileycorpMC/The-Hordes/1.20/update.json
+[07Jan2025 16:55:50.223] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hordes] Found status: UP_TO_DATE Current: 1.5.4 Target: null
+[07Jan2025 16:55:50.224] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[07Jan2025 16:55:50.447] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[07Jan2025 16:55:50.448] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
+[07Jan2025 16:55:50.572] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: AHEAD Current: 1.20.1-1.1.23 Target: null
+[07Jan2025 16:55:50.573] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[07Jan2025 16:55:50.710] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[07Jan2025 16:55:50.710] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [atlaslib] Starting version check at https://raw.githubusercontent.com/SmileycorpMC/Atlas-Lib/1.20/update.json
+[07Jan2025 16:55:50.795] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [atlaslib] Found status: UP_TO_DATE Current: 1.1.12 Target: null
+[07Jan2025 16:55:50.796] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[07Jan2025 16:55:51.890] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[07Jan2025 16:55:54.383] [main/INFO] [jeg/]: Registered the following Factions: [night_of_the_undead|1|minecraft:zombie,minecraft:zombie_villager,minecraft:husk|jeg:custom_smg,jeg:waterpipe_shotgun|jeg:revolver|jeg:double_barrel_shotgun, the_rattlers|2|minecraft:skeleton,minecraft:stray|jeg:custom_smg|jeg:semi_auto_rifle|jeg:bolt_action_rifle, nosy_business|3|minecraft:pillager,minecraft:vindicator|jeg:pump_shotgun|jeg:semi_auto_rifle,jeg:assault_rifle|jeg:repeating_shotgun,jeg:service_rifle, bad_piggies|2|minecraft:piglin,minecraft:piglin_brute|jeg:double_barrel_shotgun,jeg:waterpipe_shotgun|jeg:assault_rifle,jeg:semi_auto_rifle|jeg:hollenfire_mk2, hell_hogs|3|minecraft:zombified_piglin,minecraft:wither_skeleton|jeg:custom_smg,jeg:waterpipe_shotgun,jeg:double_barrel_shotgun|jeg:assault_rifle,jeg:semi_auto_rifle|jeg:soulhunter_mk2, lost_souls|3|jeg:ghoul|jeg:waterpipe_shotgun,jeg:revolver|jeg:custom_smg|jeg:holy_shotgun,jeg:blossom_rifle]
+[07Jan2025 16:55:54.425] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:aiming for minecraft:player
+[07Jan2025 16:55:54.425] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:reloading for minecraft:player
+[07Jan2025 16:55:54.425] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:shooting for minecraft:player
+[07Jan2025 16:55:54.427] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:burst_count for minecraft:player
+[07Jan2025 16:55:54.479] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[07Jan2025 16:55:54.479] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[07Jan2025 16:55:54.479] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[07Jan2025 16:55:54.479] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[07Jan2025 16:55:54.479] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[07Jan2025 16:55:54.479] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[07Jan2025 16:55:54.479] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[07Jan2025 16:55:54.480] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:bolt_cool_down for minecraft:living_entity
+[07Jan2025 16:55:54.699] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[07Jan2025 16:55:54.699] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[07Jan2025 16:55:54.723] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[07Jan2025 16:55:54.724] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[07Jan2025 16:55:55.058] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[07Jan2025 16:55:55.067] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[07Jan2025 16:55:55.084] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[07Jan2025 16:55:55.091] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[07Jan2025 16:55:55.093] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.easyvillagers.integration.waila.PluginEasyVillagers
+[07Jan2025 16:55:55.810] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[07Jan2025 16:55:56.289] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/enderpeeeerl/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23201!/assets/.mcassetsroot' uses unexpected schema
+[07Jan2025 16:55:56.289] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/enderpeeeerl/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23201!/data/.mcassetsroot' uses unexpected schema
+[07Jan2025 16:55:59.481] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:ingots as it is missing following references: #forge:ingots/steel_ingot (from mcore-1.20.1-1.0.2.jar), 
 	#forge:ingots/titanium_ingot (from mcore-1.20.1-1.0.2.jar)
-[07Jan2025 14:42:43.895] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:raw_materials as it is missing following references: #forge:raw_materials/raw_titanium (from mcore-1.20.1-1.0.2.jar)
-[07Jan2025 14:42:44.673] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:mcore:blocks/vertical_cut_titanium_block
+[07Jan2025 16:55:59.485] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:raw_materials as it is missing following references: #forge:raw_materials/raw_titanium (from mcore-1.20.1-1.0.2.jar)
+[07Jan2025 16:56:00.312] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:mcore:blocks/vertical_cut_titanium_block
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'mcore:vertical_cut_titanium_block'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -178,7 +178,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[07Jan2025 14:42:44.722] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:mcore:blocks/cut_titanium_block
+[07Jan2025 16:56:00.337] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:mcore:blocks/cut_titanium_block
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'mcore:cut_titanium_block'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -230,7 +230,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[07Jan2025 14:42:44.809] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:mcore:blocks/steel_slab
+[07Jan2025 16:56:00.384] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:mcore:blocks/steel_slab
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'mcore:steel_slab'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -282,7 +282,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[07Jan2025 14:42:44.900] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:mcore:blocks/titanium_stairs
+[07Jan2025 16:56:00.534] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:mcore:blocks/titanium_stairs
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'mcore:titanium_stairs'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -334,7 +334,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[07Jan2025 14:42:44.985] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:mcore:blocks/steel_stairs
+[07Jan2025 16:56:00.593] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:mcore:blocks/steel_stairs
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'mcore:steel_stairs'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23201!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -386,520 +386,464 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[07Jan2025 14:42:46.242] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
-[07Jan2025 14:42:46.286] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
-[07Jan2025 14:42:46.301] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
-[07Jan2025 14:42:46.313] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
-[07Jan2025 14:42:46.345] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
-[07Jan2025 14:42:46.357] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
-[07Jan2025 14:42:46.392] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
-[07Jan2025 14:42:46.401] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
-[07Jan2025 14:42:46.403] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
-[07Jan2025 14:42:46.418] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
-[07Jan2025 14:42:46.424] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 37 recipes
-[07Jan2025 14:42:46.667] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4808 advancements
-[07Jan2025 14:42:46.820] [main/INFO] [REI/]: [REI] ========================================
-[07Jan2025 14:42:46.821] [main/INFO] [REI/]: [REI] REIPlugin starting main-reload for START.
-[07Jan2025 14:42:46.821] [main/INFO] [REI/]: [REI] Plugins (2):
-[07Jan2025 14:42:46.822] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
-[07Jan2025 14:42:46.823] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[07Jan2025 14:42:46.823] [main/INFO] [REI/]: [REI] ========================================
-[07Jan2025 14:42:46.850] [main/INFO] [REI/]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-[07Jan2025 14:42:46.851] [main/INFO] [REI/]: [REI] REIServerPlugin starting main-reload for START.
-[07Jan2025 14:42:46.855] [main/INFO] [REI/]: [REI] Plugins (2):
-[07Jan2025 14:42:46.855] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
-[07Jan2025 14:42:46.856] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[07Jan2025 14:42:46.856] [main/INFO] [REI/]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-[07Jan2025 14:42:46.869] [main/INFO] [REI/]: [REI] REIPlugin finished post-reload for START in 5.472 ms, totaling 53.60 ms.
-[07Jan2025 14:42:46.875] [main/INFO] [REI/]: [REI] REIServerPlugin finished post-reload for START in 1.373 ms, totaling 13.14 ms.
-[07Jan2025 14:42:46.886] [main/INFO] [REI/]: [REI] ****************************************
-[07Jan2025 14:42:46.886] [main/INFO] [REI/]: [REI] REIPlugin starting main-reload for END.
-[07Jan2025 14:42:46.886] [main/INFO] [REI/]: [REI] Plugins (2):
-[07Jan2025 14:42:46.887] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
-[07Jan2025 14:42:46.887] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[07Jan2025 14:42:46.887] [main/INFO] [REI/]: [REI] ****************************************
-[07Jan2025 14:42:46.929] [main/INFO] [REI/]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-[07Jan2025 14:42:46.929] [main/INFO] [REI/]: [REI] REIServerPlugin starting main-reload for END.
-[07Jan2025 14:42:46.929] [main/INFO] [REI/]: [REI] Plugins (2):
-[07Jan2025 14:42:46.929] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
-[07Jan2025 14:42:46.930] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[07Jan2025 14:42:46.930] [main/INFO] [REI/]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-[07Jan2025 14:42:46.948] [main/INFO] [REI/]: [REI] REIPlugin finished post-reload for END in 2.485 ms, totaling 51.31 ms.
-[07Jan2025 14:42:46.951] [main/INFO] [REI/]: [REI] REIServerPlugin finished post-reload for END in 1.308 ms, totaling 10.38 ms.
-[07Jan2025 14:42:46.966] [main/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 35, min day 0 and max day 20
-[07Jan2025 14:42:46.966] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_villager as entity.minecraft.zombie_villager with weight 1, min day 0 and max day 20
-[07Jan2025 14:42:46.967] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 20 and max day 40
-[07Jan2025 14:42:46.967] [main/INFO] [hordes/]: Loaded entity minecraft:husk as entity.minecraft.husk with weight 40, min day 20 and max day 40
-[07Jan2025 14:42:46.968] [main/INFO] [hordes/]: Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 3, min day 30 and max day 40
-[07Jan2025 14:42:46.968] [main/INFO] [hordes/]: Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 3, min day 40 and max day 40
-[07Jan2025 14:42:46.969] [main/INFO] [hordes/]: Loaded entity minecraft:zombified_piglin as entity.minecraft.zombified_piglin with weight 10, min day 40 and max day 0
-[07Jan2025 14:42:46.969] [main/INFO] [hordes/]: Loaded entity minecraft:husk as entity.minecraft.husk with weight 25, min day 50 and max day 0
-[07Jan2025 14:42:46.970] [main/INFO] [hordes/]: Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 3, min day 50 and max day 0
-[07Jan2025 14:42:46.970] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 50 and max day 0
-[07Jan2025 14:42:46.971] [main/INFO] [hordes/]: loaded horde table hordes:default
-[07Jan2025 14:42:46.973] [main/INFO] [hordes/]: Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 40, min day 0 and max day 20
-[07Jan2025 14:42:46.973] [main/INFO] [hordes/]: Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 3, min day 30 and max day 40
-[07Jan2025 14:42:46.974] [main/INFO] [hordes/]: loaded horde table hordes:drowned
-[07Jan2025 14:42:46.974] [main/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 20, min day 0 and max day 20
-[07Jan2025 14:42:46.975] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton as entity.minecraft.skeleton with weight 10, min day 20 and max day 30
-[07Jan2025 14:42:46.975] [main/INFO] [hordes/]: Loaded entity minecraft:spider as entity.minecraft.spider with weight 15, min day 20 and max day 30
-[07Jan2025 14:42:46.976] [main/INFO] [hordes/]: Loaded entity minecraft:creeper as entity.minecraft.creeper with weight 5, min day 30 and max day 30
-[07Jan2025 14:42:46.977] [main/INFO] [hordes/]: Loaded entity minecraft:husk as entity.minecraft.husk with weight 20, min day 30 and max day 50
-[07Jan2025 14:42:46.978] [main/INFO] [hordes/]: Loaded entity minecraft:stray as entity.minecraft.stray with weight 10, min day 40 and max day 50
-[07Jan2025 14:42:46.978] [main/INFO] [hordes/]: Loaded entity minecraft:cave_spider as entity.minecraft.cave_spider with weight 10, min day 40 and max day 50
-[07Jan2025 14:42:46.979] [main/INFO] [hordes/]: Loaded entity minecraft:witch as entity.minecraft.witch with weight 5, min day 40 and max day 50
-[07Jan2025 14:42:46.979] [main/INFO] [hordes/]: Loaded entity minecraft:pillager as entity.minecraft.pillager with weight 10, min day 40 and max day 50
-[07Jan2025 14:42:46.980] [main/INFO] [hordes/]: Loaded entity minecraft:zombified_piglin as entity.minecraft.zombified_piglin with weight 10, min day 40 and max day 50
-[07Jan2025 14:42:46.980] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 40 and max day 50
-[07Jan2025 14:42:46.981] [main/INFO] [hordes/]: Loaded entity minecraft:wither_skeleton as entity.minecraft.wither_skeleton with weight 10, min day 50 and max day 0
-[07Jan2025 14:42:46.982] [main/INFO] [hordes/]: Loaded entity minecraft:phantom as entity.minecraft.phantom with weight 5, min day 50 and max day 50
-[07Jan2025 14:42:46.983] [main/INFO] [hordes/]: Loaded entity minecraft:vindicator as entity.minecraft.vindicator with weight 10, min day 50 and max day 50
-[07Jan2025 14:42:46.983] [main/INFO] [hordes/]: Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 5, min day 40 and max day 40
-[07Jan2025 14:42:46.984] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 5, min day 50 and max day 50
-[07Jan2025 14:42:46.984] [main/INFO] [hordes/]: Loaded entity minecraft:evoker as entity.minecraft.evoker with weight 5, min day 50 and max day 50
-[07Jan2025 14:42:46.985] [main/INFO] [hordes/]: Loaded entity minecraft:piglin_brute as entity.minecraft.piglin_brute with weight 10, min day 60 and max day 0
-[07Jan2025 14:42:46.985] [main/INFO] [hordes/]: Loaded entity minecraft:cave_spider as entity.minecraft.cave_spider with weight 15, min day 60 and max day 0
-[07Jan2025 14:42:46.986] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 5, min day 60 and max day 0
-[07Jan2025 14:42:46.987] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 3, min day 60 and max day 0
-[07Jan2025 14:42:46.988] [main/INFO] [hordes/]: Loaded entity minecraft:phantom as entity.minecraft.phantom with weight 3, min day 60 and max day 0
-[07Jan2025 14:42:46.989] [main/INFO] [hordes/]: loaded horde table hordes:mixed_mobs
-[07Jan2025 14:42:46.989] [main/INFO] [hordes/]: Loaded entity minecraft:pillager as entity.minecraft.pillager with weight 15, min day 0 and max day 0
-[07Jan2025 14:42:46.989] [main/INFO] [hordes/]: Loaded entity minecraft:vindicator as entity.minecraft.vindicator with weight 10, min day 0 and max day 0
-[07Jan2025 14:42:46.990] [main/INFO] [hordes/]: Loaded entity minecraft:witch as entity.minecraft.witch with weight 5, min day 20 and max day 0
-[07Jan2025 14:42:46.990] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 5, min day 30 and max day 40
-[07Jan2025 14:42:46.991] [main/INFO] [hordes/]: Loaded entity minecraft:evoker as entity.minecraft.evoker with weight 3, min day 40 and max day 40
-[07Jan2025 14:42:46.992] [main/INFO] [hordes/]: Loaded entity minecraft:illusioner as entity.minecraft.illusioner with weight 5, min day 50 and max day 0
-[07Jan2025 14:42:46.993] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 3, min day 50 and max day 0
-[07Jan2025 14:42:46.994] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 5, min day 50 and max day 0
-[07Jan2025 14:42:46.994] [main/INFO] [hordes/]: loaded horde table hordes:illagers
-[07Jan2025 14:42:46.995] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton as entity.minecraft.skeleton with weight 10, min day 0 and max day 20
-[07Jan2025 14:42:46.995] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton as entity.minecraft.skeleton with weight 20, min day 0 and max day 30
-[07Jan2025 14:42:46.996] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton_horse as entity.minecraft.skeleton_horse with weight 5, min day 20 and max day 50
-[07Jan2025 14:42:46.996] [main/INFO] [hordes/]: Loaded entity minecraft:stray as entity.minecraft.stray with weight 10, min day 20 and max day 0
-[07Jan2025 14:42:46.998] [main/INFO] [hordes/]: Loaded entity minecraft:wither_skeleton as entity.minecraft.wither_skeleton with weight 10, min day 40 and max day 0
-[07Jan2025 14:42:46.998] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton_horse as entity.minecraft.skeleton_horse with weight 5, min day 40 and max day 0
-[07Jan2025 14:42:46.999] [main/INFO] [hordes/]: loaded horde table hordes:skeletons
-[07Jan2025 14:42:46.999] [main/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 30, min day 0 and max day 0
-[07Jan2025 14:42:47.000] [main/INFO] [hordes/]: loaded horde table hordes:fallback
-[07Jan2025 14:42:47.006] [main/INFO] [hordes/]: loaded horde script hordes:default
-[07Jan2025 14:42:47.007] [main/INFO] [hordes/]: Loading conversion tables
-[07Jan2025 14:42:47.007] [main/INFO] [hordes/]: Loading conversion table hordes:infection_conversions
-[07Jan2025 14:42:47.010] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.horse to entity.minecraft.zombie_horse with chance of 0.65
-[07Jan2025 14:42:47.011] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.piglin to entity.minecraft.zombified_piglin with chance of 0.75
-[07Jan2025 14:42:47.014] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.piglin_brute to entity.minecraft.zombified_piglin{Attributes:[{Base:50.0f,Name:"generic.max_health"}],chat_name:"entity.hordes.ZombifiedPiglinBrute.name",texture:"hordes:textures/entity/zombified_piglin_brute.png"} with chance of 0.35
-[07Jan2025 14:42:47.014] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.hoglin to entity.minecraft.zoglin with chance of 0.15
-[07Jan2025 14:42:47.015] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.wandering_trader to entity.minecraft.zombie_villager{VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieWanderingTrader.name",texture:"hordes:textures/entity/zombie_wandering_trader.png"} with chance of 0.75
-[07Jan2025 14:42:47.015] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.pillager to entity.minecraft.zombie_villager{Attributes:[{Base:24.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombiePillager.name",texture:"hordes:textures/entity/zombie_pillager.png"} with chance of 0.75
-[07Jan2025 14:42:47.016] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.vindicator to entity.minecraft.zombie_villager{Attributes:[{Base:24.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieVindicator.name",texture:"hordes:textures/entity/zombie_vindicator.png"} with chance of 0.35
-[07Jan2025 14:42:47.017] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.evoker to entity.minecraft.zombie_villager{Attributes:[{Base:24.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieEvoker.name",texture:"hordes:textures/entity/zombie_evoker.png"} with chance of 0.5
-[07Jan2025 14:42:47.018] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.illusioner to entity.minecraft.zombie_villager{Attributes:[{Base:32.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieIllusioner.name",texture:"hordes:textures/entity/zombie_illusioner.png"} with chance of 0.15
-[07Jan2025 14:42:47.019] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.witch to entity.minecraft.zombie_villager{Attributes:[{Base:26.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieWitch.name",texture:"hordes:textures/entity/zombie_witch.png"} with chance of 0.25
-[07Jan2025 14:42:47.019] [main/INFO] [hordes/]: Loading immunity item list
-[07Jan2025 14:42:47.020] [main/INFO] [hordes/]: Loading immunity item list hordes:immunity_items
-[07Jan2025 14:42:47.022] [main/INFO] [hordes/]: Loaded immunity item minecraft:enchanted_golden_apple with duration 150
-[07Jan2025 14:42:47.024] [main/INFO] [hordes/]: Loading wearables protection list
-[07Jan2025 14:42:47.025] [main/INFO] [hordes/]: Loading wearables protection list hordes:immune_wearables
-[07Jan2025 14:42:47.027] [main/INFO] [hordes/]: Loaded wearable protection minecraft:leather_boots with modifier 0.95
-[07Jan2025 14:42:47.027] [main/INFO] [hordes/]: Loaded wearable protection minecraft:leather_leggings with modifier 0.95
-[07Jan2025 14:42:47.028] [main/INFO] [hordes/]: Loaded wearable protection minecraft:leather_chestplate with modifier 0.95
-[07Jan2025 14:42:47.029] [main/INFO] [hordes/]: Loaded wearable protection minecraft:leather_helmet with modifier 0.95
-[07Jan2025 14:42:47.029] [main/INFO] [hordes/]: Loaded wearable protection minecraft:chainmail_boots with modifier 0.95
-[07Jan2025 14:42:47.030] [main/INFO] [hordes/]: Loaded wearable protection minecraft:chainmail_leggings with modifier 0.95
-[07Jan2025 14:42:47.030] [main/INFO] [hordes/]: Loaded wearable protection minecraft:chainmail_chestplate with modifier 0.95
-[07Jan2025 14:42:47.031] [main/INFO] [hordes/]: Loaded wearable protection minecraft:chainmail_helmet with modifier 0.95
-[07Jan2025 14:42:47.031] [main/INFO] [hordes/]: Loaded wearable protection minecraft:iron_boots with modifier 0.9
-[07Jan2025 14:42:47.032] [main/INFO] [hordes/]: Loaded wearable protection minecraft:iron_leggings with modifier 0.9
-[07Jan2025 14:42:47.033] [main/INFO] [hordes/]: Loaded wearable protection minecraft:iron_chestplate with modifier 0.9
-[07Jan2025 14:42:47.034] [main/INFO] [hordes/]: Loaded wearable protection minecraft:iron_helmet with modifier 0.9
-[07Jan2025 14:42:47.034] [main/INFO] [hordes/]: Loaded wearable protection minecraft:golden_boots with modifier 0.9
-[07Jan2025 14:42:47.035] [main/INFO] [hordes/]: Loaded wearable protection minecraft:golden_leggings with modifier 0.9
-[07Jan2025 14:42:47.035] [main/INFO] [hordes/]: Loaded wearable protection minecraft:golden_chestplate with modifier 0.9
-[07Jan2025 14:42:47.036] [main/INFO] [hordes/]: Loaded wearable protection minecraft:golden_helmet with modifier 0.9
-[07Jan2025 14:42:47.036] [main/INFO] [hordes/]: Loaded wearable protection minecraft:diamond_boots with modifier 0.86
-[07Jan2025 14:42:47.037] [main/INFO] [hordes/]: Loaded wearable protection minecraft:diamond_leggings with modifier 0.86
-[07Jan2025 14:42:47.037] [main/INFO] [hordes/]: Loaded wearable protection minecraft:diamond_chestplate with modifier 0.86
-[07Jan2025 14:42:47.039] [main/INFO] [hordes/]: Loaded wearable protection minecraft:diamond_helmet with modifier 0.86
-[07Jan2025 14:42:47.039] [main/INFO] [hordes/]: Loaded wearable protection minecraft:netherite_boots with modifier 0.82
-[07Jan2025 14:42:47.040] [main/INFO] [hordes/]: Loaded wearable protection minecraft:netherite_leggings with modifier 0.82
-[07Jan2025 14:42:47.040] [main/INFO] [hordes/]: Loaded wearable protection minecraft:netherite_chestplate with modifier 0.82
-[07Jan2025 14:42:47.040] [main/INFO] [hordes/]: Loaded wearable protection minecraft:netherite_helmet with modifier 0.82
-[07Jan2025 14:42:47.041] [main/INFO] [hordes/]: Loaded wearable protection minecraft:turtle_helmet with modifier 0.75
-[07Jan2025 14:42:47.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[07Jan2025 14:42:47.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[07Jan2025 14:42:47.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[07Jan2025 14:42:47.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[07Jan2025 14:42:47.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[07Jan2025 14:42:47.523] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[07Jan2025 14:42:47.769] [Server thread/INFO] [Framework/]: Loading server configs...
-[07Jan2025 14:42:47.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[07Jan2025 14:42:48.419] [Server thread/INFO] [corgitaco.enhancedcelestials.EnhancedCelestials/]: Possible lunar events for dimension "minecraft:overworld" are [enhancedcelestials:super_blood_moon, enhancedcelestials:harvest_moon, enhancedcelestials:super_moon, enhancedcelestials:super_blue_moon, enhancedcelestials:blue_moon, enhancedcelestials:super_harvest_moon, enhancedcelestials:blood_moon].
-[07Jan2025 14:42:48.532] [Server thread/INFO] [incontrol/]: Reading rules from areas.json
-[07Jan2025 14:42:48.544] [Server thread/INFO] [incontrol/]: Reading rules from spawn.json
-[07Jan2025 14:42:48.547] [Server thread/INFO] [incontrol/]: Reading rules from summonaid.json
-[07Jan2025 14:42:48.552] [Server thread/INFO] [incontrol/]: Reading rules from loot.json
-[07Jan2025 14:42:48.554] [Server thread/INFO] [incontrol/]: Reading rules from experience.json
-[07Jan2025 14:42:48.556] [Server thread/INFO] [incontrol/]: Reading rules from phases.json
-[07Jan2025 14:42:48.558] [Server thread/INFO] [incontrol/]: Reading rules from effects.json
-[07Jan2025 14:42:48.561] [Server thread/INFO] [incontrol/]: Reading rules from breakevents.json
-[07Jan2025 14:42:48.563] [Server thread/INFO] [incontrol/]: Reading rules from placeevents.json
-[07Jan2025 14:42:48.565] [Server thread/INFO] [incontrol/]: Reading rules from rightclicks.json
-[07Jan2025 14:42:48.568] [Server thread/INFO] [incontrol/]: Reading rules from leftclicks.json
-[07Jan2025 14:42:48.571] [Server thread/INFO] [incontrol/]: Reading rules from spawner.json
-[07Jan2025 14:42:48.574] [Server thread/INFO] [incontrol/]: Reading rules from events.json
-[07Jan2025 14:42:48.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[07Jan2025 14:42:51.527] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 14:42:51.529] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 14:42:51.529] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 14:42:51.530] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 14:42:51.531] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 14:42:51.532] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 14:42:51.700] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 14:42:52.202] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[07Jan2025 14:42:52.853] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4157 ms
-[07Jan2025 14:42:52.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.191s)! For help, type "help"
-[07Jan2025 14:42:52.936] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[07Jan2025 14:42:52.953] [Server thread/WARN] [ModernFix/]: Dedicated server took 56.103 seconds to load
-[07Jan2025 14:43:23.074] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Starcrack_FW357 is 5f074e3f-0c21-46c2-a5f2-0e642c4b7708
-[07Jan2025 14:43:25.227] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Starcrack_FW357[/127.201.116.142:57903] logged in with entity id 206 at (193.10425522521697, 134.0, 31.122174418780602)
-[07Jan2025 14:43:25.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 joined the game
-[07Jan2025 14:43:25.906] [Server thread/INFO] [Jade/]: Syncing config to Starcrack_FW357 (5f074e3f-0c21-46c2-a5f2-0e642c4b7708)
-[07Jan2025 14:43:27.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2444ms or 48 ticks behind
-[07Jan2025 14:43:28.882] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=110, z=-342}
-[07Jan2025 14:43:28.884] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=109, z=-352}
-[07Jan2025 14:43:28.913] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=110, z=-352}
-[07Jan2025 14:43:28.915] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=110, z=-352}
-[07Jan2025 14:43:28.915] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=110, z=-352}
-[07Jan2025 14:43:28.916] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=109, z=-352}
-[07Jan2025 14:43:28.917] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"coffee_delight:coffee_wafer"}
-[07Jan2025 14:43:28.918] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=109, z=-352}
-[07Jan2025 14:43:28.918] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:rose_hip_pie"}
-[07Jan2025 14:43:28.918] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=109, z=-351}
-[07Jan2025 14:43:28.919] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:coffee"}
-[07Jan2025 14:43:28.919] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=109, z=-351}
-[07Jan2025 14:43:28.923] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:green_tea"}
-[07Jan2025 14:43:28.924] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=110, z=-351}
-[07Jan2025 14:43:28.925] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:popcorn"}
-[07Jan2025 14:43:28.926] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=110, z=-351}
-[07Jan2025 14:43:28.926] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:tortilla_chips"}
-[07Jan2025 14:43:28.927] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=110, z=-320}
-[07Jan2025 14:43:28.928] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=109, z=-318}
-[07Jan2025 14:43:28.929] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=110, z=-318}
-[07Jan2025 14:43:28.930] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=111, z=-318}
-[07Jan2025 14:43:28.931] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=111, z=-318}
-[07Jan2025 14:43:28.932] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=110, z=-318}
-[07Jan2025 14:43:28.932] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=109, z=-318}
-[07Jan2025 14:43:28.933] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=112, z=-318}
-[07Jan2025 14:43:28.933] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=112, z=-318}
-[07Jan2025 14:43:28.934] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=110, z=-342}
-[07Jan2025 14:43:28.936] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=109, z=-344}
-[07Jan2025 14:43:28.975] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=110, z=-344}
-[07Jan2025 14:43:28.983] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=111, z=-344}
-[07Jan2025 14:43:28.983] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=111, z=-344}
-[07Jan2025 14:43:28.984] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=110, z=-344}
-[07Jan2025 14:43:28.985] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=109, z=-344}
-[07Jan2025 14:43:28.986] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=112, z=-344}
-[07Jan2025 14:43:28.987] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=112, z=-344}
-[07Jan2025 14:43:28.987] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=110, z=-320}
-[07Jan2025 14:43:28.988] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-166, y=109, z=-310}
-[07Jan2025 14:43:28.989] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-166, y=110, z=-310}
-[07Jan2025 14:43:28.989] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=110, z=-310}
-[07Jan2025 14:43:28.990] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=110, z=-310}
-[07Jan2025 14:43:28.991] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=109, z=-310}
-[07Jan2025 14:43:28.991] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"coffee_delight:coffee_wafer"}
-[07Jan2025 14:43:28.991] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=109, z=-310}
-[07Jan2025 14:43:28.992] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:rose_hip_pie"}
-[07Jan2025 14:43:28.992] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=109, z=-311}
-[07Jan2025 14:43:28.993] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:coffee"}
-[07Jan2025 14:43:28.993] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=109, z=-311}
-[07Jan2025 14:43:28.993] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:green_tea"}
-[07Jan2025 14:43:28.994] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=110, z=-311}
-[07Jan2025 14:43:28.994] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:popcorn"}
-[07Jan2025 14:43:28.995] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=110, z=-311}
-[07Jan2025 14:43:28.995] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:tortilla_chips"}
-[07Jan2025 14:43:46.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3540ms or 70 ticks behind
-[07Jan2025 14:43:56.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
-[07Jan2025 14:44:14.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 tried to swim in lava
-[07Jan2025 14:44:27.665] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Starcrack_FW357'/591, l='ServerLevel[New World]', x=199.34, y=139.00, z=16.69] died: Zombie Player tried to swim in lava
-[07Jan2025 14:49:27.664] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Athryus97 is 187f4ffb-f36f-433a-beb8-599521864f1f
-[07Jan2025 14:49:29.684] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Athryus97[/127.201.116.142:48423] logged in with entity id 2493 at (181.5, 90.875, 114.5)
-[07Jan2025 14:49:29.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 joined the game
-[07Jan2025 14:49:29.806] [Server thread/INFO] [Jade/]: Syncing config to Athryus97 (187f4ffb-f36f-433a-beb8-599521864f1f)
-[07Jan2025 14:51:01.830] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:swamp took 657 ms
-[07Jan2025 14:53:19.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
-[07Jan2025 14:53:34.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
-[07Jan2025 14:58:50.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 tried to swim in lava
-[07Jan2025 14:59:04.052] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Starcrack_FW357'/11219, l='ServerLevel[New World]', x=198.29, y=139.00, z=17.21] died: Zombie Player tried to swim in lava
-[07Jan2025 15:00:43.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
-[07Jan2025 15:01:12.329] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=646, y=77, z=727} BlockPos{x=646, y=76, z=726}
-[07Jan2025 15:01:15.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 burned to death
-[07Jan2025 15:01:32.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
-[07Jan2025 15:01:50.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
-[07Jan2025 15:07:20.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
-[07Jan2025 15:07:35.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Athryus97> e
-[07Jan2025 15:07:48.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
-[07Jan2025 15:07:54.755] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=110, z=-342}
-[07Jan2025 15:07:54.757] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=109, z=-352}
-[07Jan2025 15:07:54.757] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=110, z=-352}
-[07Jan2025 15:07:54.760] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=110, z=-352}
-[07Jan2025 15:07:54.760] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=110, z=-352}
-[07Jan2025 15:07:54.761] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=109, z=-352}
-[07Jan2025 15:07:54.762] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"coffee_delight:coffee_wafer"}
-[07Jan2025 15:07:54.762] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=109, z=-352}
-[07Jan2025 15:07:54.763] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:rose_hip_pie"}
-[07Jan2025 15:07:54.763] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=109, z=-351}
-[07Jan2025 15:07:54.764] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:coffee"}
-[07Jan2025 15:07:54.764] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=109, z=-351}
-[07Jan2025 15:07:54.764] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:green_tea"}
-[07Jan2025 15:07:54.766] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=110, z=-351}
-[07Jan2025 15:07:54.766] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:popcorn"}
-[07Jan2025 15:07:54.767] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=110, z=-351}
-[07Jan2025 15:07:54.767] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:tortilla_chips"}
-[07Jan2025 15:07:54.768] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=110, z=-320}
-[07Jan2025 15:07:54.773] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=109, z=-318}
-[07Jan2025 15:07:54.773] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=110, z=-318}
-[07Jan2025 15:07:54.774] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=111, z=-318}
-[07Jan2025 15:07:54.774] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=111, z=-318}
-[07Jan2025 15:07:54.775] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=110, z=-318}
-[07Jan2025 15:07:54.775] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=109, z=-318}
-[07Jan2025 15:07:54.775] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=112, z=-318}
-[07Jan2025 15:07:54.776] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=112, z=-318}
-[07Jan2025 15:07:54.776] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=110, z=-342}
-[07Jan2025 15:07:54.776] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=109, z=-344}
-[07Jan2025 15:07:54.777] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=110, z=-344}
-[07Jan2025 15:07:54.777] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=111, z=-344}
-[07Jan2025 15:07:54.777] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=111, z=-344}
-[07Jan2025 15:07:54.778] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=110, z=-344}
-[07Jan2025 15:07:54.779] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=109, z=-344}
-[07Jan2025 15:07:54.779] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=112, z=-344}
-[07Jan2025 15:07:54.779] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=112, z=-344}
-[07Jan2025 15:07:54.780] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=110, z=-320}
-[07Jan2025 15:07:54.780] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-166, y=109, z=-310}
-[07Jan2025 15:07:54.780] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-166, y=110, z=-310}
-[07Jan2025 15:07:54.781] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=110, z=-310}
-[07Jan2025 15:07:54.781] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=110, z=-310}
-[07Jan2025 15:07:54.781] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=109, z=-310}
-[07Jan2025 15:07:54.782] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"coffee_delight:coffee_wafer"}
-[07Jan2025 15:07:54.782] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=109, z=-310}
-[07Jan2025 15:07:54.782] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:rose_hip_pie"}
-[07Jan2025 15:07:54.783] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=109, z=-311}
-[07Jan2025 15:07:54.783] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:coffee"}
-[07Jan2025 15:07:54.784] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=109, z=-311}
-[07Jan2025 15:07:54.784] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:green_tea"}
-[07Jan2025 15:07:54.784] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=110, z=-311}
-[07Jan2025 15:07:54.785] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:popcorn"}
-[07Jan2025 15:07:54.785] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=110, z=-311}
-[07Jan2025 15:07:54.785] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:tortilla_chips"}
-[07Jan2025 15:08:00.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
-[07Jan2025 15:08:25.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
-[07Jan2025 15:10:25.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to Athryus97]
-[07Jan2025 15:10:49.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to 1275.500000, 97.000000, 617.500000]
-[07Jan2025 15:10:49.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3700ms or 74 ticks behind
-[07Jan2025 15:10:49.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Athryus97 moved too quickly! -9.64927968549489,1.9755759117863079,2.110995791842697
-[07Jan2025 15:10:53.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 was doomed to fall by Skeleton
-[07Jan2025 15:11:10.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
-[07Jan2025 15:11:15.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to 1275.500000, 72.500000, 617.500000]
-[07Jan2025 15:11:47.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to 181.500000, 90.500000, 86.500000]
-[07Jan2025 15:11:49.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
-[07Jan2025 15:12:18.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
-[07Jan2025 15:12:20.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
-[07Jan2025 15:13:52.941] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=110, z=-342}
-[07Jan2025 15:13:52.941] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=109, z=-352}
-[07Jan2025 15:13:52.942] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=110, z=-352}
-[07Jan2025 15:13:52.943] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=110, z=-352}
-[07Jan2025 15:13:52.943] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=110, z=-352}
-[07Jan2025 15:13:52.944] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=109, z=-352}
-[07Jan2025 15:13:52.944] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"coffee_delight:coffee_wafer"}
-[07Jan2025 15:13:52.944] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=109, z=-352}
-[07Jan2025 15:13:52.944] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:rose_hip_pie"}
-[07Jan2025 15:13:52.945] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=109, z=-351}
-[07Jan2025 15:13:52.945] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:coffee"}
-[07Jan2025 15:13:52.945] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=109, z=-351}
-[07Jan2025 15:13:52.945] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:green_tea"}
-[07Jan2025 15:13:52.946] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=110, z=-351}
-[07Jan2025 15:13:52.946] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:popcorn"}
-[07Jan2025 15:13:52.947] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=110, z=-351}
-[07Jan2025 15:13:52.947] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:tortilla_chips"}
-[07Jan2025 15:13:52.948] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=110, z=-320}
-[07Jan2025 15:13:52.948] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=109, z=-318}
-[07Jan2025 15:13:52.948] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=110, z=-318}
-[07Jan2025 15:13:52.951] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=111, z=-318}
-[07Jan2025 15:13:52.952] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=111, z=-318}
-[07Jan2025 15:13:52.954] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=110, z=-318}
-[07Jan2025 15:13:52.955] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=109, z=-318}
-[07Jan2025 15:13:52.955] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=112, z=-318}
-[07Jan2025 15:13:52.956] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=112, z=-318}
-[07Jan2025 15:13:52.956] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=110, z=-342}
-[07Jan2025 15:13:52.957] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=109, z=-344}
-[07Jan2025 15:13:52.958] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=110, z=-344}
-[07Jan2025 15:13:52.958] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=111, z=-344}
-[07Jan2025 15:13:52.958] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=111, z=-344}
-[07Jan2025 15:13:52.960] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=110, z=-344}
-[07Jan2025 15:13:52.960] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=109, z=-344}
-[07Jan2025 15:13:52.960] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=112, z=-344}
-[07Jan2025 15:13:52.961] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=112, z=-344}
-[07Jan2025 15:13:52.961] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=110, z=-320}
-[07Jan2025 15:13:52.962] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-166, y=109, z=-310}
-[07Jan2025 15:13:52.962] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-166, y=110, z=-310}
-[07Jan2025 15:13:52.962] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=110, z=-310}
-[07Jan2025 15:13:52.963] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=110, z=-310}
-[07Jan2025 15:13:52.964] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=109, z=-310}
-[07Jan2025 15:13:52.964] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"coffee_delight:coffee_wafer"}
-[07Jan2025 15:13:52.965] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=109, z=-310}
-[07Jan2025 15:13:52.965] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:rose_hip_pie"}
-[07Jan2025 15:13:52.965] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=109, z=-311}
-[07Jan2025 15:13:52.965] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:coffee"}
-[07Jan2025 15:13:52.966] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=109, z=-311}
-[07Jan2025 15:13:52.966] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:green_tea"}
-[07Jan2025 15:13:52.966] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=110, z=-311}
-[07Jan2025 15:13:52.967] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:popcorn"}
-[07Jan2025 15:13:52.967] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=110, z=-311}
-[07Jan2025 15:13:52.967] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:tortilla_chips"}
-[07Jan2025 15:14:41.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
-[07Jan2025 15:16:33.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to Athryus97]
-[07Jan2025 15:17:12.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Spectator Mode]
-[07Jan2025 15:17:25.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
-[07Jan2025 15:17:27.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Spectator Mode]
-[07Jan2025 15:17:29.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Adventure Mode]
-[07Jan2025 15:17:31.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
-[07Jan2025 15:17:55.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to 181.500000, 90.500000, 86.500000]
-[07Jan2025 15:18:00.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
-[07Jan2025 15:18:30.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Spectator Mode]
-[07Jan2025 15:18:34.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to 1349.500000, 63.500000, 650.500000]
-[07Jan2025 15:19:36.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
-[07Jan2025 15:19:43.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Spectator Mode]
-[07Jan2025 15:19:53.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to 181.500000, 90.500000, 86.500000]
-[07Jan2025 15:19:55.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
-[07Jan2025 15:19:59.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
-[07Jan2025 15:20:07.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was slain by Slime
-[07Jan2025 15:21:25.072] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/33384, l='ServerLevel[New World]', x=1284.70, y=70.00, z=645.90] died: Zombie Player was slain by Athryus97
-[07Jan2025 15:26:06.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 fell from a high place
-[07Jan2025 15:28:51.787] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@62afd4a3]Trying to start horde event on day 71 with nextDay 70 and time 18000
-[07Jan2025 15:28:51.807] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@696f8a33
-[07Jan2025 15:28:51.810] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 60
-[07Jan2025 15:28:51.810] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 60
-[07Jan2025 15:28:51.810] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 60
-[07Jan2025 15:28:51.811] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 60
-[07Jan2025 15:28:51.841] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 70
-[07Jan2025 15:28:51.841] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 70
-[07Jan2025 15:28:51.841] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 70
-[07Jan2025 15:28:51.841] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 70
-[07Jan2025 15:29:06.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 fell from a high place
-[07Jan2025 15:29:41.821] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 70
-[07Jan2025 15:29:41.822] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 70
-[07Jan2025 15:29:41.822] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 70
-[07Jan2025 15:29:41.823] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 70
-[07Jan2025 15:30:31.823] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 70
-[07Jan2025 15:30:31.824] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 70
-[07Jan2025 15:30:31.825] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 70
-[07Jan2025 15:30:31.825] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 70
-[07Jan2025 15:30:45.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[07Jan2025 15:31:08.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8152ms or 163 ticks behind
-[07Jan2025 15:31:31.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7808ms or 156 ticks behind
-[07Jan2025 15:31:44.419] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 70
-[07Jan2025 15:31:44.419] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 70
-[07Jan2025 15:31:44.419] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 70
-[07Jan2025 15:31:44.420] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 70
-[07Jan2025 15:31:55.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8632ms or 172 ticks behind
-[07Jan2025 15:32:18.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8724ms or 174 ticks behind
-[07Jan2025 15:32:42.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8325ms or 166 ticks behind
-[07Jan2025 15:33:12.939] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 70
-[07Jan2025 15:33:12.940] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 70
-[07Jan2025 15:33:12.940] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 70
-[07Jan2025 15:33:12.941] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 70
-[07Jan2025 15:33:16.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18832ms or 376 ticks behind
-[07Jan2025 15:33:39.826] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8821ms or 176 ticks behind
-[07Jan2025 15:34:03.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9116ms or 182 ticks behind
-[07Jan2025 15:34:27.960] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9055ms or 181 ticks behind
-[07Jan2025 15:34:33.164] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 70
-[07Jan2025 15:34:33.164] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 70
-[07Jan2025 15:34:33.165] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 70
-[07Jan2025 15:34:33.165] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 70
-[07Jan2025 15:34:53.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10607ms or 212 ticks behind
-[07Jan2025 15:35:19.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11409ms or 228 ticks behind
-[07Jan2025 15:35:45.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10943ms or 218 ticks behind
-[07Jan2025 15:36:11.740] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10885ms or 217 ticks behind
-[07Jan2025 15:36:35.081] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8376ms or 167 ticks behind
-[07Jan2025 15:36:53.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was slain by Husk
-[07Jan2025 15:37:07.884] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/8, l='ServerLevel[New World]', x=5.24, y=102.00, z=-6.77] died: Zombie Player was impaled by Drowned
-[07Jan2025 15:37:17.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 was impaled by Drowned
-[07Jan2025 15:37:45.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was impaled by Drowned
-[07Jan2025 15:38:10.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 was slain by Zoglin
-[07Jan2025 15:38:36.374] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/43582, l='ServerLevel[New World]', x=7.30, y=102.00, z=0.77] died: Zombie Player was slain by Athryus97
-[07Jan2025 15:40:17.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 was slain by Zombie Player
-[07Jan2025 15:41:14.969] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/42086, l='ServerLevel[New World]', x=206.17, y=88.00, z=80.70] died: Zombie Player was slain by Starcrack_FW357
-[07Jan2025 15:41:35.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was slain by Zombie Player
-[07Jan2025 15:41:37.019] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Starcrack_FW357'/44291, l='ServerLevel[New World]', x=176.79, y=87.00, z=103.17] died: Zombie Player was slain by Starcrack_FW357
-[07Jan2025 15:42:31.317] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Starcrack_FW357'/47235, l='ServerLevel[New World]', x=215.50, y=103.63, z=62.69] died: Zombie Player was frozen to death by Starcrack_FW357
-[07Jan2025 15:42:39.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 tried to swim in lava
-[07Jan2025 15:43:12.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 froze to death
-[07Jan2025 15:43:35.267] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Starcrack_FW357'/42818, l='ServerLevel[New World]', x=145.52, y=126.00, z=31.48] died: Zombie Player froze to death
-[07Jan2025 15:43:58.734] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Starcrack_FW357'/50905, l='ServerLevel[New World]', x=215.41, y=103.00, z=62.39] died: Zombie Player froze to death
-[07Jan2025 15:46:19.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
-[07Jan2025 15:53:28.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was processed by Crushing Wheels
-[07Jan2025 15:57:20.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
-[07Jan2025 16:06:30.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
-[07Jan2025 16:06:39.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
-[07Jan2025 16:09:34.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
-[07Jan2025 16:11:52.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
-[07Jan2025 16:11:57.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
-[07Jan2025 16:13:27.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
-[07Jan2025 16:13:30.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
-[07Jan2025 16:14:54.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
-[07Jan2025 16:14:58.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
-[07Jan2025 16:15:23.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
-[07Jan2025 16:15:27.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
-[07Jan2025 16:20:07.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the weather to clear]
-[07Jan2025 16:23:44.780] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@20901e1]Trying to start horde event on day 71 with nextDay 70 and time 18000
-[07Jan2025 16:23:44.781] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@17720646
-[07Jan2025 16:23:44.781] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 60
-[07Jan2025 16:23:44.782] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 60
-[07Jan2025 16:23:44.785] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 60
-[07Jan2025 16:23:44.787] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 60
-[07Jan2025 16:23:44.827] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 70
-[07Jan2025 16:23:44.827] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 70
-[07Jan2025 16:23:44.827] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 70
-[07Jan2025 16:23:44.827] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 70
-[07Jan2025 16:24:09.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was slain by Husk
-[07Jan2025 16:24:34.824] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 70
-[07Jan2025 16:24:34.826] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 70
-[07Jan2025 16:24:34.826] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 70
-[07Jan2025 16:24:34.827] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 70
-[07Jan2025 16:25:05.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was slain by Zombie Horse
-[07Jan2025 16:25:24.826] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 70
-[07Jan2025 16:25:24.826] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 70
-[07Jan2025 16:25:24.826] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 70
-[07Jan2025 16:25:24.827] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 70
-[07Jan2025 16:26:11.982] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/81178, l='ServerLevel[New World]', x=182.70, y=90.00, z=104.70] died: Zombie Player was slain by Athryus97
-[07Jan2025 16:26:29.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
-[07Jan2025 16:26:36.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
-[07Jan2025 16:26:38.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[07Jan2025 16:27:04.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11386ms or 227 ticks behind
-[07Jan2025 16:27:26.725] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6820ms or 136 ticks behind
-[07Jan2025 16:28:46.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 was slain by Zoglin
-[07Jan2025 16:29:29.217] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/80499, l='ServerLevel[New World]', x=145.50, y=135.16, z=3.30] died: Zombie Player froze to death
-[07Jan2025 16:30:00.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 tried to swim in lava
-[07Jan2025 16:30:13.118] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/83781, l='ServerLevel[New World]', x=156.03, y=94.00, z=148.83] died: Zombie Player tried to swim in lava
-[07Jan2025 16:31:51.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
-[07Jan2025 16:31:58.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
-[07Jan2025 16:41:38.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to 680.500000, 60.500000, -15.500000]
-[07Jan2025 16:42:35.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Spectator Mode]
-[07Jan2025 16:42:42.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
-[07Jan2025 16:43:56.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to 1144.500000, 99.500000, 639.500000]
-[07Jan2025 16:47:30.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to Athryus97]
-[07Jan2025 16:51:58.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
-[07Jan2025 16:54:07.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[07Jan2025 16:54:07.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[07Jan2025 16:54:07.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Starcrack_FW357 lost connection: Server closed
-[07Jan2025 16:54:07.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 left the game
-[07Jan2025 16:54:07.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[07Jan2025 16:54:07.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[07Jan2025 16:54:08.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/lostcities:lostcity
-[07Jan2025 16:54:08.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[07Jan2025 16:54:08.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[07Jan2025 16:54:08.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07Jan2025 16:54:08.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
-[07Jan2025 16:54:08.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07Jan2025 16:54:08.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07Jan2025 16:54:08.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[07Jan2025 16:54:09.644] [Server thread/INFO] [Framework/]: Unloading server configs...
-[07Jan2025 16:54:09.645] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[07Jan2025 16:56:01.900] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
+[07Jan2025 16:56:01.955] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
+[07Jan2025 16:56:01.976] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
+[07Jan2025 16:56:01.984] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
+[07Jan2025 16:56:02.028] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
+[07Jan2025 16:56:02.029] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
+[07Jan2025 16:56:02.065] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
+[07Jan2025 16:56:02.088] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
+[07Jan2025 16:56:02.091] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
+[07Jan2025 16:56:02.107] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
+[07Jan2025 16:56:02.114] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 37 recipes
+[07Jan2025 16:56:02.339] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4808 advancements
+[07Jan2025 16:56:02.418] [main/INFO] [REI/]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[07Jan2025 16:56:02.418] [main/INFO] [REI/]: [REI] REIPlugin starting main-reload for START.
+[07Jan2025 16:56:02.419] [main/INFO] [REI/]: [REI] Plugins (2):
+[07Jan2025 16:56:02.419] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[07Jan2025 16:56:02.419] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[07Jan2025 16:56:02.420] [main/INFO] [REI/]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[07Jan2025 16:56:02.465] [main/INFO] [REI/]: [REI] ----------------------------------------
+[07Jan2025 16:56:02.466] [main/INFO] [REI/]: [REI] REIServerPlugin starting main-reload for START.
+[07Jan2025 16:56:02.470] [main/INFO] [REI/]: [REI] Plugins (2):
+[07Jan2025 16:56:02.470] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[07Jan2025 16:56:02.471] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[07Jan2025 16:56:02.471] [main/INFO] [REI/]: [REI] ----------------------------------------
+[07Jan2025 16:56:02.496] [main/INFO] [REI/]: [REI] REIPlugin finished post-reload for START in 6.432 ms, totaling 60.31 ms.
+[07Jan2025 16:56:02.506] [main/INFO] [REI/]: [REI] REIServerPlugin finished post-reload for START in 6.821 ms, totaling 22.23 ms.
+[07Jan2025 16:56:02.528] [main/INFO] [REI/]: [REI] ========================================
+[07Jan2025 16:56:02.531] [main/INFO] [REI/]: [REI] REIPlugin starting main-reload for END.
+[07Jan2025 16:56:02.531] [main/INFO] [REI/]: [REI] Plugins (2):
+[07Jan2025 16:56:02.531] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[07Jan2025 16:56:02.532] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[07Jan2025 16:56:02.532] [main/INFO] [REI/]: [REI] ========================================
+[07Jan2025 16:56:02.603] [main/INFO] [REI/]: [REI] ++++++++++++++++++++++++++++++++++++++++
+[07Jan2025 16:56:02.603] [main/INFO] [REI/]: [REI] REIServerPlugin starting main-reload for END.
+[07Jan2025 16:56:02.604] [main/INFO] [REI/]: [REI] Plugins (2):
+[07Jan2025 16:56:02.604] [main/INFO] [REI/]: [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[07Jan2025 16:56:02.605] [main/INFO] [REI/]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[07Jan2025 16:56:02.605] [main/INFO] [REI/]: [REI] ++++++++++++++++++++++++++++++++++++++++
+[07Jan2025 16:56:02.620] [main/INFO] [REI/]: [REI] REIPlugin finished post-reload for END in 2.482 ms, totaling 92.39 ms.
+[07Jan2025 16:56:02.624] [main/INFO] [REI/]: [REI] REIServerPlugin finished post-reload for END in 1.212 ms, totaling 11.75 ms.
+[07Jan2025 16:56:02.632] [main/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 35, min day 0 and max day 20
+[07Jan2025 16:56:02.632] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_villager as entity.minecraft.zombie_villager with weight 1, min day 0 and max day 20
+[07Jan2025 16:56:02.632] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 20 and max day 40
+[07Jan2025 16:56:02.633] [main/INFO] [hordes/]: Loaded entity minecraft:husk as entity.minecraft.husk with weight 40, min day 20 and max day 40
+[07Jan2025 16:56:02.633] [main/INFO] [hordes/]: Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 3, min day 30 and max day 40
+[07Jan2025 16:56:02.634] [main/INFO] [hordes/]: Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 3, min day 40 and max day 40
+[07Jan2025 16:56:02.634] [main/INFO] [hordes/]: Loaded entity minecraft:zombified_piglin as entity.minecraft.zombified_piglin with weight 10, min day 40 and max day 0
+[07Jan2025 16:56:02.634] [main/INFO] [hordes/]: Loaded entity minecraft:husk as entity.minecraft.husk with weight 25, min day 50 and max day 0
+[07Jan2025 16:56:02.635] [main/INFO] [hordes/]: Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 3, min day 50 and max day 0
+[07Jan2025 16:56:02.635] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 50 and max day 0
+[07Jan2025 16:56:02.636] [main/INFO] [hordes/]: loaded horde table hordes:default
+[07Jan2025 16:56:02.636] [main/INFO] [hordes/]: Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 40, min day 0 and max day 20
+[07Jan2025 16:56:02.636] [main/INFO] [hordes/]: Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 3, min day 30 and max day 40
+[07Jan2025 16:56:02.637] [main/INFO] [hordes/]: loaded horde table hordes:drowned
+[07Jan2025 16:56:02.637] [main/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 20, min day 0 and max day 20
+[07Jan2025 16:56:02.637] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton as entity.minecraft.skeleton with weight 10, min day 20 and max day 30
+[07Jan2025 16:56:02.638] [main/INFO] [hordes/]: Loaded entity minecraft:spider as entity.minecraft.spider with weight 15, min day 20 and max day 30
+[07Jan2025 16:56:02.638] [main/INFO] [hordes/]: Loaded entity minecraft:creeper as entity.minecraft.creeper with weight 5, min day 30 and max day 30
+[07Jan2025 16:56:02.639] [main/INFO] [hordes/]: Loaded entity minecraft:husk as entity.minecraft.husk with weight 20, min day 30 and max day 50
+[07Jan2025 16:56:02.639] [main/INFO] [hordes/]: Loaded entity minecraft:stray as entity.minecraft.stray with weight 10, min day 40 and max day 50
+[07Jan2025 16:56:02.640] [main/INFO] [hordes/]: Loaded entity minecraft:cave_spider as entity.minecraft.cave_spider with weight 10, min day 40 and max day 50
+[07Jan2025 16:56:02.640] [main/INFO] [hordes/]: Loaded entity minecraft:witch as entity.minecraft.witch with weight 5, min day 40 and max day 50
+[07Jan2025 16:56:02.640] [main/INFO] [hordes/]: Loaded entity minecraft:pillager as entity.minecraft.pillager with weight 10, min day 40 and max day 50
+[07Jan2025 16:56:02.641] [main/INFO] [hordes/]: Loaded entity minecraft:zombified_piglin as entity.minecraft.zombified_piglin with weight 10, min day 40 and max day 50
+[07Jan2025 16:56:02.641] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 40 and max day 50
+[07Jan2025 16:56:02.642] [main/INFO] [hordes/]: Loaded entity minecraft:wither_skeleton as entity.minecraft.wither_skeleton with weight 10, min day 50 and max day 0
+[07Jan2025 16:56:02.642] [main/INFO] [hordes/]: Loaded entity minecraft:phantom as entity.minecraft.phantom with weight 5, min day 50 and max day 50
+[07Jan2025 16:56:02.642] [main/INFO] [hordes/]: Loaded entity minecraft:vindicator as entity.minecraft.vindicator with weight 10, min day 50 and max day 50
+[07Jan2025 16:56:02.643] [main/INFO] [hordes/]: Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 5, min day 40 and max day 40
+[07Jan2025 16:56:02.643] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 5, min day 50 and max day 50
+[07Jan2025 16:56:02.644] [main/INFO] [hordes/]: Loaded entity minecraft:evoker as entity.minecraft.evoker with weight 5, min day 50 and max day 50
+[07Jan2025 16:56:02.644] [main/INFO] [hordes/]: Loaded entity minecraft:piglin_brute as entity.minecraft.piglin_brute with weight 10, min day 60 and max day 0
+[07Jan2025 16:56:02.645] [main/INFO] [hordes/]: Loaded entity minecraft:cave_spider as entity.minecraft.cave_spider with weight 15, min day 60 and max day 0
+[07Jan2025 16:56:02.645] [main/INFO] [hordes/]: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 5, min day 60 and max day 0
+[07Jan2025 16:56:02.645] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 3, min day 60 and max day 0
+[07Jan2025 16:56:02.646] [main/INFO] [hordes/]: Loaded entity minecraft:phantom as entity.minecraft.phantom with weight 3, min day 60 and max day 0
+[07Jan2025 16:56:02.646] [main/INFO] [hordes/]: loaded horde table hordes:mixed_mobs
+[07Jan2025 16:56:02.646] [main/INFO] [hordes/]: Loaded entity minecraft:pillager as entity.minecraft.pillager with weight 15, min day 0 and max day 0
+[07Jan2025 16:56:02.647] [main/INFO] [hordes/]: Loaded entity minecraft:vindicator as entity.minecraft.vindicator with weight 10, min day 0 and max day 0
+[07Jan2025 16:56:02.647] [main/INFO] [hordes/]: Loaded entity minecraft:witch as entity.minecraft.witch with weight 5, min day 20 and max day 0
+[07Jan2025 16:56:02.647] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 5, min day 30 and max day 40
+[07Jan2025 16:56:02.648] [main/INFO] [hordes/]: Loaded entity minecraft:evoker as entity.minecraft.evoker with weight 3, min day 40 and max day 40
+[07Jan2025 16:56:02.648] [main/INFO] [hordes/]: Loaded entity minecraft:illusioner as entity.minecraft.illusioner with weight 5, min day 50 and max day 0
+[07Jan2025 16:56:02.649] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 3, min day 50 and max day 0
+[07Jan2025 16:56:02.649] [main/INFO] [hordes/]: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 5, min day 50 and max day 0
+[07Jan2025 16:56:02.650] [main/INFO] [hordes/]: loaded horde table hordes:illagers
+[07Jan2025 16:56:02.650] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton as entity.minecraft.skeleton with weight 10, min day 0 and max day 20
+[07Jan2025 16:56:02.650] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton as entity.minecraft.skeleton with weight 20, min day 0 and max day 30
+[07Jan2025 16:56:02.651] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton_horse as entity.minecraft.skeleton_horse with weight 5, min day 20 and max day 50
+[07Jan2025 16:56:02.651] [main/INFO] [hordes/]: Loaded entity minecraft:stray as entity.minecraft.stray with weight 10, min day 20 and max day 0
+[07Jan2025 16:56:02.651] [main/INFO] [hordes/]: Loaded entity minecraft:wither_skeleton as entity.minecraft.wither_skeleton with weight 10, min day 40 and max day 0
+[07Jan2025 16:56:02.652] [main/INFO] [hordes/]: Loaded entity minecraft:skeleton_horse as entity.minecraft.skeleton_horse with weight 5, min day 40 and max day 0
+[07Jan2025 16:56:02.652] [main/INFO] [hordes/]: loaded horde table hordes:skeletons
+[07Jan2025 16:56:02.653] [main/INFO] [hordes/]: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 30, min day 0 and max day 0
+[07Jan2025 16:56:02.653] [main/INFO] [hordes/]: loaded horde table hordes:fallback
+[07Jan2025 16:56:02.659] [main/INFO] [hordes/]: loaded horde script hordes:default
+[07Jan2025 16:56:02.660] [main/INFO] [hordes/]: Loading conversion tables
+[07Jan2025 16:56:02.660] [main/INFO] [hordes/]: Loading conversion table hordes:infection_conversions
+[07Jan2025 16:56:02.663] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.horse to entity.minecraft.zombie_horse with chance of 0.65
+[07Jan2025 16:56:02.663] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.piglin to entity.minecraft.zombified_piglin with chance of 0.75
+[07Jan2025 16:56:02.665] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.piglin_brute to entity.minecraft.zombified_piglin{Attributes:[{Base:50.0f,Name:"generic.max_health"}],chat_name:"entity.hordes.ZombifiedPiglinBrute.name",texture:"hordes:textures/entity/zombified_piglin_brute.png"} with chance of 0.35
+[07Jan2025 16:56:02.665] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.hoglin to entity.minecraft.zoglin with chance of 0.15
+[07Jan2025 16:56:02.666] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.wandering_trader to entity.minecraft.zombie_villager{VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieWanderingTrader.name",texture:"hordes:textures/entity/zombie_wandering_trader.png"} with chance of 0.75
+[07Jan2025 16:56:02.667] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.pillager to entity.minecraft.zombie_villager{Attributes:[{Base:24.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombiePillager.name",texture:"hordes:textures/entity/zombie_pillager.png"} with chance of 0.75
+[07Jan2025 16:56:02.667] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.vindicator to entity.minecraft.zombie_villager{Attributes:[{Base:24.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieVindicator.name",texture:"hordes:textures/entity/zombie_vindicator.png"} with chance of 0.35
+[07Jan2025 16:56:02.668] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.evoker to entity.minecraft.zombie_villager{Attributes:[{Base:24.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieEvoker.name",texture:"hordes:textures/entity/zombie_evoker.png"} with chance of 0.5
+[07Jan2025 16:56:02.668] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.illusioner to entity.minecraft.zombie_villager{Attributes:[{Base:32.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieIllusioner.name",texture:"hordes:textures/entity/zombie_illusioner.png"} with chance of 0.15
+[07Jan2025 16:56:02.669] [main/INFO] [hordes/]: Loaded conversion entity.minecraft.witch to entity.minecraft.zombie_villager{Attributes:[{Base:26.0f,Name:"generic.max_health"}],VillagerData:{type:"none"},chat_name:"entity.hordes.ZombieWitch.name",texture:"hordes:textures/entity/zombie_witch.png"} with chance of 0.25
+[07Jan2025 16:56:02.669] [main/INFO] [hordes/]: Loading immunity item list
+[07Jan2025 16:56:02.670] [main/INFO] [hordes/]: Loading immunity item list hordes:immunity_items
+[07Jan2025 16:56:02.670] [main/INFO] [hordes/]: Loaded immunity item minecraft:enchanted_golden_apple with duration 150
+[07Jan2025 16:56:02.670] [main/INFO] [hordes/]: Loading wearables protection list
+[07Jan2025 16:56:02.671] [main/INFO] [hordes/]: Loading wearables protection list hordes:immune_wearables
+[07Jan2025 16:56:02.673] [main/INFO] [hordes/]: Loaded wearable protection minecraft:leather_boots with modifier 0.95
+[07Jan2025 16:56:02.674] [main/INFO] [hordes/]: Loaded wearable protection minecraft:leather_leggings with modifier 0.95
+[07Jan2025 16:56:02.674] [main/INFO] [hordes/]: Loaded wearable protection minecraft:leather_chestplate with modifier 0.95
+[07Jan2025 16:56:02.675] [main/INFO] [hordes/]: Loaded wearable protection minecraft:leather_helmet with modifier 0.95
+[07Jan2025 16:56:02.675] [main/INFO] [hordes/]: Loaded wearable protection minecraft:chainmail_boots with modifier 0.95
+[07Jan2025 16:56:02.676] [main/INFO] [hordes/]: Loaded wearable protection minecraft:chainmail_leggings with modifier 0.95
+[07Jan2025 16:56:02.676] [main/INFO] [hordes/]: Loaded wearable protection minecraft:chainmail_chestplate with modifier 0.95
+[07Jan2025 16:56:02.677] [main/INFO] [hordes/]: Loaded wearable protection minecraft:chainmail_helmet with modifier 0.95
+[07Jan2025 16:56:02.677] [main/INFO] [hordes/]: Loaded wearable protection minecraft:iron_boots with modifier 0.9
+[07Jan2025 16:56:02.678] [main/INFO] [hordes/]: Loaded wearable protection minecraft:iron_leggings with modifier 0.9
+[07Jan2025 16:56:02.678] [main/INFO] [hordes/]: Loaded wearable protection minecraft:iron_chestplate with modifier 0.9
+[07Jan2025 16:56:02.678] [main/INFO] [hordes/]: Loaded wearable protection minecraft:iron_helmet with modifier 0.9
+[07Jan2025 16:56:02.679] [main/INFO] [hordes/]: Loaded wearable protection minecraft:golden_boots with modifier 0.9
+[07Jan2025 16:56:02.679] [main/INFO] [hordes/]: Loaded wearable protection minecraft:golden_leggings with modifier 0.9
+[07Jan2025 16:56:02.679] [main/INFO] [hordes/]: Loaded wearable protection minecraft:golden_chestplate with modifier 0.9
+[07Jan2025 16:56:02.680] [main/INFO] [hordes/]: Loaded wearable protection minecraft:golden_helmet with modifier 0.9
+[07Jan2025 16:56:02.680] [main/INFO] [hordes/]: Loaded wearable protection minecraft:diamond_boots with modifier 0.86
+[07Jan2025 16:56:02.680] [main/INFO] [hordes/]: Loaded wearable protection minecraft:diamond_leggings with modifier 0.86
+[07Jan2025 16:56:02.681] [main/INFO] [hordes/]: Loaded wearable protection minecraft:diamond_chestplate with modifier 0.86
+[07Jan2025 16:56:02.681] [main/INFO] [hordes/]: Loaded wearable protection minecraft:diamond_helmet with modifier 0.86
+[07Jan2025 16:56:02.682] [main/INFO] [hordes/]: Loaded wearable protection minecraft:netherite_boots with modifier 0.82
+[07Jan2025 16:56:02.682] [main/INFO] [hordes/]: Loaded wearable protection minecraft:netherite_leggings with modifier 0.82
+[07Jan2025 16:56:02.683] [main/INFO] [hordes/]: Loaded wearable protection minecraft:netherite_chestplate with modifier 0.82
+[07Jan2025 16:56:02.683] [main/INFO] [hordes/]: Loaded wearable protection minecraft:netherite_helmet with modifier 0.82
+[07Jan2025 16:56:02.683] [main/INFO] [hordes/]: Loaded wearable protection minecraft:turtle_helmet with modifier 0.75
+[07Jan2025 16:56:02.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[07Jan2025 16:56:02.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[07Jan2025 16:56:02.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[07Jan2025 16:56:02.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[07Jan2025 16:56:03.049] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[07Jan2025 16:56:03.083] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[07Jan2025 16:56:03.291] [Server thread/INFO] [Framework/]: Loading server configs...
+[07Jan2025 16:56:03.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[07Jan2025 16:56:03.947] [Server thread/INFO] [corgitaco.enhancedcelestials.EnhancedCelestials/]: Possible lunar events for dimension "minecraft:overworld" are [enhancedcelestials:super_moon, enhancedcelestials:blood_moon, enhancedcelestials:blue_moon, enhancedcelestials:super_harvest_moon, enhancedcelestials:harvest_moon, enhancedcelestials:super_blood_moon, enhancedcelestials:super_blue_moon].
+[07Jan2025 16:56:04.297] [Server thread/INFO] [incontrol/]: Reading rules from areas.json
+[07Jan2025 16:56:04.307] [Server thread/INFO] [incontrol/]: Reading rules from spawn.json
+[07Jan2025 16:56:04.316] [Server thread/INFO] [incontrol/]: Reading rules from summonaid.json
+[07Jan2025 16:56:04.330] [Server thread/INFO] [incontrol/]: Reading rules from loot.json
+[07Jan2025 16:56:04.334] [Server thread/INFO] [incontrol/]: Reading rules from experience.json
+[07Jan2025 16:56:04.335] [Server thread/INFO] [incontrol/]: Reading rules from phases.json
+[07Jan2025 16:56:04.337] [Server thread/INFO] [incontrol/]: Reading rules from effects.json
+[07Jan2025 16:56:04.341] [Server thread/INFO] [incontrol/]: Reading rules from breakevents.json
+[07Jan2025 16:56:04.343] [Server thread/INFO] [incontrol/]: Reading rules from placeevents.json
+[07Jan2025 16:56:04.349] [Server thread/INFO] [incontrol/]: Reading rules from rightclicks.json
+[07Jan2025 16:56:04.351] [Server thread/INFO] [incontrol/]: Reading rules from leftclicks.json
+[07Jan2025 16:56:04.357] [Server thread/INFO] [incontrol/]: Reading rules from spawner.json
+[07Jan2025 16:56:04.359] [Server thread/INFO] [incontrol/]: Reading rules from events.json
+[07Jan2025 16:56:04.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[07Jan2025 16:56:06.910] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Jan2025 16:56:06.912] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Jan2025 16:56:06.912] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Jan2025 16:56:07.771] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Jan2025 16:56:07.772] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Jan2025 16:56:07.826] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Jan2025 16:56:07.841] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Jan2025 16:56:07.984] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Jan2025 16:56:08.482] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Jan2025 16:56:09.019] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4538 ms
+[07Jan2025 16:56:09.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.818s)! For help, type "help"
+[07Jan2025 16:56:09.080] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[07Jan2025 16:56:09.097] [Server thread/WARN] [ModernFix/]: Dedicated server took 54.685 seconds to load
+[07Jan2025 16:56:12.475] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Starcrack_FW357 is 5f074e3f-0c21-46c2-a5f2-0e642c4b7708
+[07Jan2025 16:56:14.705] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Starcrack_FW357[/127.201.116.142:34181] logged in with entity id 201 at (183.3796721836999, 134.0, 10.746446703576574)
+[07Jan2025 16:56:14.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 joined the game
+[07Jan2025 16:56:15.403] [Server thread/INFO] [Jade/]: Syncing config to Starcrack_FW357 (5f074e3f-0c21-46c2-a5f2-0e642c4b7708)
+[07Jan2025 16:56:16.846] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2196ms or 43 ticks behind
+[07Jan2025 16:56:19.563] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=110, z=-342}
+[07Jan2025 16:56:19.565] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=109, z=-352}
+[07Jan2025 16:56:19.596] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=110, z=-352}
+[07Jan2025 16:56:19.597] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=110, z=-352}
+[07Jan2025 16:56:19.598] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=110, z=-352}
+[07Jan2025 16:56:19.599] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=109, z=-352}
+[07Jan2025 16:56:19.599] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"coffee_delight:coffee_wafer"}
+[07Jan2025 16:56:19.600] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=109, z=-352}
+[07Jan2025 16:56:19.600] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:rose_hip_pie"}
+[07Jan2025 16:56:19.601] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=109, z=-351}
+[07Jan2025 16:56:19.602] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:coffee"}
+[07Jan2025 16:56:19.603] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=109, z=-351}
+[07Jan2025 16:56:19.603] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:green_tea"}
+[07Jan2025 16:56:19.604] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=110, z=-351}
+[07Jan2025 16:56:19.605] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:popcorn"}
+[07Jan2025 16:56:19.605] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=110, z=-351}
+[07Jan2025 16:56:19.606] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:tortilla_chips"}
+[07Jan2025 16:56:19.607] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=110, z=-320}
+[07Jan2025 16:56:19.608] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=109, z=-318}
+[07Jan2025 16:56:19.609] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=110, z=-318}
+[07Jan2025 16:56:19.610] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=111, z=-318}
+[07Jan2025 16:56:19.610] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=111, z=-318}
+[07Jan2025 16:56:19.611] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=110, z=-318}
+[07Jan2025 16:56:19.612] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=109, z=-318}
+[07Jan2025 16:56:19.613] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=112, z=-318}
+[07Jan2025 16:56:19.614] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=112, z=-318}
+[07Jan2025 16:56:19.614] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=110, z=-342}
+[07Jan2025 16:56:19.615] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=109, z=-344}
+[07Jan2025 16:56:19.670] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=110, z=-344}
+[07Jan2025 16:56:19.672] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=111, z=-344}
+[07Jan2025 16:56:19.673] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=111, z=-344}
+[07Jan2025 16:56:19.673] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=110, z=-344}
+[07Jan2025 16:56:19.675] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=109, z=-344}
+[07Jan2025 16:56:19.676] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=112, z=-344}
+[07Jan2025 16:56:19.677] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=112, z=-344}
+[07Jan2025 16:56:19.677] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=110, z=-320}
+[07Jan2025 16:56:19.678] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-166, y=109, z=-310}
+[07Jan2025 16:56:19.678] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-166, y=110, z=-310}
+[07Jan2025 16:56:19.679] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=110, z=-310}
+[07Jan2025 16:56:19.680] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=110, z=-310}
+[07Jan2025 16:56:19.681] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=109, z=-310}
+[07Jan2025 16:56:19.681] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"coffee_delight:coffee_wafer"}
+[07Jan2025 16:56:19.682] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=109, z=-310}
+[07Jan2025 16:56:19.682] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:rose_hip_pie"}
+[07Jan2025 16:56:19.683] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=109, z=-311}
+[07Jan2025 16:56:19.683] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:coffee"}
+[07Jan2025 16:56:19.684] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=109, z=-311}
+[07Jan2025 16:56:19.685] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:green_tea"}
+[07Jan2025 16:56:19.685] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=110, z=-311}
+[07Jan2025 16:56:19.686] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:popcorn"}
+[07Jan2025 16:56:19.687] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=110, z=-311}
+[07Jan2025 16:56:19.687] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:tortilla_chips"}
+[07Jan2025 16:56:34.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2346ms or 46 ticks behind
+[07Jan2025 16:59:33.459] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Athryus97 is 187f4ffb-f36f-433a-beb8-599521864f1f
+[07Jan2025 16:59:35.418] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Athryus97[/127.201.116.142:52595] logged in with entity id 903 at (182.69536966582123, 132.0, 9.300000011920929)
+[07Jan2025 16:59:35.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 joined the game
+[07Jan2025 16:59:35.702] [Server thread/INFO] [Jade/]: Syncing config to Athryus97 (187f4ffb-f36f-433a-beb8-599521864f1f)
+[07Jan2025 16:59:46.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[07Jan2025 17:00:01.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[07Jan2025 17:03:33.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 got cut in half by a Mechanical Saw
+[07Jan2025 17:08:48.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 got cut in half by a Mechanical Saw
+[07Jan2025 17:10:44.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 got cut in half by a Mechanical Saw
+[07Jan2025 17:10:54.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[07Jan2025 17:17:53.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[07Jan2025 17:20:10.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 was shot by Skeleton
+[07Jan2025 17:21:27.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 tried to swim in lava
+[07Jan2025 17:22:54.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[07Jan2025 17:26:43.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 fell from a high place
+[07Jan2025 17:27:12.169] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/12777, l='ServerLevel[New World]', x=94.21, y=20.00, z=12.26] died: Zombie Player was shot by Athryus97
+[07Jan2025 17:27:20.408] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/31, l='ServerLevel[New World]', x=81.66, y=18.00, z=37.83] died: Zombie Player fell from a high place
+[07Jan2025 17:30:18.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to Athryus97]
+[07Jan2025 17:32:52.962] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13, y=-9, z=22} BlockPos{x=10, y=1, z=-16}
+[07Jan2025 17:33:01.811] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13, y=-9, z=22} BlockPos{x=10, y=1, z=-16}
+[07Jan2025 17:33:12.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-13, y=-9, z=22} BlockPos{x=10, y=-5, z=-16}
+[07Jan2025 17:33:56.811] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Athryus97 lost connection: Disconnected
+[07Jan2025 17:33:56.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 left the game
+[07Jan2025 17:33:59.122] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Athryus97 is 187f4ffb-f36f-433a-beb8-599521864f1f
+[07Jan2025 17:34:01.152] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Athryus97[/127.201.116.142:37879] logged in with entity id 19642 at (12.128176299105222, -6.0, -15.022967703385731)
+[07Jan2025 17:34:01.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 joined the game
+[07Jan2025 17:34:01.281] [Server thread/INFO] [Jade/]: Syncing config to Athryus97 (187f4ffb-f36f-433a-beb8-599521864f1f)
+[07Jan2025 17:34:53.317] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12, y=-7, z=-17} BlockPos{x=11, y=-7, z=-12}
+[07Jan2025 17:34:53.465] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12, y=-7, z=-17} BlockPos{x=11, y=-7, z=-11}
+[07Jan2025 17:39:20.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Applied effect Night Vision to Starcrack_FW357]
+[07Jan2025 17:40:18.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 has made the advancement [Cover Me with Diamonds]
+[07Jan2025 17:44:23.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 has made the advancement [Penteconter]
+[07Jan2025 17:49:01.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Spectator Mode]
+[07Jan2025 17:49:04.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[07Jan2025 17:50:02.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Spectator Mode]
+[07Jan2025 17:50:07.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[07Jan2025 17:51:13.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Spectator Mode]
+[07Jan2025 17:51:16.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[07Jan2025 17:52:14.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 was obliterated by a sonically-charged shriek
+[07Jan2025 17:52:31.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to 190.500000, -49.500000, 49.500000]
+[07Jan2025 17:52:56.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to 181.500000, 90.500000, 86.500000]
+[07Jan2025 17:53:01.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the weather to clear]
+[07Jan2025 17:53:01.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[07Jan2025 17:54:16.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[07Jan2025 17:57:27.810] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=110, z=-342}
+[07Jan2025 17:57:27.812] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=109, z=-352}
+[07Jan2025 17:57:27.812] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=110, z=-352}
+[07Jan2025 17:57:27.813] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=110, z=-352}
+[07Jan2025 17:57:27.813] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=110, z=-352}
+[07Jan2025 17:57:27.813] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=109, z=-352}
+[07Jan2025 17:57:27.814] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"coffee_delight:coffee_wafer"}
+[07Jan2025 17:57:27.814] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=109, z=-352}
+[07Jan2025 17:57:27.814] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:rose_hip_pie"}
+[07Jan2025 17:57:27.814] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=109, z=-351}
+[07Jan2025 17:57:27.814] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:coffee"}
+[07Jan2025 17:57:27.815] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=109, z=-351}
+[07Jan2025 17:57:27.815] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:green_tea"}
+[07Jan2025 17:57:27.815] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=110, z=-351}
+[07Jan2025 17:57:27.815] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:popcorn"}
+[07Jan2025 17:57:27.816] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=110, z=-351}
+[07Jan2025 17:57:27.816] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:tortilla_chips"}
+[07Jan2025 17:57:27.818] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=110, z=-320}
+[07Jan2025 17:57:27.819] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=109, z=-318}
+[07Jan2025 17:57:27.819] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=110, z=-318}
+[07Jan2025 17:57:27.820] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=111, z=-318}
+[07Jan2025 17:57:27.820] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=111, z=-318}
+[07Jan2025 17:57:27.821] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=110, z=-318}
+[07Jan2025 17:57:27.821] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=109, z=-318}
+[07Jan2025 17:57:27.822] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=112, z=-318}
+[07Jan2025 17:57:27.822] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-205, y=112, z=-318}
+[07Jan2025 17:57:27.822] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=110, z=-342}
+[07Jan2025 17:57:27.823] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=109, z=-344}
+[07Jan2025 17:57:27.823] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=110, z=-344}
+[07Jan2025 17:57:27.823] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=111, z=-344}
+[07Jan2025 17:57:27.824] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=111, z=-344}
+[07Jan2025 17:57:27.824] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=110, z=-344}
+[07Jan2025 17:57:27.824] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=109, z=-344}
+[07Jan2025 17:57:27.825] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=112, z=-344}
+[07Jan2025 17:57:27.825] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=112, z=-344}
+[07Jan2025 17:57:27.825] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-165, y=110, z=-320}
+[07Jan2025 17:57:27.826] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-166, y=109, z=-310}
+[07Jan2025 17:57:27.826] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-166, y=110, z=-310}
+[07Jan2025 17:57:27.827] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=110, z=-310}
+[07Jan2025 17:57:27.827] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=110, z=-310}
+[07Jan2025 17:57:27.827] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=109, z=-310}
+[07Jan2025 17:57:27.828] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"coffee_delight:coffee_wafer"}
+[07Jan2025 17:57:27.830] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=109, z=-310}
+[07Jan2025 17:57:27.831] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:rose_hip_pie"}
+[07Jan2025 17:57:27.831] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=109, z=-311}
+[07Jan2025 17:57:27.831] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:coffee"}
+[07Jan2025 17:57:27.831] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=109, z=-311}
+[07Jan2025 17:57:27.832] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"farmersrespite:green_tea"}
+[07Jan2025 17:57:27.833] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-168, y=110, z=-311}
+[07Jan2025 17:57:27.833] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:popcorn"}
+[07Jan2025 17:57:27.834] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-167, y=110, z=-311}
+[07Jan2025 17:57:27.834] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"culturaldelights:tortilla_chips"}
+[07Jan2025 18:03:16.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was slain by Zombie
+[07Jan2025 18:03:40.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[07Jan2025 18:03:53.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[07Jan2025 18:05:15.216] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/34900, l='ServerLevel[New World]', x=13.50, y=-2.00, z=-9.31] died: Zombie Player was shot by Athryus97
+[07Jan2025 18:05:45.082] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=11, y=-2, z=-1}
+[07Jan2025 18:05:45.133] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=11, y=-3, z=-2}
+[07Jan2025 18:05:45.184] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=11, y=-3, z=-3}
+[07Jan2025 18:05:45.435] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=11, y=-3, z=-2}
+[07Jan2025 18:05:45.586] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=11, y=-3, z=-2}
+[07Jan2025 18:05:45.636] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=11, y=-3, z=-3}
+[07Jan2025 18:05:45.836] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=11, y=-3, z=-2}
+[07Jan2025 18:05:47.438] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=2, z=-2}
+[07Jan2025 18:06:02.491] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=-3, z=-15}
+[07Jan2025 18:06:25.992] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-3, y=-23, z=6}
+[07Jan2025 18:06:28.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to Athryus97]
+[07Jan2025 18:07:01.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 has made the advancement [Sneak 100]
+[07Jan2025 18:09:48.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was slain by Warden
+[07Jan2025 18:10:52.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 was killed
+[07Jan2025 18:10:52.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Killed Starcrack_FW357]
+[07Jan2025 18:12:01.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 fell from a high place
+[07Jan2025 18:17:36.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[07Jan2025 18:17:56.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[07Jan2025 18:18:59.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[07Jan2025 18:19:10.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[07Jan2025 18:19:29.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[07Jan2025 18:19:49.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[07Jan2025 18:20:15.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Applied effect Strength to Starcrack_FW357]
+[07Jan2025 18:21:49.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[07Jan2025 18:22:04.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 tried to swim in lava
+[07Jan2025 18:22:22.010] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/47793, l='ServerLevel[New World]', x=92.69, y=16.23, z=15.52] died: Zombie Player burned to death
+[07Jan2025 18:24:26.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 tried to swim in lava
+[07Jan2025 18:24:39.513] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Starcrack_FW357'/48890, l='ServerLevel[New World]', x=199.26, y=139.00, z=16.64] died: Zombie Player tried to swim in lava
+[07Jan2025 18:33:40.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[07Jan2025 18:33:53.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[07Jan2025 18:33:59.765] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@38e3b2a3]Trying to start horde event on day 80 with nextDay 80 and time 18000
+[07Jan2025 18:33:59.769] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@12dc9cad
+[07Jan2025 18:33:59.771] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 70
+[07Jan2025 18:33:59.771] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 70
+[07Jan2025 18:33:59.772] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 70
+[07Jan2025 18:33:59.772] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 70
+[07Jan2025 18:33:59.838] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 80
+[07Jan2025 18:33:59.838] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 80
+[07Jan2025 18:33:59.840] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 80
+[07Jan2025 18:33:59.840] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}]}} to hordespawn on day 80
+[07Jan2025 18:37:02.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 fell from a high place
+[07Jan2025 18:42:01.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[07Jan2025 18:42:09.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[07Jan2025 18:42:14.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[07Jan2025 18:42:47.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[07Jan2025 18:45:21.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 tried to swim in lava
+[07Jan2025 18:45:25.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 fell from a high place
+[07Jan2025 18:48:33.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 was processed by Crushing Wheels
+[07Jan2025 18:49:25.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to -1617.500000, 78.500000, -763.500000]
+[07Jan2025 18:49:27.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[07Jan2025 18:49:27.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the weather to clear]
+[07Jan2025 18:49:46.305] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:shipwreck_beached took 315 ms
+[07Jan2025 18:49:53.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to -1871.500000, 78.000000, 112.500000]
+[07Jan2025 18:49:53.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3805ms or 76 ticks behind
+[07Jan2025 18:49:58.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[07Jan2025 18:50:04.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[07Jan2025 18:50:22.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5090ms or 101 ticks behind
+[07Jan2025 18:52:11.288] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:shipwreck took 10 ms
+[07Jan2025 18:52:16.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to -2527.500000, 64.000000, -767.500000]
+[07Jan2025 18:52:16.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2152ms or 43 ticks behind
+[07Jan2025 18:52:19.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[07Jan2025 18:54:17.920] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:shipwreck_beached took 39 ms
+[07Jan2025 18:54:20.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to -1871.500000, 44.611029, 112.500000]
+[07Jan2025 18:54:32.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to 181.500000, 90.500000, 86.500000]
+[07Jan2025 18:54:38.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[07Jan2025 18:56:59.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Athryus97> tghj
+[07Jan2025 19:00:05.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[07Jan2025 19:01:09.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to -7.500000, 98.500000, 225.500000]
+[07Jan2025 19:02:40.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to 181.500000, 90.500000, 86.500000]
+[07Jan2025 19:08:14.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 tried to swim in lava
+[07Jan2025 19:08:26.915] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Starcrack_FW357'/77686, l='ServerLevel[New World]', x=198.41, y=139.00, z=18.02] died: Zombie Player tried to swim in lava
+[07Jan2025 19:12:11.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[07Jan2025 19:12:11.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the weather to clear]
+[07Jan2025 19:14:17.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 got cut in half by a Mechanical Saw
+[07Jan2025 19:14:22.942] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/81152, l='ServerLevel[New World]', x=174.51, y=134.00, z=19.52] died: Zombie Player was slain by Starcrack_FW357
+[07Jan2025 19:24:24.459] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/62272, l='ServerLevel[New World]', x=202.41, y=65.00, z=77.86] died: Zombie Player fell from a high place
+[07Jan2025 19:24:42.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[07Jan2025 19:25:03.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[07Jan2025 19:25:10.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[07Jan2025 19:36:07.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[07Jan2025 19:36:34.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 drowned
+[07Jan2025 19:46:42.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[07Jan2025 20:00:34.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 tried to swim in lava
+[07Jan2025 20:00:46.711] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Starcrack_FW357'/104602, l='ServerLevel[New World]', x=199.07, y=139.00, z=16.65] died: Zombie Player tried to swim in lava
+[07Jan2025 20:00:52.063] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@4a3a35f0]Trying to start horde event on day 82 with nextDay 80 and time 18000
+[07Jan2025 20:00:52.064] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@6b96cf4d
+[07Jan2025 20:00:52.064] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 70
+[07Jan2025 20:00:52.064] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 70
+[07Jan2025 20:00:52.065] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 70
+[07Jan2025 20:00:52.065] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 70
+[07Jan2025 20:00:52.123] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 80
+[07Jan2025 20:00:52.124] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 80
+[07Jan2025 20:00:52.124] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 80
+[07Jan2025 20:00:52.125] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 80
+[07Jan2025 20:01:13.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[07Jan2025 20:02:17.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was slain by Husk
+[07Jan2025 20:02:21.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[07Jan2025 20:02:27.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[07Jan2025 20:03:57.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 fell from a high place
+[07Jan2025 20:04:18.214] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/105980, l='ServerLevel[New World]', x=145.51, y=89.00, z=90.49] died: Zombie Player was slain by Athryus97
+[07Jan2025 20:07:37.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 tried to swim in lava
+[07Jan2025 20:07:50.265] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/109481, l='ServerLevel[New World]', x=159.70, y=93.00, z=148.58] died: Zombie Player tried to swim in lava
+[07Jan2025 20:12:14.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Athryus97> w
+[07Jan2025 20:13:21.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[07Jan2025 20:18:44.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
+[07Jan2025 20:18:54.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[07Jan2025 20:19:06.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 fell from a high place
+[07Jan2025 20:23:58.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]
+[07Jan2025 20:25:38.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 tried to swim in lava
+[07Jan2025 20:25:51.010] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/121227, l='ServerLevel[New World]', x=96.37, y=18.00, z=9.47] died: Zombie Player tried to swim in lava
+[07Jan2025 20:33:52.668] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Athryus97 lost connection: Disconnected
+[07Jan2025 20:33:52.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 left the game
+[07Jan2025 20:33:52.716] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Starcrack_FW357 lost connection: Disconnected
+[07Jan2025 20:33:52.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 left the game
+[07Jan2025 20:34:23.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07Jan2025 20:34:23.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Jan2025 20:34:23.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Jan2025 20:34:23.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Jan2025 20:34:24.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[07Jan2025 20:34:24.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/lostcities:lostcity
+[07Jan2025 20:34:24.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[07Jan2025 20:34:24.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[07Jan2025 20:34:24.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Jan2025 20:34:24.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[07Jan2025 20:34:24.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Jan2025 20:34:24.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Jan2025 20:34:24.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Jan2025 20:34:24.418] [Server thread/INFO] [Framework/]: Unloading server configs...
+[07Jan2025 20:34:24.419] [Server thread/INFO] [Framework/]: Finished unloading server configs
