@@ -6773,9 +6773,27 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/brass_hull": {
+    "criteria": {
+      "has_item": "2025-01-07 16:33:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-01-07 16:33:51 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/industrial_iron_catwalk_railing_from_stonecutting": {
     "criteria": {
       "has_item": "2025-01-07 15:46:16 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/brass_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-07 16:33:51 +0000"
     },
     "done": true
   },

@@ -881,3 +881,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jan2025 16:30:13.118] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/83781, l='ServerLevel[New World]', x=156.03, y=94.00, z=148.83] died: Zombie Player tried to swim in lava
 [07Jan2025 16:31:51.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
 [07Jan2025 16:31:58.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[07Jan2025 16:41:38.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to 680.500000, 60.500000, -15.500000]
+[07Jan2025 16:42:35.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Spectator Mode]
+[07Jan2025 16:42:42.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]

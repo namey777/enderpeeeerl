@@ -11005,3 +11005,10 @@ java.lang.Throwable: null
 [07Jan2025 16:30:44.120] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
 [07Jan2025 16:31:51.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Creative Mode]
 [07Jan2025 16:31:58.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
+[07Jan2025 16:35:44.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[07Jan2025 16:35:44.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[07Jan2025 16:40:44.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[07Jan2025 16:40:44.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[07Jan2025 16:41:38.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Teleported Starcrack_FW357 to 680.500000, 60.500000, -15.500000]
+[07Jan2025 16:42:35.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Spectator Mode]
+[07Jan2025 16:42:42.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set own game mode to Survival Mode]
