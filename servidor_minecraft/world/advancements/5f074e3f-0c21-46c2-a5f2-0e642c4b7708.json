@@ -6737,6 +6737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-01-07 16:45:42 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/industrial_iron_ladder_from_stonecutting": {
     "criteria": {
       "has_item": "2025-01-07 15:46:16 +0000"

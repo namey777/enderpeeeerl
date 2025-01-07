@@ -5965,6 +5965,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-01-07 16:42:23 +0000"
+    },
+    "done": false
+  },
   "create:rose_quartz": {
     "criteria": {
       "0": "2025-01-07 16:13:13 +0000"
