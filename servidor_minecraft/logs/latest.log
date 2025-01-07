@@ -802,3 +802,36 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jan2025 15:31:55.237] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8632ms or 172 ticks behind
 [07Jan2025 15:32:18.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8724ms or 174 ticks behind
 [07Jan2025 15:32:42.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8325ms or 166 ticks behind
+[07Jan2025 15:33:12.939] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 70
+[07Jan2025 15:33:12.940] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 70
+[07Jan2025 15:33:12.940] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 70
+[07Jan2025 15:33:12.941] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 70
+[07Jan2025 15:33:16.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18832ms or 376 ticks behind
+[07Jan2025 15:33:39.826] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8821ms or 176 ticks behind
+[07Jan2025 15:34:03.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9116ms or 182 ticks behind
+[07Jan2025 15:34:27.960] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9055ms or 181 ticks behind
+[07Jan2025 15:34:33.164] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 70
+[07Jan2025 15:34:33.164] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=25,minDay=50,maxDay=0] to hordespawn on day 70
+[07Jan2025 15:34:33.165] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zoglin"}} to hordespawn on day 70
+[07Jan2025 15:34:33.165] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=50,maxDay=0]{{Passengers:[{HandItems:[{Count:1,id:"trident"}],id:"drowned"}],id:"minecraft:zombie_horse"}} to hordespawn on day 70
+[07Jan2025 15:34:53.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10607ms or 212 ticks behind
+[07Jan2025 15:35:19.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11409ms or 228 ticks behind
+[07Jan2025 15:35:45.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10943ms or 218 ticks behind
+[07Jan2025 15:36:11.740] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10885ms or 217 ticks behind
+[07Jan2025 15:36:35.081] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8376ms or 167 ticks behind
+[07Jan2025 15:36:53.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was slain by Husk
+[07Jan2025 15:37:07.884] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/8, l='ServerLevel[New World]', x=5.24, y=102.00, z=-6.77] died: Zombie Player was impaled by Drowned
+[07Jan2025 15:37:17.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 was impaled by Drowned
+[07Jan2025 15:37:45.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was impaled by Drowned
+[07Jan2025 15:38:10.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 was slain by Zoglin
+[07Jan2025 15:38:36.374] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/43582, l='ServerLevel[New World]', x=7.30, y=102.00, z=0.77] died: Zombie Player was slain by Athryus97
+[07Jan2025 15:40:17.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 was slain by Zombie Player
+[07Jan2025 15:41:14.969] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Athryus97'/42086, l='ServerLevel[New World]', x=206.17, y=88.00, z=80.70] died: Zombie Player was slain by Starcrack_FW357
+[07Jan2025 15:41:35.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 was slain by Zombie Player
+[07Jan2025 15:41:37.019] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Starcrack_FW357'/44291, l='ServerLevel[New World]', x=176.79, y=87.00, z=103.17] died: Zombie Player was slain by Starcrack_FW357
+[07Jan2025 15:42:31.317] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Starcrack_FW357'/47235, l='ServerLevel[New World]', x=215.50, y=103.63, z=62.69] died: Zombie Player was frozen to death by Starcrack_FW357
+[07Jan2025 15:42:39.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Athryus97 tried to swim in lava
+[07Jan2025 15:43:12.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Starcrack_FW357 froze to death
+[07Jan2025 15:43:35.267] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Starcrack_FW357'/42818, l='ServerLevel[New World]', x=145.52, y=126.00, z=31.48] died: Zombie Player froze to death
+[07Jan2025 15:43:58.734] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Starcrack_FW357'/50905, l='ServerLevel[New World]', x=215.41, y=103.00, z=62.39] died: Zombie Player froze to death
+[07Jan2025 15:46:19.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Starcrack_FW357: Set the time to 1000]

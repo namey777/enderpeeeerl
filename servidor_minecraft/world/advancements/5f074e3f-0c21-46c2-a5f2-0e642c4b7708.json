@@ -6677,5 +6677,137 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/industrial_iron_bars_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-07 15:46:16 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_bars_overlay_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-07 15:46:16 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/link_and_pin": {
+    "criteria": {
+      "has_item": "2025-01-07 15:46:16 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_hull_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-07 15:46:16 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_door": {
+    "criteria": {
+      "has_item": "2025-01-07 15:46:16 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/misc/industrial_iron_nugget_from_industrial_iron_ingot": {
+    "criteria": {
+      "has_industrial_iron_ingot": "2025-01-07 15:46:16 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_support_wedge_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-07 15:46:16 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_catwalk_stairs_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-07 15:46:16 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_catwalk_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-07 15:46:16 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_bars": {
+    "criteria": {
+      "has_item": "2025-01-07 15:46:16 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_ladder_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-07 15:46:16 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_hull": {
+    "criteria": {
+      "has_item": "2025-01-07 15:46:16 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_support": {
+    "criteria": {
+      "has_item": "2025-01-07 15:46:16 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_trapdoor": {
+    "criteria": {
+      "has_item": "2025-01-07 15:46:16 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/misc/industrial_iron_ingot_from_industrial_iron_block": {
+    "criteria": {
+      "has_industrial_iron_block": "2025-01-07 15:46:16 +0000"
+    },
+    "done": true
+  },
+  "create:compacting": {
+    "criteria": {
+      "0": "2025-01-07 15:45:50 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_catwalk_railing_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-07 15:46:16 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/industrial_iron_window": {
+    "criteria": {
+      "has_item": "2025-01-07 15:46:16 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/misc/industrial_iron_block": {
+    "criteria": {
+      "has_industrial_iron_ingot": "2025-01-07 15:46:16 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_mesh_fence_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-07 15:46:16 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/small_buffer": {
+    "criteria": {
+      "has_item": "2025-01-07 15:46:16 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/transportation/conductor_vent_from_industrial_iron_block_stonecutting": {
+    "criteria": {
+      "has_industrial_iron_block": "2025-01-07 15:46:16 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
