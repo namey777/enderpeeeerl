@@ -5420,6 +5420,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-01-01 20:13:54 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_creeper": {
     "criteria": {
       "has_item": "2025-01-01 19:26:03 +0000"
