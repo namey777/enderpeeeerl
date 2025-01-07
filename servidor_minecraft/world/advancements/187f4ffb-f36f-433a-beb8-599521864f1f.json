@@ -16,13 +16,17 @@
       "minecraft:cherry_grove": "2024-12-29 20:19:46 +0000",
       "minecraft:sunflower_plains": "2024-12-29 20:20:40 +0000",
       "minecraft:birch_forest": "2024-12-26 18:23:14 +0000",
+      "minecraft:beach": "2025-01-07 15:09:00 +0000",
       "minecraft:dark_forest": "2024-12-29 16:35:38 +0000",
       "minecraft:river": "2024-12-29 15:52:16 +0000",
       "minecraft:dripstone_caves": "2024-12-26 18:46:19 +0000",
       "minecraft:grove": "2024-12-26 18:51:38 +0000",
+      "minecraft:swamp": "2025-01-07 15:19:47 +0000",
       "minecraft:jagged_peaks": "2024-12-26 20:25:57 +0000",
       "minecraft:forest": "2024-12-26 20:01:07 +0000",
       "minecraft:lush_caves": "2024-12-26 18:48:13 +0000",
+      "minecraft:windswept_forest": "2025-01-07 15:16:07 +0000",
+      "minecraft:ocean": "2025-01-07 15:08:32 +0000",
       "minecraft:flower_forest": "2024-12-29 20:25:56 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-26 18:26:43 +0000",
       "minecraft:deep_dark": "2024-12-29 17:20:00 +0000",
@@ -1623,6 +1627,7 @@
       "minecraft:magma_cube": "2024-12-31 19:17:02 +0000",
       "minecraft:spider": "2024-12-26 20:31:14 +0000",
       "minecraft:creeper": "2024-12-29 16:23:21 +0000",
+      "minecraft:slime": "2025-01-07 15:22:14 +0000",
       "minecraft:zombified_piglin": "2024-12-30 20:14:17 +0000",
       "minecraft:witch": "2024-12-26 20:34:02 +0000",
       "minecraft:wither_skeleton": "2024-12-31 19:17:10 +0000",
@@ -5705,6 +5710,66 @@
   "create:recipes/misc/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
     "criteria": {
       "has_item": "2025-01-01 20:13:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 15:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 15:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 15:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 15:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2025-01-07 15:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-01-07 15:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 15:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 15:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 15:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 15:12:32 +0000"
     },
     "done": true
   },
